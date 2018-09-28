@@ -1,1142 +1,205 @@
-﻿@
-0{2{0{QURTARAN{bax qurtarıcı.{
-7{0{1{DÜNYA{is. [ər.] 1. Bir küll olaraq maddəninbütün formalarının məcmusu; kainat.{
-2{4{0{ƏQRƏBA{is. [ər.] Qohumlar (çox vaxt“qohum-əqrəba” şəklində işlənir).{
-2{4{1{ƏYLƏNCƏ{is. 1. Ürəyi əyləndirəcək, könlüaçacaq şey, əylənmək üçün vasitə.{
-1{7{0{CƏMLƏŞMƏ{“Cəmləşmək”dən f.is.{
-4{6{1{ALƏM{is. [ər.] 1. Kainat, dünya, yer üzü.Qış günü qurtarmaqda idi, üfüqlərdən qatıbir qaranlıq aləmə yayılırdı.{
-8{6{1{BƏHS{is. [ər.] 1. Bir şey haqqında ətraflıdanışma, müzakirə etmə, fikir yeritmə.{
-8{6{0{BAŞLAMAQ{f. 1. Bir işə girişmək, şüruetmək. İşə başlamaq.{
-6{9{0{SƏSLƏMƏK{f. Çağırmaq, haraylamaq.Uşağı səslə, gəlsin.{
-6{9{1{SÜRTÜLMƏK{1. “Sürtmək”dən məch.Aynabəndin döşəməsi ayaqlar altında o qədərsürtülmüşdü ki, taxtaların talaşası çıxmışdı.{
-1{12{0{ZƏHLƏTÖKƏN{sif. Öz hərəkət və sözləriilə adamı təngə gətirən, bezikdirən, usandıran,cana gətirən, bıqdırıcı.{
-5{16{0{PƏRVAZ{is. [fars.]: pərvaz etmək – b a xpərvazlanmaq.{
-10{14{1{DÜZƏN{is. Düz yer, düz, çöl. Mal-qaradüzəndə gəzir.{
-10{14{0{DƏSTƏ{is. [fars.] köhn. Gecə, yaxud gündüzsaat on iki.{
-11{0{1{QARDAŞLAŞMA{1. “Qardaşlaşmaq”danf.is.2. is. Müharibə edən orduların əsgərlərininimperialist müharibələri əleyhinə etirazəlaməti olaraq bir-biri ilə yoldaşcasına əlaqəyəgirişməsi.{
-9{3{0{KƏDƏRLƏNMƏ{“Kədərlənmək”dən f.is.{
-4{11{1{İLAN{is. 1. Bədəni uzun və qıvrılanayaqsız, adətən zəhərli dişləri olan sürünənheyvan.{
-12{12{1{DUSTAQ{is. 1. Həbs olunmuş, yaxud dustaqxanadasaxlanılan adam; məhbus.{
-14{10{1{GÖNDƏRMƏ{“Göndərmək”dən f.is.{
-18{0{1{QƏRƏZ{ara s. [ər.] Xülasə, sözün qısası(bəzən “ki” bağlayıcısı ilə birlikdə).{
-1{12{1{ZƏHƏR{is. [fars.] 1. Canlı orqanizmi zəhərləndirəbilən maddə; ağı.{
-10{1{0{QAZMAQ{f. 1. Hər hansı bir alət ilə torpağıqaldırıb yeri oymaq, oyuq açmaq, dərinləşdirmək,çuxurlaşdırmaq.{
-0{10{0{ÜRƏK{is. 1. İnsanda qan dövranının, döşboşluğunun sol tərəfində yerləşən əzələli kisəşəklində mərkəzi orqanı; qəlb.{
-17{1{0{NƏZAKƏT{is. [ər., əsli fars.] 1. Tərbiyə,ədəb, mərifət; ədəb qaydaları.{
-22{0{1{ZƏRƏRSİZ{sif. Zərəri toxunmayan, zərəriolmayan; ziyansız.{
-20{0{1{XARAB{sif. [ər.] 1. Pis, yaman. [KərbəlayıCəfər:] .{
-7{18{0{MƏMNU{is. [ər.] Qadağan, qadağan edilmiş,yasaq.{
-21{6{0{ZİNDAN{is. [fars.] 1. Keçmiş zamanlarda:qaranlıq və müdhiş dustaqxana (adətən yerinaltında olardı).{
-13{11{0{DÖZÜMSÜZ{sif. Dözümü olmayan; səbirsiz,davamsız, tab gətirə bilməyən, tabsız.{
-25{1{1{YANACAQ{is. 1. Yandıqda istilik, alov verənhər şey (odun, kömür və s.{
-17{6{1{YORULMA{“Yorulmaq”dan f.is.{
-14{5{1{LAVA{[ital.] 1. Vulkanın ağzından çıxanərgin odlu kütlə.{
-19{10{1{QÜDRƏT{is. [ər.] 1. Böyük qüvvət, güc.Vətənimizin hərbi və iqtisadi qüdrəti gündən-günə artır.{
-7{18{1{MAYA{is. [fars.] 1. Bəzi qidalarda qıcqırmaəmələ gətirən maddə.{
-0{15{0{HƏRF{is. [ər.] 1. Hər hansı bir dilin əlifbasındaadətən müəyyən səsə uyğun gələnyazı işarəsi; əlifbanı təşkil edən işarələrdənhər biri.{
-16{14{0{TƏLƏ{is. Vəhşi və ov heyvanlarını və yaquşları, eləcə də siçan və s.{
-4{21{0{QOÇAQ{sif. İgid, şücaətli, rəşadətli, qorxmaz;mərd.{
-4{19{0{ASTA{zərf Yavaş, yavaşca, aram ilə,üsullu, ağır.{
-24{2{0{PARA{is. Pul. Keçən gün [Zeynal] səhərevdən çıxarkən vədə vermişdi ki, bu gün ənaşağısı üç yüz manat para alacaqdır.{
-16{14{1{TƏZƏLƏNMƏ{“Təzələnmək”dən f.is.{
-10{21{0{DOĞRANMA{“Doğranmaq”dan f.is.{
-13{19{0{MƏZƏMMƏT{is. [ər.] Danlama, qınama,danlayış, töhmət.{
-19{18{1{ZƏYLƏTMƏ{“Zəylətmək”dən f.is.{
-16{25{0{ZƏRƏR{is. [ər.] Ziyan. Bunun xeyri varki, zərəri yoxdur; Gülməli insanlar həyatdaçoxdur.{
-4{21{1{QAÇMA{“Qaçmaq”dan f.is.{
-17{24{1{LƏNG{[fars.] sif. 1. Ağır, asta, yavaş; ağırtərpənən.{
-1{25{0{RƏŞADƏT{is. [ər.] İgidlik, qoçaqlıq, qəhrəmanlıq.{
-24{4{0{PARDAQ{is. [fars. “pərdaxt”dan] Düz səthüzərində parıltı, parlaqlıq, cila.{
-2{19{1{KÖÇÜRMƏK{f. 1. Birinin yaşayış yerinidəyişdirmək, bir yerdən başqa yerə daşındırmaq.{
-6{23{1{ÜRƏKDƏN{zərf Can və könüldən, səmimiolaraq; qəlbən.{
-2{29{0{QANUN{is. [ər. əsli yun.] 1. İctimai vəhüquqi münasibətlərin hər hansı bir sahəsininizama salmaq üçün dövlət tərəfindənmüəyyən edilən qərar, nizamnamə.{
-4{27{1{YÜNGÜLLƏŞMƏ{“Yüngülləşmək”dən f.is.{
-28{3{1{MANAT{is. Azərbaycanda yüz qəpiyəbərabər olan əsas pul vahidi.{
-0{35{0{VURUŞDURMA{“Vuruşdurmaq”dan f.is.{
-0{37{0{HEYKƏLTƏRAŞ{is. [ər. heykəl və fars....təraş] Heykəltəraşlıq əsərləri yaradansənətkar.{
-18{22{0{TƏƏSSÜF{is. [ər.] 1. Kədərlənmə, acıma,heyifsilənmə, təəssüflənmə; kədər hissi.{
-3{31{0{GÜNƏŞ{is. 1. Planet sisteminin işıq və istilikverən, közərmiş böyük şar şəklindəolan mərkəzi göy cismi; gün.{
-9{29{1{PARÇALAMAQ{f. 1. Parça-parça etmək,tikə-tikə doğrayıb, kəsib paralamaq; doğramaq.{
-23{16{1{TƏRƏDDÜD{is. [ər.] 1. Bir işi görməkdə,bir məsələni həll etməkdə qətiyyət göstərməmə,qərarsızlıq göstərmə, nə edəcəyini bilməmə,qəti qərara gələ bilməmə; qərarsızlıq.{
-7{33{1{SƏRSƏR{is. [ər.] Güclü və soyuq külək.{
-21{18{0{GÖRÜNÜŞ{is. Bir şeyin və ya adamın zahirişəkli, görkəmi.{
-8{30{0{NAMUSSUZ{sif. Namusdan məhrum, namusuolmayan, qeyrətsiz.{
-12{28{1{XƏSTƏXANA{is. [fars.] Müalicə üçünxəstələrin yatdığı ev, bina, müəssisə.{
-11{34{0{SAYMAQ{f. 1. Rəqəmləri sıra ilə demək,sadalamaq, sanamaq.{
-11{32{0{KƏTXUDA{is. tar. Keçmişdə Azərbaycankəndlərində əhali tərəfindən seçilən və kəndininzibati işlərini idarə edən şəxs.{
-11{36{0{BAŞDAN-BAŞA{zərf Bütünlüklə, tamamilə,hər yeri, hər tərəfi; bütöv, tamam, səlt.{
-17{35{1{QAROV{sif. Qarovluğu olan. Qarov adam.{
-19{28{1{ZARAFATYANA{zərf və sif. Zarafat yoluilə, ciddi olmayaraq.{
-2{32{1{UĞUR{is. Bəxt, səadət, xoşbəxtlik. [SərətanAfətə:] Uğurlar dilərəm ürəkdən sizə;Görüm çatasınız məqsədinizə! M.{
-21{31{1{İSTİQAMƏT{is. [ər.] 1. Bir şeyin hərəkətxətti, hərəkətin yönəldiyi cəhət, səmt, tərəf.{
-5{0{1{GÖRMƏ{“Görmək”dən f.is. Görmə qabiliyyəti.Görmə siniri.{
-16{29{0{ZOLAQ-ZOLAQ{sif. Zolaqlar şəklindəolan. Zolaq-zolaq tarlalar.{
-21{26{1{MUZD{is. [fars.] 1. Görülən iş müqabilindəverilən əmək haqqı; zəhmət haqqı;haqq.{
-25{25{1{HƏSSAS{sif. [ər.] 1. Çox tez hiss edən,duyan, başa düşən, dərk edən, qavrayan.{
-10{21{1{DOĞRUSU{ara s. Doğrudan əslinə baxanda,düzü. [Hacı Həsən:] Şeyxəna, doğrusu,mən övladdan yana bədbəxt olmuşam.{
-14{23{1{İLANYOLU{sif. Qıvrılıb uzanan, əyriüyrü,dolanbac. İlanyolu (z.) dağa çıxdıq.{
-23{16{0{TURŞMƏZƏ{sif. Azacıq turş dadan;turştəhər. Turşməzə nar.{
-24{26{0{DƏYƏ{is. Qarğıdan və s.-dən düzəldilmişkomacıq; alaçıq, qazma.{
-27{22{1{DÜYMƏ{“Düym” sözünün canlı dildəişlənən forması.{
-9{25{0{YUXU{is. 1. Dövraşırı yatmaq şəklində davamedən fizioloji hal (bu zaman beyin – şüurtamamilə, ya da qismən fəaliyyətdən qalır,bir sıra fizioloji proseslər zəifləyir və bədəndincəlir).{
-13{39{0{BÜTÖV{sif. 1. Bir küll halında olan; yarım,ya parça halında olmayan; kəsilməmiş,qırılmamış, dağılmamış; yekparə, tam.{
-23{28{1{MOLYUSK{is. [rus.] Yumşaq bədənlionurğasız dəniz heyvanı.{
-25{11{1{PALTAR{is. Əyinə geyilən hər növ geyim;libas. İş paltarı.{
-21{14{0{ELEKTROD{[yun. elektron və hodos –yol] fiz. Elektrik cərəyanını maye və qazlarıniçinə daxil etmək üçün lövhəcik, şarvə s.{
-30{9{1{GÖSTƏRMƏK{f. 1. Görməsinə imkan yaratmaq;görsətmək.{
-29{13{0{ZƏHƏRLƏMƏ{“Zəhərləmək”dən f.is.{
-21{12{0{CANLANMA{“Canlanmaq”dan f.is. Bircanlanma, bir şənlik var; Geniş sinif otağında.{
-32{9{1{ÜRƏYƏYATAN{sif. Xoşagələn, gözəşirin,gözəgəlimli, bəyənilən, cazibəli.{
-34{9{1{ZİBİL{is. 1. Evlərdə, küçələrdə və s.-dəyığılaraq onları zibilləndirən tör-töküntü, tullantı.{
-37{9{1{XUŞGƏBAR{is. [fars.] Quru meyvə.Xuşgəbar dükanı. – İldə neçə dəfə böyükkarvanlar Hacı Səlim Sərdarovun xuşgəbaryüklərini Xorasandan Türküstana gətirirdilər.{
-14{38{1{TÜRK{is. Türkiyənin əsas əhalisini təşkiledən və türk dillərindən birində danışan xalqvə bu xalqa mənsub adam.{
-21{20{0{MADDƏ{is. [ər.] 1. Rəsmi bir sənəddə,siyahıda, lüğətdə və s.{
-9{41{0{ÖRTMƏK{f. 1. Örtük salmaq, üzərinə birşey salmaq.{
-10{39{1{GƏRƏK{1. əd. Gərəkdir, lazımdır (cümlədəxəbər mənasında işlənir).{
-26{23{0{ŞÜŞƏ{is. 1. Kvarslı qumu əridib kimyəviüsulla işləmək nəticəsində alınan sərt, şəffafmaterial.{
-3{43{0{ÖYRƏTMƏK{icb. 1. Bilik, sənət, peşəvermək, təlim etmək.{
-5{41{1{QARALMA{“Qaralmaq”dan f.is.{
-3{46{0{SEMENT{[alm. Zement] Tikinti işlərindəistifadə edilən, su ilə qarışdırıldıqda suvaşqankütlə halına gələn, tez bərkiyən, tozşəkillimineral maddə.{
-36{15{0{QAZMA{is. Yeraltı daxma, yerin altındaqazılmış müvəqqəti, ya daimi ibtidai ev, yaşayışyeri.{
-29{19{1{ZƏRRƏ{is. [ər.] Bir şeyin ən kiçik hissəsi.[Qəhrəman:] Kənarda şiddətlə əsən qış ruzgarıbirqat pəncərələri yumruqlayır, kiçikqar və buz zərrələri ilə bombardman edirdi.{
-27{20{0{AZƏR{is. [fars.] Oda xidmət göstərənmələk.{
-40{11{1{MEYDAN{is. [fars.] 1. Şəhər və ya kənd,qəsəbə və s.{
-40{11{0{MƏĞLUB{sif. [ər.] Müharibədə, yarışda,müsabiqədə, mübahisədə və s.{
-43{9{1{YOLUXUCU{sif. Keçici, başqalarını tutabilən; sirayətedici.{
-36{10{0{QURD{is. Canavar. Düşdü qəzadan oraqurdun yolu; Baxdı ki, görsün, quyu boşdur,dolu.{
-43{9{0{YANAŞMA{“Yanaşmaq”dan f.is. Əsgərləringülərüzlə onlara yanaşması bizim qorxuluolmadığımızı bildirdi. H.Nəzərli.{
-44{5{1{QARĞA{is. Leş və böcəklərlə qidalananiri, döşü boz qara quş.{
-39{7{1{ZƏRD{is. Sarıköynəyin məhəlli adı.{
-41{5{1{MƏFKURƏ{[ər.] b a x ideologiya. Burjuaməfkurəsi.{
-43{6{0{ŞAPALAQ{is. 1. Əlin içi ilə vurulan zərbə,şillə.{
-46{0{1{ƏLYAZMA{is. Əl ilə yazılmış mətn,kitab və s; əlyazısı.{
-43{1{0{SÖYLƏMƏ{“Söyləmək”dən f.is.{
-37{3{0{VURUŞDURMAQ{icb. Bir-birinin üzərinəsalışdırmaq, savaşdırmaq, aralarına dava salmaq.Dostları vuruşdurmaq.{
-49{0{1{XƏYAL{is. [ər.] 1. Bir şəxsin və ya şeyininsan fikrində, təsəvvüründə təcəssümedən surəti; təxəyyül.{
-42{14{0{ŞUMLAMAQ{f. Torpağı kotanla sürmək,şum eləmək, yumşaltmaq.{
-7{41{1{FOTO{[yun. phos – işıq] b a x fotoqrafiya2-ci mənada.{
-47{12{1{SÜMÜK{is. 1. İnsan və onurğalı heyvanskeletinin ayrı-ayrı tərkib hissəsi.{
-49{12{1{NÖQTƏ{is. 1. Qələm, karandaş, iynə və s.bu kimi şeylərin ucunun bir yerə batmasından,ya toxunmasından qalan girdə xalcıq, iz,ləkə.{
-23{8{1{YALAN{is. Aldatmaq məqsədi ilə deyilənəsilsiz söz (doğru, gerçək ziddi).{
-20{9{0{SARALMAQ{f. Sarı rəng almaq, sarı olmaq.Stolların üstünə yığılmış qəzet, jurnallar rütubətdənsaralmışdı.{
-45{13{1{ALMAQ{f. 1. Əlinə götürmək, əl ilə tutubgötürmək, qaldırmaq.{
-38{1{1{OXUMAQ{f. 1. Yazılmış bir şeyi gözdənkeçirib səslə və ya səssiz qiraət etmək, mütaliəetmək.{
-32{5{0{HOQQABAZ{is. [ər. hoqqa və fars. ...baz]1. Əl cəldliyi ilə cürbəcür oyunlar göstərənadam, hoqqa çıxardan; oyunbaz.{
-33{1{1{ASTRONOM{[yun.] Astronomiya iləməşğul olan alim.{
-35{1{1{QABAQ{1. zərf Əvvəl, irəli. Üç gün bundanqabaq gəlmişəm.{
-9{3{1{KASA{is. [fars.] 1. Çini, büllur, saxsı vəya metaldan qayrılmış ağzıgen qab.{
-3{46{1{SAYA{sif. 1. Bir rəngdə olan, birrəngli.Saya parça.{
-0{49{0{İNSAN{is. [ər.] 1. Adam, bəşər. Ey mələksimaki səndən özgə heyrandır sana; Həqbilir, insan deməz, hər kim ki insandır, sana.{
-12{40{1{ÜMUMXALQ{is. [ər.] Bütün xalq üçünümumi, bütün xalqa aid.{
-1{45{1{QAPAN{f.sif. Dişləyən, tutan, sərt. Qapanat. – Qapan it dişini göstərməz. (Ata. sözü).{
-10{46{0{HOLL{[ing.] İctimai binalarda istirahət vəya gözləmə üçün böyük otaq, zal, salon.{
-9{23{0{AĞAC{is. 1. Budaqları və bərk gövdəsiolan çoxillik bitki.{
-11{44{0{AXMA{“Axmaq1”dan f.is.{
-42{16{0{BURA{zərf (bəzən əvəzlik mənasında işlənir).Bu yer.{
-16{7{0{DOLU{is. Havada donub tökülən yağmurdənələri.{
-48{5{1{YAŞAMAQ{f. 1. Həyatda var olmaq, diriolmaq, sağ olmaq.{
-30{3{0{NEFT{is. Yanacaq kimi işlədilən, habeləbir çox müxtəlif məhsullar (benzin, vazelin,parafin və s.{
-32{7{0{DOLAMA{1. “Dolamaq”dan f.is.2. sif. Dümdüz olmayan; birbaşa, düzxətlə getməyən, o yana-bu yana burulan,əyri-üyrü, dolanbac.{
-42{16{1{BULUD{is. 1. Səmada toplanan su buxarıyığını. Ağ buludlar.{
-38{20{0{QANAD{is. 1. Quşlarda və cücülərdə uçmaqorqanı.{
-39{17{1{YAXALANMA{“Yaxalanmaq2”dan f.is.Qab-qaşığın yaxalanması.{
-37{18{0{AVAR{is. məh. Keçmişdə kənd evlərinindamına döşənən qamışaoxşar ot; ümumiyyətlə,qaba quru ot.{
-37{22{0{REAL{sif. [lat. realis] 1. Xəyalda deyil,həqiqətdə mövcud olan; həqiqi, gerçək.{
-36{24{0{DÜŞMƏK{f. 1. Öz ağırlığının təsiri ilə yerəenmək, yuxarıdan aşağıya enmək, tökülmək.{
-20{39{0{ATƏŞPƏRƏST{is. [fars.] İbtidai cəmiyyətdə:oda ibadət edən, odu ilahi qüvvəsayıb ona sitayiş edən adam.{
-25{35{1{ÖLÇMƏK{f. 1. Bir şeyin ölçüsünü, miqdarınıqəbul olunmuş vahidlər əsasındamüəyyən etmək, müəyyənləşdirmək.{
-27{35{1{SƏSLƏNDİRMƏ{“Səsləndirmək”dən f.is.{
-23{45{0{XƏSTƏ{sif. [fars.] 1. Səhhəti yerindəolmayan, bir xəstəliyi olan; naxoş, azarlı.{
-23{37{1{PEŞƏ{is. [fars.] 1. Sənət. [Dövlətlilərin] ..peşə öyrənməyə də fikir verməyə macallarıolmurdu.{
-24{42{1{HƏRƏKAT{is. [ər. “hərəkət” söz. cəmi]1. Müəyyən məqsəd güdən ictimai fəaliyyət.{
-27{35{0{SABUN{is. Kirli və ya yağlı şeyləri və s.-niyuyub təmizləmək üçün yağlardan və qələvimaddələrdən hazırlanan, suda tez əriyibköpüklənən bərk və ya yarımmaye kütlə.{
-30{30{1{UĞURSUZ{sif. 1. Bədbəxtlik gətirən, bədbəxtliyəsəbəb olan; şükümsüz, məşum, bədşüküm,bədbəxt, fəlakətli.{
-22{43{0{ƏDƏB{is. [ər.] Əxlaq qaydalarına riayət,əxlaq və hərəkətdə, danışıqda nəzakət, incəlik;tərbiyə.{
-20{39{1{AĞSAQQAL{sif. və is. 1. Saqqalı ağarmış,qoca. [Bayraməli:] Belə tərbiyət sahibləridirlərki, ağsaqqal ataları gəlir otağa, .{
-16{42{0{SAYMAZ{sif. 1. Saymayan, məhəl qoymayan,vecinə almayan, diqqətsiz, laqeyd,başısoyuq.{
-28{33{0{MÜRƏKKƏB{sif. [ər.] 1. Bir neçə hissədən,ünsürdən ibarət olan (sadə ziddi).{
-15{45{0{HARADA{sual əvəz. Hansı yerdə? hayanda?Səni harada görə bilərəm? Dəftərlər haradadır?– [Məşədi Qəzənfər:] Əşi, adamgərək insaf ilə danışsın, qışın soyuğundaharada qızışa bilərsən? [Xor:] Hamamda!Ü.{
-29{37{1{İXTİYAR{sif. [ər.] Qoca, yaşlı; pirani.İxtiyar kişi.{
-32{28{1{DƏYMƏK{f. 1. Dəymiş hala gəlmək; yetişmək.Taxıl dəymişdir.{
-16{44{1{YASTI{sif. 1. Səthi düz, üzərində girintiçıxıntıolmayan.{
-18{44{1{TAVA{is. İçində ət və s. qızartmaq üçünkənarları yastı, dairəvi metal qab.{
-21{47{0{BALA{1. is. Övlad, uşaq, oğul. Ana vəbala. Balalara hədiyyə.{
-34{24{1{İLGƏKLƏNMƏK{f. İlgək tikilmək, ilgəkvurulmaq, ilgək açılmaq. Köynəyin yaxasıilgəklənib.{
-33{27{0{SƏNƏTKAR{is. [ər. sənət və fars. ...kar]1. Hər hansı bir sənətlə məşğul olan, sifarişləiş qəbul edib öz əmək alətləri ilə, kustarüsulla məhsul hazırlayan şəxs, usta; bir sənətləkeçinən adam.{
-40{26{1{ƏRƏBCƏ{1. sif. və zərf Ərəb dilində.Ərəbcə kitab.{
-36{31{0{DƏFTƏRXANA{is. [əsli yun. və fars.]Bir idarənin kargüzarlıqla məşğul olan şöbəsi.{
-29{25{0{HEYKƏL{is. [ər.] 1. Heykəltəraş tərəfindəndaşdan, tuncdan və s.{
-37{29{1{ADƏT{is. [ər.] 1. Hər hansı bir xalqınhəyatında qədimdən bəri qəbul edilmiş vəkök salmış ənənə, rəsm.{
-43{29{1{SRAĞAGÜN{zərf Deyilən gündən iki günqabaq, dünəndən qabaqkı gün.{
-38{33{0{QARAMA{is. məh. 1. Çay və bulaq ətrafındakıpalçıqlı su, lığ.{
-29{25{1{HƏYAT{is. [ər.] 1. Materiyanın hərəkətininmüəyyən inkişaf mərhələsində əmələgələn xüsusi forması; varlıq, dirilik.{
-42{35{0{MÜKAFAT{is. [ər.] 1. Birinin hər hansıbir sahədəki xidmətlərini, müvəffəqiyyətiniqeyd etmək üçün ona verilən pul və ya başqaqiymətli bəxşiş.{
-47{29{1{PREPARAT{[lat. praeparatus – hazırlanmış]1. Tədqiqat, müşahidə və ya tədris məqsədiilə hazırlanmış heyvan və ya bitki orqanizmihissəsi.{
-45{34{1{YARIM{say Tam bir şeyin iki bərabər hissəsindənbiri; tam bir şeyin tən yarısı.{
-38{33{1{QORXUTMA{“Qorxutmaq”dan f.is.{
-33{37{0{UĞURSUZLUQ{is. 1. Məşumluq, şükümsüzlük,bədbəxtlik, fəlakət, bəxti gətirməmə.{
-8{45{1{ETMƏK{f. 1. Bir işi yerinə yetirmək,əmələ gətirmək, görmək, eləmək.{
-37{40{0{LAYİHƏ{is. [ər.] 1. Tikiləcək, qurulacaq,yaradılacaq bir şeyin əvvəlcədən düşünülübhazırlanmış, işlənmiş planı; proyekt.{
-45{26{1{OYNAMA{“Oynamaq”dan f.is.{
-35{36{1{QURĞU{is. Bir yerdə qurulmuş mexanizm,maşın, cihazlar sistemi və s.{
-27{28{0{ASAN{sif. Zəhmət tələb etməyən, zəhmətsizyerinə yetirilə bilən, zəhmətsiz əldəedilə bilən, zəhmətsiz rəf edilə bilən; yüngül(çətin ziddi).{
-42{39{1{ZƏNCİR{is. [fars.] 1. Bir-birinə keçmişhalqalardan ibarət dəmir bağ; silsilə.{
-22{46{1{SAVA{sif. Öz vaxtında deyil, sonradan cücərən,gecyetişən (faraş əksi).{
-6{49{0{TÜKƏNMƏ{“Tükənmək”dən f.is.{
-37{44{0{PƏNCƏRƏ{is. 1. İşıq və hava gəlmək üçünevin və s.{
-43{38{0{NAMƏ{is. [fars.] Məktub, kağız. Bir naməyazım, badi-səba yarə yetirsin.{
-17{49{0{SAMOVAR{is. [rus.] İçi kömürlə doldurulanodluğu olan çay üçün su qaynadılan metalcihaz.{
-38{43{1{MƏĞRUR{sif. [ər.] 1. Öz ləyaqətini, üstünlüyünühiss edən, mənlik hissi olan; qürurlu,vüqarlı.{
-31{21{1{OLMAYA{1. “Bəlkə”, “yoxsa” mənalarındaara söz. Olmaya, sən də bu fikirdəsən.{
-40{26{0{ƏBƏD{zərf [ər.] Sonsuz gələcək zaman(əzəl qarşılığı).{
-36{48{0{GÖRÜNMƏK{f. 1. Gözlə qavranılmaq,göz qarşısına çıxmaq, nəzərə çarpmaq.{
-33{46{0{BOMBARDMAN{b a x bombardmançı 1-cimənada. Bombardman təyyarəsi.{
-46{33{0{YABA{is. Ot, saman və başqa bu kimi şeyləritoplayıb atmaq, qaldırmaq, habelə başqaişlər üçün uzun saplı, iki və yaxud daha da artıqdişi olan kənd təsərrüfat aləti.{
-33{46{1{BƏND{is. [fars.] 1. anat. Skelet sümüklərininoynaq yerləri; buğum, məfsəl.{
-36{35{0{HƏRB{is. [ər.] Müharibə, döyüş, savaş.Dünya hərbi.{
-30{47{0{KƏSƏ{1. sif. Ən yaxın, ən qısa. Kəsə cığır.– [Qız] cəld taxçadan cunayı yaylığını götü-rüb özünü çölə saldı, kəsə yolla meşəyədoğru yüyürməyə başladı.{
-31{39{1{GÖTÜRÜLMƏ{“Götürülmək1”dən f.is.{
-35{43{1{KEÇMƏ{“Keçmək1”dən f.is.{
-27{49{0{SƏRGƏRDAN{sif. və zərf [fars.] Yersizyurdsuz,sərsəri, avara.{
-33{37{1{UTANMA{“Utanmaq”dan f.is.{
-30{44{0{DÜYÜ{is. İsti iqlimdə sulu yerlərdə (xırlarda)yetişdirilən ağ rəngli dənli bitki (qabıqlıhalda buna çəltik deyilir).{
-49{24{1{KOBUDLAŞMAQ{bax qabalaşmaq. İşləməkdənəlləri kobudlaşıb.{
-28{46{1{ŞÖBƏ{is. [ər.] 1. Bir idarənin, təşkilatınvə ya müəssisənin bölməsi, hissəsi.{
-43{23{1{BUĞDA{is. Dənindən ağ un üyüdülən taxılnövü. Ağ buğda. Sarı buğda. Xırda buğda.Buğda unu.{
-31{29{0{KƏLLƏ{is. [fars.] 1. Baş. Kəlləsindən vurmaq.– Ox atma sən bu daşa; Bu qayaya, budaşa; Düşməni elə vur ki; Kəlləsindən budaşa.{
-37{29{0{ARABA{is. İki və ya dördtəkərli nəqliyyatvasitəsi.{
-43{23{0{BORU{is. 1. Dəmirdən, çuqundan, saxsıdan,şüşədən və s.{
-31{18{0{ANCAQ{1. bağl. Lakin, amma. Ancaq mənsevgilərin bu qədər aldadıcı .{
-34{16{1{APARAT{[lat.] 1. tex. Alət, cihaz, qurğu.Radio aparatı.{
-45{19{1{SƏFƏR{is. [ər.] Hicri qəməri ərəb təqvimininikinci ayı.{
-44{20{0{ÇƏNG{is.: çəng olmaq – qıc olmaq, keyləşmək,hərəkətdən düşmək, hissizləşmək.{
-32{20{0{AVARA{is. məh. Camış balası, ikiyaşarkəlçə.{
-8{27{0{UZUN{sif. 1. İki ucunun arası çox, çox olan(qısa ziddi).{
-39{42{0{PƏNCƏ{is. [fars.] 1. Əl ayası ilə beş barmaqbirlikdə.{
-47{18{1{ƏSGƏR{is. [ər.] 1. Sıravi hərbi qulluqçu;soldat.{
-14{47{0{ÇATMAQ{f. 1. Yükləmək. Küsülü qardaş,gəl yükü çataq, yenə küsümüz küsü.{
-40{0{1{QOHUM{is. 1. Biri ilə qohumluq əlaqəsiolan adam.{
-27{7{0{ATƏŞ{is. [fars.] 1. Od. Atəşin təqazasıyandırmaqdır.{
-36{24{1{DEYƏ{qoş. Səbəb və ya məqsəd bildirir.Gecikməsin deyə tezdən durdu.{
-1{0{1{ÜMUM{is. [ər.] Hamı, hamısı. Ümuma aidməsələ.{
-31{0{1{TALE{is. [ər.] 1. Bəxt, qismət. [Nazlı:] Heçböylə padşah sarayında yaşayan bir xanımda taleyindən şikayət edərmi? H.{
-28{1{0{BACA{is. 1. Tüstü çıxmaq üçün ocağınüstündə kərpicdən hörülən və ya dəmirdənqayrılan içi boş boru.{
-8{11{1{ÖKÜZ{is. 1. İş heyvanı kimi istifadə edilənbuğa.{
-13{19{1{MƏRC{is. Bir şey üstündə mübahisə edəniki nəfər arasında bağlanan və uduzan tərəfinyerinə yetirməli olduğu bir şeyi nəzərdətutan şərt.{
-38{8{0{TƏRK{bax tək2. ..[Məlikməmməd] quyununtərkinə çatan kimi bir o yana-bu yanabaxıb gördü ki, bir yol var.{
-18{33{0{PART{təql. Partlayan, yaxud atılan və yaxudda yerə düşən ağır bir şeydən çıxan səs.{
-16{2{1{İNCƏ{sif. 1. Zərif işlənmiş, nəfis, qəşəng.İncə qolbaq.{
-15{9{0{QRUP{is. [alm.] 1. Bir yerdə, bir-birinəyaxın olan bir neçə adam, heyvan, şey və s.{
-7{33{0{SAAT{is. [ər.] 1. Gecə-gündüzün iyirmidörddə birini təşkil edən və 60 dəqiqədənibarət olan vaxt ölçüsü vahidi.{
-29{10{0{DÖVR{is. [ər.] 1. Dolanma, hərlənmə,fırlanma; bir şeyin öz oxu ətrafında hərəkəti.{
-19{5{1{ODUN{is. 1. Yandırmaq üçün kəsilmiş vədoğranmış ağac parçası; ağac yanacağı.{
-26{42{0{ZİYA{is. [ər.] İşıq, aydınlıq, nur. Mən onundərdinə oldum mübtəla; Şəmi-xəyalıma overir ziya.{
-21{20{1{MƏSƏL{[ər.] b a x zərbi-məsəl. Çün“uman yerdən küsərlər” bir məsəldir xəlq ara;Küsdüyüm bica deyildir, aşinadən küsmüşəm.{
 @
-0{2{0{QIRMIZI{sif. 1. Qan rəngli; al. Qırmızıboya. Qırmızı şərab.{
-3{0{1{ATMOSFER{[yun.] 1. Yer kürəsini və bəzibaşqa planetləri, habelə Günəş və ulduzlarıbürüyən qazaoxşar təbəqə.{
-1{7{0{QORXAQ{sif. 1. Qorxu hissinə tez qapılan,ürəksiz, ağciyər, xoflu, cəsarətsiz.{
-2{4{0{ÜSTÜNLÜK{is. Bənzərləri arasında dahayaxşı, daha yüksək, daha əlverişli olma.{
-5{6{1{YAŞMAQ{is. 1. Müsəlman qadınlarının yadkişilərdən yaşınmaq üçün üzlərinin adətəngözdən aşağı hissəsini örtdükləri örtü.{
-2{9{0{GÜLMƏK{f. 1. Müəyyən bir hiss nəticəsində(məs.: sevindikdə, şənləndikdə, gülməlivə ya mənasız bir şey gördükdə), habeləbəzi əsəb sarsıntıları anında xarakteriksəslər çıxararaq öz duyğusunu bildirmək(ağlamaq əksi).{
-8{1{1{DÖYÜLMƏK{məch. 1. Əl və ya başqa birşeylə vuraraq əziyyət verilmək; kötəklənmək,əzişdirilmək.{
-8{1{0{DƏRD{is. [fars.] 1. Qəm, qüssə, kədər,ürək acısı, mənəvi əzab, əziyyət, iztirab.{
-0{11{0{QOYMAQ{f. 1. Bir şeyi bir yerə buraxmaq,bir şeyi bir yerə yerləşdirmək.{
-11{0{1{ODUN{is. 1. Yandırmaq üçün kəsilmiş vədoğranmış ağac parçası; ağac yanacağı.{
-7{6{0{ƏMƏLƏGƏLMƏ{is. Yaranma, düzəlmə.Molekulun əmələgəlmə istiliyi.{
-1{10{1{KOBUD{bax qaba. Kobud parça. Kobudadam. Kobud hərəkət.{
-13{0{1{MÜQƏDDƏS{sif. [ər.] 1. din. Allaha aidolan, ilahi, ilahi qüvvəyə malik.{
-0{13{0{KURORT{[alm.] Təbii şəraiti (havası, mədənsuları, palçığı və s.{
-15{1{1{BECƏRMƏK{f. Xidmət edərək, bəsləyərəkyetişdirmək.{
-11{5{1{RƏFTAR{is. [fars.] Birisinə və ya bir şeyəqarşı göstərilən münasibət, davranış, hərəkəttərzi.{
-9{10{0{KÜRƏ{is. Qulaqları uzun (qoyun haqqında).Qoyun var kərə gəzər; Qoyun varkürə gəzər; Gedər, dağları gəzər; Gələr, evləribəzər.{
-9{10{1{KONDUKTOR{[lat. conductor – müşayiətedən] Qatarı müşayiət edən, onun təhlükəsizliyinəvə düzgün hərəkətinə, yüklərininqorunmasına nəzarət edən dəmiryol işçisi.{
-2{15{0{KÖÇÜRMƏK{f. 1. Birinin yaşayış yerinidəyişdirmək, bir yerdən başqa yerə daşındırmaq.{
-7{18{0{GURULTU{is. 1. Bir şeyin hərəkətindənvə ya düşməsindən hasil olan çox bərk qarışıqsəs.{
-7{12{0{XANƏ{is. [fars.] 1. Ev, məskən. ..RəşidAbxazlı yedəyində kəhər at dar və qorxulucığırla dağ başına, öz xanəsinə tərəf dırmaşırdı.{
-11{16{1{MÜLK{is. [ər.] köhn. 1. Birinə məxsus torpaqsahəsi, malikanə, nəql olunmaz, daşınmazəmlak.{
-13{15{1{FÜZUL{is. və sif. [ər. “fəzl” söz. cəmi]Uzunçu, çoxdanışan, naqqal, artıq sözlərdanışan.{
-7{18{1{GÜLƏŞMƏ{1. “Güləşmək”dən f.is.2. idm. Bir-birinin kürəyini yerə vurmağaçalışan iki nəfərin qurşaq yapışmasındanibarət idman növü. Güləşmə yarışı.{
-3{23{0{UZATMAQ{f. 1. Daha uzun etmək; uzunluğunu,boyunu artırmaq.{
-4{20{0{DANLAMA{“Danlamaq”dan f.is.{
-13{15{0{FORMA{[lat. forma] 1. Şeyin xarici görünüşü,şəkli.{
-5{19{1{SALMA{salma çay – şirin çay. [Qulu:]Yəni altı-yeddi stəkan salma çay içdiyini dəyalan deyirəm? S.S.Axundov.{
-16{13{1{MƏMƏ{is. 1. Uşaqları əmizdirmək üçünqadınların döş hissəsində yerləşmiş yumruşəkildə olan iki süd vəzilərindən hər biri;döş.{
-15{1{0{BÜRÜNC{is. 1. Mis, sink, qalay xəlitəsindənibarət metal.{
-18{0{1{ZÜLMƏT{is. [ər.] 1. Qaranlıq. Axşamdır,gün batmış, şəfəq saralmış; Çölə zülmət çökmüş,hava qaralmış.{
-16{13{0{MƏDƏ{is. [ər. midə] anat. İnsanda və heyvanlardaqarın boşluğunun yuxarı hissəsindəyerləşən həzm orqanı. Mədə ağrısı. Mədəyarası.{
-17{4{0{LƏZZƏT{is. [ər.] 1. Yeyilən, içilən hərhansı bir şeydən duyulan xoş hiss; tam, dad.{
-19{12{1{DƏRHAL{zərf [fars. dər və ər. hal] Osaat, tez, əlüstü, fövrən, gecikmədən.{
-17{9{1{DÖVRƏ{is. 1. Çevrə, dairə. Təkərin dövrəsi.2. Ətraf, həndəvər, yan; bir şeyin dışarıdanvə ya içəridən dörd tərəfi.{
-22{1{1{SÜRTMƏ{“Sürtmək”dən f.is.{
-21{2{0{PÜSKÜRMƏ{“Püskürmək”dən f.is.{
-18{16{0{QANMAZ{sif. Anlamaz, anlaqsız, düşüncəsiz,qanacaqsız; ədəbsiz, tərbiyəsiz.{
-21{6{0{ZƏRRƏ{is. [ər.] Bir şeyin ən kiçik hissəsi.[Qəhrəman:] Kənarda şiddətlə əsən qış ruzgarıbirqat pəncərələri yumruqlayır, kiçikqar və buz zərrələri ilə bombardman edirdi.{
-21{8{1{SÜRÜNDÜRMƏ{1. “Süründürmək”dən f.is.2. Süründürməçilik.{
-2{15{1{KOLXOZ{is. tar. [rus. “kollektivnoe xozəystvo”söz.{
-14{11{0{HEYVA{is. Sarı rəngli, turşməzə, üstütüklü, xırda çəyirdəkli meyvə.{
-19{10{0{BƏRƏKƏT{is. [ər.] 1. Bolluq, məhsuldarlıq.[Əmioğlu:] Yoxsa həqiqətdə bizim südümüzünbərəkəti həmin qapıbir qonşularımızınpambığının bərəkətinə bağlıdır.{
-24{4{1{TƏRK{bax tək2. ..[Məlikməmməd] quyununtərkinə çatan kimi bir o yana-bu yanabaxıb gördü ki, bir yol var.{
-24{9{1{RƏHM{is. [ər.] Acıma, yazığı gəlmə, ürəyiyanma; mərhəmət.{
-28{1{1{SƏRLÖVHƏ{is. [fars. sər və ər. lövhə]Əsərin və ya qəzetin başda yazılan qısa adı;məqalənin adı; başlıq.{
-26{4{0{YOLGÖSTƏRƏN{is. Rəhbər, başçı, böyük.Uşağın yolgöstərəni olmadı.{
-27{8{0{SƏRSƏM{sif. [fars.] Ağlını itirmiş, zehniqarışmış, fikri azmış.{
-23{12{0{AMMA{bağl. 1. Cümlələri, habelə cümləüzvlərini (əsasən həmcins üzvləri) birləşdirərəkqarşılıq bildirir.{
-23{14{1{QAZANMAQ{f. 1. İşləməklə, çalışmaqlaəldə etmək. Kərbəlayı Məmmədəli iki il yarımdırki, qürbətə çıxıb, az-çox çörək puluqazansın.{
-22{20{0{ZAHI{is. [fars.] Yenicə doğmuş qadın.[Cəbrayıl bəy:] Onda ayrı evə keçək, yaxşıdeyil, zahının yanında oturmayaq.{
-26{11{1{SAVAŞMA{“Savaşmaq”dan f.is. Savaş,dava-dalaş. Savaşma daha da böyüyəcəkdi.S.Vəliyev.{
-0{17{0{KÜLƏ{sif. məh. Quyruqsuz. Külə keçi.{
-25{14{0{SAVA{sif. Öz vaxtında deyil, sonradan cücərən,gecyetişən (faraş əksi).{
-31{6{1{TƏƏSSÜF{is. [ər.] 1. Kədərlənmə, acıma,heyifsilənmə, təəssüflənmə; kədər hissi.{
-25{18{1{ALIM{is. köhn. 1. Alacaq, tələb. Altıdaalımı yox, beşdə verimi. (Məsəl).2. Bir götürüm, bir tutum.{
-28{11{1{QABA{sif. 1. Kobud, sərt, cod. Qaba yun.Qaba parça.{
-3{23{1{UĞUR{is. Bəxt, səadət, xoşbəxtlik. [SərətanAfətə:] Uğurlar dilərəm ürəkdən sizə;Görüm çatasınız məqsədinizə! M.{
-33{3{1{KƏND{is. Əhalisi, əsasən, kənd təsərrüfatıilə məşğul olan yaşayış məntəqəsi.{
-30{10{0{USTA{is. 1. Bir sənəti lazımınca, əsaslısurətdə öyrənib onunla məşğul olan adam;sənətkar.{
-35{1{1{İLGƏKLƏNMƏK{f. İlgək tikilmək, ilgəkvurulmaq, ilgək açılmaq. Köynəyin yaxasıilgəklənib.{
-1{26{0{QART{sif. 1. Qocalmış, qoca. Qart qoca.Qart qarı.{
-34{7{0{ŞƏHADƏTNAMƏ{is. [ər. şəhadət və fars....namə] Bir şeyi təsdiq edən, bir şeyə icazəverən sənəd, rəsmi kağız; vəsiqə.{
-6{14{1{ÜRƏK{is. 1. İnsanda qan dövranının, döşboşluğunun sol tərəfində yerləşən əzələli kisəşəklində mərkəzi orqanı; qəlb.{
-1{26{1{QONAQPƏRƏST{sif. [qonaq və fars....pərəst] Qonaqsevən; evinə gələn qonağaçox hörmət edən.{
-41{5{1{MUNCUQ{is. Müxtəlif rəngli, yuvarlaqvə ya başqa formalı şüşələrdən, plastik kütlədənvə s.{
-0{29{0{FAYTON{[yun. əfsanəvi addan] 1. Üstüaçılıb-örtülən dörd bucaqlı at arabası.{
-33{9{1{TAYFA{is. [ər. taifə] 1. Sinifli cəmiyyətdənəvvəlki dövrdə adamların qohumluqmünasibətinə, dil və ərazi ümumiliyinə əsaslananbirliyi; qövm.{
-43{4{1{ÜZÜM{is. Ağ, qara və ala rəngli dənələriolan salxımlı meyvə.{
-37{9{0{BUYNUZLU{is. bot. Birillik yem bitkisi.{
-4{28{1{NORMA{[lat.] 1. Qanuna salınmış; qayda,üsul. Hüquq normaları.{
-0{34{0{DƏYƏR{is. 1. Qiymət, baha. Kitabın dəyərinədir? Məhsulun maya dəyəri.{
-34{2{0{İLAN-ÇAYAN{top. İlan, əqrəb kimi sancanheyvanlar. Səfər kişi bir-bir barmaqlarınıqatlayaraq saydı: – İlan-çayandan xəbərinizvarmı? Mir Cəlal.{
-28{1{0{SÜRMƏ{bax siyirmə3. [Gilə] içəri giribqapını örtdü və sürməsini vurdu.{
-3{33{1{RƏQƏM{is. [ər.] 1. Ədədlərin, saylarınyazıda işarəsi.{
-38{0{1{VERMƏK{f. 1. Bir şeyi öz əlindən çıxarıbbaşqasına ötürmək, təslim etmək, çatdırmaq;tapşırmaq.{
-32{13{0{ÇAPARAQ{zərf Yüyürərək, yüyürəyüyürə,qaça-qaça, tez, becid, cəld.{
-37{12{1{QAPAMAQ{f. 1. Bağlamaq, örtmək. Sandığıqapamaq. Yeşiyi qapamaq.{
-33{18{0{VƏRƏQƏ{is. 1. Kiçik vərəq; vərəq. Sualvərəqəsi.{
-29{16{0{FƏRƏHLƏNMƏ{“Fərəhlənmək”dən f.is.{
-29{16{1{FƏRƏ{is. Cavan toyuq (kəklik). Çil fərə.– Şəhərdən gətirdiyim toyuğumun balalarıböyümüş, tüklənmiş, xoruzu, fərəsi bəlliolmuşdu.{
-31{14{1{DÖRDBUCAQ{is. riyaz. Dörd bucağı olanhəndəsi cisim.{
-28{21{0{İLHAM{is. [ər.] 1. Yaradıcılıq zamanıözünü göstərən ruhlanma halı, yaradıcı fikrinyüksəlişi; ruhlanma, təb.{
-35{15{1{DƏRRAKƏ{is. [ər.] Ağıl, düşüncə, şüur,anlaq; dərketmə qabiliyyəti.{
-34{21{0{ÇƏRƏN-PƏRƏN{is. Boş danışıq, cəfəngiyat,tartan-partan.{
-39{19{1{ÜST-BAŞ{is. Paltar, pal-paltar, geyim.[Qumral:] Anacan, sən qapını aç, mən gedim,üst-başımı qaydaya salım.{
-30{24{0{DALDALANMA{“Daldalanmaq”dan f.is.{
-41{18{1{PEŞƏKAR{[fars.] 1. is. Sənətkar. Kəndliqızıdır anam, bir peşəkardır babam.{
-34{23{1{PARLAQ{sif. 1. Parıldayan, işıq verən, işıldayan,işaran, parıltılı.{
-43{18{1{KƏRƏ{sif. 1. Qulaqları çox qısa, dımıq,kərçə (qoyun haqqında).{
-9{22{1{ƏQRƏB{is. [ər.] 1. zool. Quyruğununucunda zəhərli iynəsi olan onurğasız həşərat.{
-28{27{0{TAPANÇA{is. Müxtəlif sistemli odlu kiçikəl silahı.{
-28{27{1{TELEQRAM{[yun. tele və gramma – yazı]Teleqrafla verilən xəbər, məlumat, habeləməlumat yazılmış blank.{
-22{33{0{ÇOXALMA{“Çoxalmaq”dan f.sif.{
-24{31{0{MAL-QARA{top. İri və xırda buynuzlu evheyvanları.{
-25{28{1{ALMA{is. - Müxtəlif çeşidləri və müxtəlifrənglərdə olan girdə, yaxud uzunsov meyvə.{
-31{30{1{SALMAQ{f. 1. Bir şeyi hündür yerdən aşağıatmaq, tullamaq, buraxmaq, düşürmək.{
-18{29{0{AĞSAQQAL{sif. və is. 1. Saqqalı ağarmış,qoca. [Bayraməli:] Belə tərbiyət sahibləridirlərki, ağsaqqal ataları gəlir otağa, .{
-43{18{0{KÖVŞƏN{is. 1. Taxıl əkilmiş yer; zəmi.Heç keçilər öz-özünə kövşəndən çıxıb canavarayem olarmı? S.{
-21{22{1{YALTAQLANMA{“Yaltaqlanmaq”dan f.is.{
-19{24{0{LÜLƏ{is. 1. Odlu silahların gülləyə, mərmiyəlazımi istiqamət verən boruşəkilli hissəsi.{
-18{26{0{ÇALA{is. Çökək yer, çuxur yer, çökəklik.[Səməd:] Baxın, o çalada .{
-12{32{0{HESABLANMA{“Hesablanmaq”dan f.is.{
-8{25{0{XƏLVƏT{[ər.] 1. is. Tənha yer, gizli yer,heç kəs olmayan yer.{
-15{28{1{PARÇA{is. Toxunma mallar: çit, bez, mahudvə s.{
-12{24{1{HƏRB{is. [ər.] Müharibə, döyüş, savaş.Dünya hərbi.{
-13{31{1{REKORDÇU{is. 1. B a x rekordsmen. Rekordçuneft ustası.{
-17{30{1{EVLƏNMƏ{“Evlənmək”dən f.is. O gününsabahı Şərifzadə və Qəmər xanımın şahidliyiilə Zeynalın Mehribanla .{
-15{35{0{MÜMKÜN{sif. [ər.] 1. Hər hansı şərait daxilindəhəyata keçə bilən, ola bilən.{
-10{27{0{QABAQ{1. zərf Əvvəl, irəli. Üç gün bundanqabaq gəlmişəm.{
-31{30{0{SƏTH{is. [ər.] 1. Bir şeyin xarici tərəfi, üsttərəfi, üz tərəfi.{
-12{29{0{ZAMAN{is. [ər.] 1. Vaxt, müddət. O hadisədənçox zaman keçdi.{
-30{34{0{BAZA{[əsli yun.] 1. Bünövrə, əsas, özül,bina.{
-37{20{1{BƏZƏN{zərf [ər.] Bəzi vaxt, bəzi hallarda,arabir, gah-gah.{
-19{34{1{KÜRƏK{is. 1. Bədənin arxa hissəsininyuxarısında olan üçkünc şəkilli yastı sümüklərdənhər biri.{
-18{37{0{BƏRƏ{is. 1. Ov gözlənilən yer, pusqu,marıq. Ovu bərədə vurmalı.{
-5{35{0{GENERATOR{[lat.] xüs. 1. Mexanikienerjini elektrik enerjisinə çevirən maşın.{
-9{33{1{CÜRƏ{sif. Çox balaca, çox kiçik, xırdaca,boy atmamış, sısqa. Cürə uşaq.{
-21{36{1{ZƏHƏRLƏMƏ{“Zəhərləmək”dən f.is.{
-7{30{1{DÜŞMƏN{is. [fars.] 1. Birinə qarşı ədavət,düşmənçilik bəsləyən və onunla mübarizəaparan, çəkişən şəxs.{
-17{43{0{AZALMA{“Azalmaq”dan f.is.{
-10{27{1{QULAQ{is. 1. İnsan və heyvanlarda eşitməorqanı.{
-16{40{0{YALVARMA{“Yalvarmaq”dan f.is.{
-19{42{1{QARAYAXA{sif. dan. İstədiyindən əl çəkməyən,tutduğunu buraxmayan, qır-saqqızolub adamı təngə gətirən. Qarayaxa adam.Qarayaxa (z.) olmaq.{
-15{45{0{QARMAQ{is. 1. Şey asmaq, yaxud qaldırmaqüçün ucu yuxarıya doğru əyilmiş qalınmıx, çəngəl.{
-10{47{0{EMALATXANA{is. [ər. emalat və fars....xanə] 1. İstehsal və ya təmir müəssisəsi,habelə bu cür müəssisənin binası; karxana.{
-4{38{0{SOYĞUNÇULUQ{is. Talançılıq, çapqınçılıq,quldurluq, qarətgərlik.{
-12{46{1{QANUN{is. [ər. əsli yun.] 1. İctimai vəhüquqi münasibətlərin hər hansı bir sahəsininizama salmaq üçün dövlət tərəfindənmüəyyən edilən qərar, nizamnamə.{
-46{16{1{TƏŞƏBBÜS{is. [ər.] 1. Bir işə başlama, iqdametmə.{
-9{22{0{ƏBƏD{zərf [ər.] Sonsuz gələcək zaman(əzəl qarşılığı).{
-45{22{0{MÜLKƏDAR{is. [ər. mülk və fars. ...dar]Torpaq üzərində xüsusi mülkiyyət və onunqalıqları mövcud olan ölkələrdə torpaq sahibiolan zadəgan.{
-21{36{0{ZƏRD{sif. [fars.] klas. Sarı. Əşkimi, çöhreyi-zərdimi görüb meyl etməz; Mən eşitmişdim,edər simü zər insanı əziz. Q.Zakir.{
-4{38{1{SAYA{sif. 1. Bir rəngdə olan, birrəngli.Saya parça.{
-2{41{0{ƏLAQƏ{is. [ər.] 1. Qarşılıqlı münasibət,bir-biri ilə bağlılıq.{
-6{40{1{ZƏHMƏT{is. [ər.] 1. Əmək. Zəhmətin barı.Öz zəhmətinin bəhəri.{
-1{39{0{ARXA{is. 1. İnsanın, heyvanın dalı, kürəyi,beli.{
-0{43{0{KEYLƏŞMƏ{“Keyləşmək”dən f.is.{
-14{46{1{ŞAPALAQ{is. 1. Əlin içi ilə vurulan zərbə,şillə.{
-7{52{0{ÇOXALMAQ{f. Miqdarca, sayca, həcmcəvə s. artmaq. İşimiz çoxalmışdır.{
-1{42{1{SEYR{is. [ər.] Seyr etmə, baxma, tamaşaetmə, göz gəzdirmə.{
-49{21{1{RƏHBƏR{is. [fars.] 1. Hər hansı bir ictimaihərəkatın, partiyanın, sinfin ideoloqu,siyasi başçısı, yolgöstərəni.{
-9{50{1{BAXMAQ{f. 1. Bir şeyi görmək üçün gözləriniona dikmək, nəzərini bir şeyə dikmək,nəzər yetirmək.{
-5{54{0{BAXMA{“Baxmaq”dan f.is.{
-3{45{0{MÜBTƏLA{sif. [ər.] 1. Aludə, düçar, giriftar,tutulmuş.{
-45{25{0{GÜLLƏ{is. Top, tüfəng, tapança kimi odlusilahlardan atmaq üçün qurğuşundan düzəldilmişgirdə və uzunsov mərmicik.{
-52{20{1{HƏRƏKƏT{is. [ər.] 1. Bir şeyin və yaonun hissələrinin sabit bir nöqtəyə görə özyerini və ya vəziyyətini dəyişməsi; hərəkətsizliyin,sükunətin ziddi olan vəziyyət.{
-5{54{1{BUĞDA{is. Dənindən ağ un üyüdülən taxılnövü. Ağ buğda. Sarı buğda. Xırda buğda.Buğda unu.{
-0{57{0{ZÜYÜLDƏMƏ{“Züyüldəmək1”dən f.is.{
-2{56{1{ƏYLƏNCƏ{is. 1. Ürəyi əyləndirəcək, könlüaçacaq şey, əylənmək üçün vasitə.{
-11{37{1{VURULMA{“Vurulmaq2”dan f.is.{
-8{44{1{ALLAH{is. [ər.] 1. Bütün kainatın yeganəyaradıcısı və idarə edəni; Yaradan, Tanrı,Rəbb.{
-1{62{0{QƏDDAR{is. və sif. [ər.] Rəhmsiz, amansız,mərhəmətsiz, zalım.{
-8{56{1{HƏYAT{is. [ər.] 1. Materiyanın hərəkətininmüəyyən inkişaf mərhələsində əmələgələn xüsusi forması; varlıq, dirilik.{
-3{45{1{MƏMULAT{is. [ər. emal olunmuş şeylər]Fabrik və ya başqa vasitələrlə istehsal olunmuş,hazırlanmış şeylər, məhsullar.{
-0{50{0{ZAMAZKA{[rus.] köhn. Şüşə ilə çərçivəaralarını və rəng çəkməzdən əvvəl dəlikdeşikləritutmaq və ümumiyyətlə, hamarolmayan yerləri hamar etmək üçün işlədilənözlü maddə.{
-1{62{1{QƏBUL{is. [ər.] 1. Verilən, təslim edilən,göndərilən, təklif edilən şeyi alma.{
-5{61{1{YAĞMURLU{sif. Yağışlı. Yağmurlu hava.Payızın yağmurlu bir günü idi.{
-1{48{0{ÜSUL{is. [ər.] 1. Hər hansı işdə tətbiq edilənsistem, yol, qayda, tərz, metod.{
-48{12{1{ZƏDƏLƏNMƏ{“Zədələnmək”dən f.is.Badımcanı sərin yerdə saxlamaq və zədələnmədənqorumaq lazımdır..{
-3{66{0{SƏRKƏRDƏ{is. [fars.] Böyük qoşun birləşmələrininbaşçısı; komandan.{
-7{59{0{TABE{is. [ər.] Başqasının tabeliyində,hökm və iradəsi altında olan, ondan asılı olan,onsuz heç bir şey edə bilməyən, tabe olan.{
-3{66{1{SƏKKİZ{miqd. s. Yeddidən sonra gələnədəd – 8. Səkkiz kitab.{
-3{64{0{TƏMTƏRAQ{is. [ər.] Dəbdəbə, təntənə,calal. Mədinə təmtərağı və israfı sevməzdi.{
-6{48{1{PLAN{[lat. planus – səth] 1. Bir şeyin (yer,tikinti, qurğu və s.{
-6{28{0{VURĞU{is. 1. Vuruş, zərbə. Yan alan gəmilərinvurğusundan qorumaq üçün əsasınqabaq hissəsində xüsusi qoruyucu qoyulur.{
-9{41{0{ÖVLAD{is. [ər. “vələd” söz. cəmi] 1. Oğulvə ya qız; uşaq, oğul-uşaq.{
-7{63{1{ŞƏHƏR{is. [fars.] İnzibati idarələr, sənaye,ticarət və mədəniyyət mərkəzi olan böyükyaşayış məntəqəsi.{
-40{13{0{YÜKSƏLTMƏK{f. 1. Qaldırmaq, ucaltmaq,daha uca etmək, hündürlüyünü artırmaq.{
-47{15{0{SƏSLƏNMƏ{“Səslənmək”dən f.is. Əhmədöz işlərinin musiqi dilinə köçürülməsini, bütünhava dalğalarında səslənməsini istəyirdi.S.Rəhimov.{
-16{49{0{MƏTANƏT{is. [ər.] Dözüm, davamlılıq,möhkəmlilik, yenilməzlik, sarsılmazlıq, səbat,mətinlik; iradə.{
-21{46{1{SƏFƏR{is. [ər.] 1. Səyahət, yola çıxma,yol. Səfərdə olmaq.{
-2{70{0{ZİYADƏ{zərf [ər.] 1. Çox, artıq, çoxlu.Dağdan endim piyada; Dərdim vardır ziyada;Biz xəlvətdə görüşdük; Aləmə düşdü səda.{
-16{49{1{MEYDANÇA{[fars.] 1. Balaca meydan,kiçik meydan. Meydançaya kölgə salır; Çadırkimi göy buludlar.{
-10{56{0{SOXULMA{“Soxulmaq”dan f.is.{
-45{25{1{GÖSTƏRMƏ{“Göstərmək”dən f.is.{
-11{54{0{XOŞLANMA{“Xoşlanmaq”dan f.is.{
-10{43{0{SAYMAQ{f. 1. Rəqəmləri sıra ilə demək,sadalamaq, sanamaq.{
-39{31{0{HOPPANMA{“Hoppanmaq”dan f.is. Pərdəqalxanda iki əcinnə üstdən hoppanmaoynayırlar. Ə.Haqverdiyev.{
-39{31{1{HÖRMƏ{1. “Hörmək”dən f.is.2. sif. Hörməklə düzəldilmiş; hörülmüş,hörülmə.{
-18{53{1{ÇALMAQ{f. 1. Çalğı alətində bir musiqinömrəsi icra etmək, çalğı alətini səsləndirmək.{
-9{61{1{KOMANDA{is. [fr. kommande, lat.commandare-dən] 1.{
-17{57{0{ZARAFATYANA{zərf və sif. Zarafat yoluilə, ciddi olmayaraq.{
-35{33{0{DÜŞÜRMƏK{f. 1. Bir şeyi götürərək vəya başqa vasitə ilə aşağı endirmək, aşağısalmaq.{
-20{52{1{AĞLAYAN{f.sif. b a x ağlağan. Ağabalaçox ağlayan uşaq idi.{
-22{54{1{XALA{is. 1. Ananın bacısı. [Sultan bəy:]Xalanın muzdu o olar ki, canı rahat olar.{
-36{32{1{ŞÜURSUZ{sif. 1. Şüuru olmayan; dərrakəsiz,fəhmsiz, düşüncəsiz, anlaqsız.{
-37{29{0{İLGƏKLƏMƏ{“İlgəkləmək”dən f.is.{
-35{36{0{ƏSMƏ{1. “Əsmək”dən f.is.2. B a x əsməcə. Əsmə azarı.{
-8{62{0{KOLLUQ{is. Kollardan ibarət sahə; koluçox olan, kol basmış yer.{
-24{55{1{BAYRAM{is. 1. Hər hansı bir tarixi və s.hadisə şərəfinə keçirilən şadlıq günü; təntənə.{
-21{59{0{DAVA-DALAŞ{is. bax dava1 1-ci mənada.Daha burada hərb meydanını müfəssəltəsvir etməyin lüzumu yoxdur.{
-20{52{0{ALÇA{is. Cır və peyvənd cinsləri olançəyirdəkli turş və ya şirin yumru bir meyvə.{
-7{69{1{TƏRƏDDÜD{is. [ər.] 1. Bir işi görməkdə,bir məsələni həll etməkdə qətiyyət göstərməmə,qərarsızlıq göstərmə, nə edəcəyini bilməmə,qəti qərara gələ bilməmə; qərarsızlıq.{
-12{58{1{QORXUNC{sif. 1. Dəhşət doğuran, qorxuyasalan, vahiməyə salan, dəhşətli.{
-23{39{1{MAYA{is. [fars.] 1. Dişi dəvə. Dəvə, maya,nər, köşək; Lökləyirlər dalbadal.{
-6{72{0{MƏMNUN{sif. [ər.] 1. Razı olan, razı, xoşnud.Neyləmişsən Molla Səfi, Bəybaba; Məmnundu,əzizim, bu qədər səndən.{
-6{75{0{MÜVƏFFƏQ{is. [ər.]: müvəffəq olmaq –nail olmaq, əldə etmək, istəyinə yetişmək,məqsədinə çatmaq.{
-38{27{1{ZÜLM{is. [ər.] Ədalət və insafa zidd olanhal və hərəkət, güclünün gücsüzə qarşı göstərdiyiamansız təzyiq, haqsızlıq, insafsızlıq,ədalətsizlik, cəfa.{
-9{74{1{HƏRBƏ-ZORBA{is. Qorxutmaq, dəhşətəsalmaq üçün edilən hərəkət və ya deyilənsöz; hədə-qorxu, hədə.{
-3{79{0{PROBLEM{[yun. problema – vəzifə, tapşırıq]Həll olunmasını tələb edən nəzəri vəya əməli məsələ.{
-1{59{0{HƏLƏ{zərf 1. İnkar cümlələrində gözlənilənbir işin vaxtında baş vermədiyini, gecikmişolduğunu bildirir – hələ də.{
-3{84{0{BÜROKRAT{is. [fr.] Vəzifəsini işin zərərinə,formal yerinə yetirən adam; rəsmiyyətçi.{
-4{77{1{TÖRƏMƏ{1. “Törəmək”dən f.is.2. is. Nəsil. [Mirzə Cəmil:] Böyük bir törəməniniçində vur-tut fərasətlisi ortancıl əmiminoğlu idi ki, fələk əlimdən aldı.{
-3{82{0{SƏRT{sif. 1. Bərk, möhkəm. Sərt daş. – Buvaxt yaxında, sərt qayaların dalında insangülüşləri, külüng və motor səsləri eşidildi.{
-13{68{1{DANLAMAQ{f. Töhmət etmək, məzəmmətetmək. Zeydi söyür, Kamiləni danlayır;Körpə deyil, hər biri söz anlayır.{
-11{70{0{SƏNƏTKAR{is. [ər. sənət və fars. ...kar]1. Hər hansı bir sənətlə məşğul olan, sifarişləiş qəbul edib öz əmək alətləri ilə, kustarüsulla məhsul hazırlayan şəxs, usta; bir sənətləkeçinən adam.{
-18{68{1{QURĞUŞUN{is. 1. Göyə çalar bozumtulrəngli çox ağır yumşaq metal.{
-15{63{1{KARBONAT{[lat.] 1. kim. Karbon turşusuduzu (soda, potaş və s).{
-23{39{0{MƏDƏN{is. [ər.] 1. Yer altından çıxarılanfaydalı qazıntı (metal külçəsi, mineral və s.{
-13{66{0{GÜBRƏ{is. Bitkiləri daha yaxşı qidalandırmaqvə məhsuldarlığını artırmaq üçüntorpağa qatılan üzvi və ya qeyri-üzvi maddə.{
-3{84{1{BAXAN{f.sif. 1. Nəzarət edən, idarə edən.Dəftərxanaya baxan.{
-21{59{1{DƏST{is. [fars.] klas. Əl. İndi ki almısaniynə dəstinə; Bu şan-şan bağrımı gözə, dur,gözə! Ə.{
-1{88{0{DÖNMƏK{f. 1. Getdiyi, ya durduğu tərəfinəksinə çevrilmək.{
-14{64{0{YARI{is. Tən bölünmüş iki hissədən biri.Eyni yarısı.{
-1{88{1{DƏHŞƏT{is. [ər.] 1. Qorxunc bir şey vəya böyük bir təhlükə, hadisə və s.{
-17{60{0{BÖLMƏ{is. 1. “Bölmək”dən f. is2. Riyaziyyatda: bir sayda neçə dəfə başqasay (ədəd) olduğunu bilmə əməli.{
-5{87{1{ZƏHƏRLƏNMƏ{“Zəhərlənmək”dən f.is.İnsan çox [spirtli içki] içdikdə orqanizmdəzəhərlənmə əlamətləri görünür.{
-3{91{0{VURUŞ{is. 1. Vuruşma; dava, müharibə,döyüş. Qılınc vuruşundan, güllə səsindən;Yuvadakı quşlar uçhauç oldu.{
-0{95{0{UÇURTMA{is. Badban, çərpələng. Avropaüsulu ilə tərbiyə verən atalar uşaqlarını çoxsevərlər, oxşarlar, onlara uçurtma verərlər.“Məktəb”.{
-27{54{1{LAVA{[ital.] 1. Vulkanın ağzından çıxanərgin odlu kütlə.{
-16{62{0{ƏDAVƏT{is. [ər.] Ürəkdə saxlanılan düşmənçilikhissi, kin, küdurət, qərəz, birinəqarşı qəzəb hissi.{
-3{93{1{QARAMAL{is. Buynuzlu iri ev heyvanı(öküz, camış, inək).{
-26{55{0{ÇAPALAMA{“Çapalamaq”dan f.is.{
-0{99{0{TOPLAŞMAQ{f. 1. Yığışmaq, bir yerə cəmləşmək,toplanmaq.{
-8{95{1{ALÇAQ{sif. 1. Hündürlüyü, ucalığı az olan,yerdən, hər hansı bir səviyyədən azacıqhündür olan.{
-26{36{1{YASƏMƏN{is. [fars.] bot. Ağ, qırmızı vəbənövşəyi rəngdə ətirli salxımvari çiçəkləraçan kol.{
-25{37{0{LAVAŞ{is. Nazik yayılmış xəmirdən bişirilənçörək növü: yuxa, yayma.{
-16{75{0{MƏNƏM-MƏNƏM{mənəm-mənəm demək– lovğalanmaq, təkəbbür göstərmək,özündən başqa heç kəsi saymamaq.{
-21{72{1{ONDA{zərf 1. İndi yox, o zaman, o vaxt.Gələrəm, onda danışarıq.{
-21{46{0{SAYMAZYANA{zərf Saymaz, saymazlıqla,etina etmədən, etinasızlıqla, saymazcasına.{
-23{72{1{LƏPƏ{is. Qoz, fındıq, badam kimi qabıqlımeyvələrin, həmçinin paxlalı bitkilərin içi.{
-18{68{0{QUBERNAT{“Qubernator” sözünün vaxtıilə canlı danışıq dilində işlənmiş forması.{
-8{81{0{TOPLANMA{“Toplanmaq”dan f.is.{
-25{41{0{TƏLƏFFÜZ{is. [ər.] Bir hərfi və ya sözü,kəlməni söyləmə xüsusiyyəti, tərzi.{
-15{76{1{İXTİSAS{is. [ər.] Elmin, texnikanın, sənətin,yaxud incəsənətin ayrıca sahəsi.{
-12{77{1{DUSTAQXANA{is. köhn. Həbsxana, həbsevi, qazamat. Dustaqxanaya salmaq.{
-6{86{0{QOYULMA{“Qoyulmaq”dan f.is.{
-21{67{1{KEÇƏ{1. is. Yunu döyüb basmaqla hazırlanansıx qalın material.{
-20{70{0{GƏNC{[fars.] is. Xəzinə, dəfinə. Görüb,Vahid, xəyal etdim üzündə zülfi-pürçinin;Ki, guya gənc üstündə yatıbdır əjdahazülfün. Ə.Vahid.{
-25{45{1{PARÇALANMA{“Parçalanmaq”dan f.is.{
-8{95{0{AZƏR{is. [fars.] Oda xidmət göstərənmələk.{
-10{89{1{VƏTƏNPƏRVƏR{sif. [ər. vətən və fars....pərvər] Öz vətənini sevən, öz xalqına vəvətəninə sadiq və onların mənafeyi yolundacanından keçməyə hazır olan.{
-8{37{1{DURU{sif. 1. Maye halında olan, su kimiaxıcı, sıyıq.{
-24{64{1{FEODAL{[lat.] 1. Feodalizm dövründəhakim sinfin nümayəndəsi; təhkimçi mülkədar.{
-25{72{1{ÖYRƏTMƏ{“Öyrətmək”dən f.is.{
-9{90{0{SƏBƏB{is. [ər.] 1. Bir şeyin, hadisənin başverməsini şərtləndirən başqa hadisə, şərait.{
-20{77{0{YOXLAMAQ{f. 1. Bir şeyin varlığı – yoxluğu,yaxud düzgünlüyü, həqiqi vəziyyəti barədəyəqinlik hasil etmək üçün onu gözdənkeçirmək, təhqiq etmək, müayinə etmək,araşdırmaq.{
-7{69{0{TÖRƏ{sif. məh. Hündür olmayan, yastı, kiçik.Törə ağac.{
-8{93{0{QƏNAƏT{is. [ər.] 1. Bir şeyi ehtiyatla,sərfəli və səmərəli işlətmə, artıq işlətməmə,israf etməmə.{
-16{73{0{COŞQUN{sif. 1. Coşmuş halda olan; qızışmış.2. Bütün gücü, şiddəti ilə təzahür edən;güclü, gur, şiddətli; təlatümlü.{
-23{50{0{QULDURLUQ{is. Soyğunçuluq, yaxudöldürmək məqsədi ilə silahlı basqın; çapovulçuluq,yol kəsmə.{
-12{89{1{MƏKTƏB{is. [ər.] 1. Yetişməkdə olannəslə təlim və tərbiyə verən təlim-tərbiyəmüəssisəsi.{
-30{52{1{KÜTLƏ{is. [ər.] Mexanikanın əsas kəmiyyətlərindənbiri – bir cisimdə olan maddəninmiqdarını ölçən əsas kəmiyyət; cismin,ona təsir edən qüvvəyə nisbətlə inersiyalılığınölçüsü.{
-29{53{0{DÜZÜLMƏ{“Düzülmək”dən f.is.{
-33{49{1{TUTULMA{1. “Tutulmaq”dan f.is. [Valentinov:]Tutulması çətindir.{
-29{58{1{DAŞLAŞMA{“Daşlaşmaq2”dan f.is.{
-24{62{0{QURUMAQ{f. 1. Yaşlığı, islaqlığı, rütubəti,nəmliyi yox olmaq, quru hala düşmək.{
-31{38{1{GÖTÜRMƏ{“Götürmək”dən f.is.{
-53{10{1{DOĞURMA{“Doğurmaq”dan f.is.{
-1{0{1{AŞIQ{is. 1. anat. Diz qapaqlarından çıxanoynaq sümüyü.{
-10{3{0{İNCƏ{sif. 1. Zərif işlənmiş, nəfis, qəşəng.İncə qolbaq.{
-27{44{0{HƏNDƏSƏ{is. [ər. əsli fars. əndazə] Riyaziyyatıncisimlərin səth formalarından vəonların münasibətlərindən bəhs edən şöbəsi.{
-26{65{0{BALABAN{is. Nəfəslə çalınan qamışdan,ağacdan qayrılan sadə çalğı aləti; düdük,tütək.{
-27{64{1{TAPMAQ{f. 1. Axtarış, aramaq nəticəsindəmeydana çıxarmaq, üzə çıxarmaq, əldə etmək.{
-52{13{0{ŞUMLAMAQ{f. Torpağı kotanla sürmək,şum eləmək, yumşaltmaq.{
-19{59{1{ƏLAVƏ{[ər.] 1. sif. Əsas şeyin üstünə artırılan;üstəlik.{
-14{79{0{ZİNDAN{is. [fars.] 1. Keçmiş zamanlarda:qaranlıq və müdhiş dustaqxana (adətən yerinaltında olardı).{
-18{78{1{SAĞALMA{“Sağalmaq”dan f.is.{
-16{84{0{AVAR{is. məh. Keçmişdə kənd evlərinindamına döşənən qamışaoxşar ot; ümumiyyətlə,qaba quru ot.{
-35{46{1{GÖSTƏRMƏK{f. 1. Görməsinə imkan yaratmaq;görsətmək.{
-17{81{0{DAXIL{is. 1. Mağaza, dükan və s.-də pullarınyığıldığı yeşik, sandıqça; kassa.{
-16{84{1{AHƏNG{is. [fars.] 1. Səslər, rənglər və s.arasında uyğunluq, müvafiqət.{
-31{64{1{NAQQAL{sif. Çox, boş-boş danışmağısevən; lağlağı, boşboğaz, gəvəzə, çərənçi.{
-0{85{0{QARA{is. Plov üzərinə, yanına qoyulan xuruş. Aşın ****sı azdır.{
-15{86{0{DƏRS{is. [ər.] 1. Müəyyən bir fənni öyrənməküçün daimi, müntəzəm təlim.{
-21{79{1{BÖLÜNMƏ{“Bölünmək”dən f.is.{
-1{80{1{DARTMAQ{f. 1. Bir şeyi əli və ya başqaşeylə tutub özünə tərəf və ya kənara çəkmək.{
-20{85{0{NƏZAKƏT{is. [ər., əsli fars.] 1. Tərbiyə,ədəb, mərifət; ədəb qaydaları.{
-23{81{1{ZORLANMA{“Zorlanmaq”dan f.is.{
-12{58{0{QATI{sif. 1. Sıyıq, duru olmayan; mət, qəliz.Qatı palçıq.{
-18{88{0{OXŞAMA{“Oxşamaq1”dan f.is.{
-56{4{1{VURUŞDURMAQ{icb. Bir-birinin üzərinəsalışdırmaq, savaşdırmaq, aralarına dava salmaq.Dostları vuruşdurmaq.{
-41{12{1{VÜCUD{is. [ər.] 1. Olma, varlıq, mövcudolma, var olma.{
-25{84{1{MƏNSUB{sif. [ər.] Nisbəti və mənsubiyyətiolan, əlaqəsi olan, aidiyyəti olan.{
-21{87{1{QAÇMAQ{f. 1. İti, cəld addımlarla getmək,çox iti getmək; yüyürmək.{
-15{92{0{OTURMAQ{f. 1. Yanını bir yerə, ya oturacağaqoyub oturaq vəziyyət almaq, əyləşmək.{
-30{68{0{LAVAŞA{is. məh. Atı nalladıqda ağzına,qulağına keçirilən burmac, tıxac.{
-19{90{1{SAMOVAR{is. [rus.] İçi kömürlə doldurulanodluğu olan çay üçün su qaynadılan metalcihaz.{
-13{95{0{DALBADAL{zərf Bir-birinin dalınca, birbirininardınca; ardıcıl, peydərpey.{
-14{94{1{SABUN{is. Kirli və ya yağlı şeyləri və s.-niyuyub təmizləmək üçün yağlardan və qələvimaddələrdən hazırlanan, suda tez əriyibköpüklənən bərk və ya yarımmaye kütlə.{
-34{47{0{MÖHKƏMLƏTMƏ{“Möhkəmlətmək”dənf.is.{
-23{81{0{ZƏDƏLƏNMƏK{f. Bir şeyə toxunmaq vəya bir şey dəymək nəticəsində bir yeri əzilmək,zədə dəymək, zədə əmələ gəlmək,yaralanmaq, şikəst olmaq.{
-12{98{0{ÇƏNGƏL{is. [fars.] 1. Yeyilən şeyin parçalarınıgötürmək üçün bir neçə uzun dişiolan alət.{
-29{76{1{OXUYAN{is. 1. Xanəndə. Əntiqə indi nəoxuyur, nə də oxuyanlara yanaşırdı.{
-40{42{1{YOXSUL{1. is. Yaşamaq üçün kifayət qədərvəsaiti, imkanı olmayan, ehtiyac içindəolan adam; kasıb, möhtac.{
-31{74{1{NƏMLƏNMƏ{“Nəmlənmək”dən f.is.{
-30{75{0{ZƏLZƏLƏ{is. [ər.] Yer qabığının bəzi sahələrininvulkanik və ya tektonik proseslərüzündən güclü titrəməsi; yer sarsıntısı.{
-34{72{1{ZƏFƏRAN{is. [ər.] 1. bot. Çiçəkləri yeyintisənayesində istifadə olunan çoxillik soğanaqlıcənub bitkisi.{
-19{90{0{SAMAN{is. Taxıl döyüldükdən və təmizləndikdənsonra qalan çöpşəkilli hissəciklər,xırda-xırda doğranmış küləş.{
-35{62{1{BULANMA{“Bulanmaq”dan f.is.{
-33{32{1{ƏHATƏ{is. [ər.] Ətrafını tutma, dövrələmə,dörd tərəfini tutma.{
-33{73{0{GƏRDƏN{is. [fars.] köhn. Boyun. Boyunsürahidir, bədənin büllur; Gərdənin çəkilmişminadan, Pəri.{
-16{90{1{XƏTT{is. [ər.] 1. Cızıq. Kağızda dikinəçəkilən xətlərin sayı indi beş idi.{
-33{66{0{CANAVAR{is. [fars.] 1. İt cinsindən dərisiboz, yırtıcı heyvan; qurd.{
-33{77{0{PARÇALAMAQ{f. 1. Parça-parça etmək,tikə-tikə doğrayıb, kəsib paralamaq; doğramaq.{
-35{62{0{BƏSLƏNMƏK{1. “Bəsləmək”dən məch.Bəslənmək istəyirəm bütün ürəklərdə mənarzu, diləklər kimi.{
-36{55{1{SÖYLƏNMƏ{“Söylənmək”dən f.is.{
-33{58{0{REFLEKTOR{[lat. reflektor – inikas etmək,əks etmək] 1.{
-37{64{1{ƏHVALAT{is. [ər.] Hadisə, olmuş iş, olubkeçən işlər, qəziyyə.{
-31{60{0{TULLANMA{“Tullanmaq”dan f.is.{
-27{79{0{DÜYÜNÇƏ{is. İçinə şey qoyulub düyünlənmişyaylıq, parça və s.{
-28{21{1{İSTİ{1. sif. Qızdırılmış, isidilmiş, hərarətiartırılmış (soyuq qarşılığı).{
-41{55{1{MEHR{is. [ər. məhr] Köhnə məişətdə:evlənən kişi tərəfindən aldığı qadına – qızanikahda talaq üçün təyin edilən pul; kəbinpulu.{
-35{70{0{SATAŞMA{“Sataşmaq”dan f.is.{
-41{66{1{DIRNAQ{is. 1. Barmaqların ucunun üsttərəfində sümük kimi maddədən ibarət örtü.{
-38{45{0{QÜSURSUZ{sif. və zərf Heç bir qüsuru,eybi, nöqsanı, çatışmazlığı olmayan; nöqsansız,mükəmməl, müntəzəm.{
-0{97{0{DƏYMƏ{“Dəymək2”dən f.is. Meyvələrindəyməsi.{
-38{76{1{OLMAZ{1. İmkan yoxdur, mümkün deyil.Qidasız yaşamaq olmaz.{
-7{30{0{DUMAN{is. 1. Atmosferin aşağı təbəqələrindəsu buxarının toplanması nəticəsindəəmələ gələn kəsif, tutqun hava kütləsi; sis.{
-39{43{0{DOĞRAM{is. Bir dəfə doğramaqdan hasilolan miqdar, yaxud doğranmış, kəsilib parçalaraayrılmış şey.{
-40{73{1{MÜŞƏMBƏ{is. [əsli ər. müşəmbə] Su keçirməməküçün bir və ya hər iki üzünə xüsusimaddə sürtülmüş parça.{
-26{80{1{MƏRD{is. [fars.] 1. Kişi. Çarpışmaq üçünlazım ikən mərdə cəsarət; Bilməm neçin olmuşsana qalib əsəbiyyət.{
-58{7{1{SAXLAMAQ{f. 1. Bir şeyi əlində (ağzında,dişində və s.{
-40{73{0{MÖHKƏMLƏŞMƏ{“Möhkəmləşmək”dənf.is.{
-17{38{1{ƏLAC{is. [ər.] 1. Bir xəstəliyin sağalmasınakömək edən hər bir şey; dərman, dava.{
-39{51{1{MƏSLƏHƏT{is. [ər.] 1. Necə hərəkətetmək, bir işi necə görmək haqqında təklif,göstəriş, tövsiyə.{
-24{48{0{ÜÇBUCAQ{1. is. Üç bucağı olan həndəsicisim, üçkünclü cisim.{
-23{25{1{BUCAQ{is. 1. Bir şeyin iki daxili tərəfininbirləşdiyi yer; künc, guşə.{
-43{53{1{ZÜYÜLDƏMƏK{f. dan. Sürüşmək. Lotudinməz-söyləməz minbərdən züyüldüyübdüşür yerə.{
-28{40{1{CƏRGƏ{bax sıra. Qadın üzünü çevirərək:– Geridə qalma, nizamı pozma, cərgənidüzəlt, – deyə, uca səslə komanda etdi.{
-44{67{1{KÖNDƏLƏN{sif. Eninə. Köndələn xətt.Köndələn tikiş.{
-42{36{1{TƏRƏFDAR{is. [ər. tərəf və fars. ...dar]Birinin tərəfini saxlayan, tərəfində duran, onumüdafiə edən adam; tərəfgir.{
-38{39{0{XUŞGƏBAR{is. [fars.] Quru meyvə.Xuşgəbar dükanı. – İldə neçə dəfə böyükkarvanlar Hacı Səlim Sərdarovun xuşgəbaryüklərini Xorasandan Türküstana gətirirdilər.{
-39{37{0{TƏŞƏKKÜR{is. [ər.] Edilən yaxşılığa, göstəriləndiqqətə görə razılıq, minnətdarlıq.{
-35{79{0{TOPA{sif. və is. 1. Qalaq, yığın. Torpaq topası.{
-19{65{1{DOLU{is. Havada donub tökülən yağmurdənələri.{
-49{69{1{QORUMAQ{f. 1. Hücumdan, təhlükədən,zərbədən, düşməncə qəsdlərdən və s.{
-46{67{1{İLANYOLU{sif. Qıvrılıb uzanan, əyriüyrü,dolanbac. İlanyolu (z.) dağa çıxdıq.{
-35{79{1{TƏRPƏNMƏ{“Tərpənmək”dən f.is. _Yertərpənmə – zəlzələ.{
-32{85{0{QALMAQ{f. 1. Olduğu yerdə və halda durmaq,yerini dəyişməmək, yerindən getməmək.{
-32{85{1{QAPANMA{“Qapanmaq”dan f.is.{
-27{89{0{BÖHTAN{is. [ər.] Birini ləkələmək üçünnahaqdan ona pis bir şey isnad etmə; iftira,şər.{
-28{88{1{GÖLMƏÇƏ{is. Kiçik göl, balaca göl, suvə ya çirkab yığını.{
-31{91{0{QARANLIQ{1. is. İşıq yoxluğu, baxandaheç bir şey görünməyən hal; zülmət.{
-27{86{0{DOLAŞA{is. zool. Qarğa cinsindən kiçikqara rəngli quş; zağca.{
-27{92{0{FƏAL{[ər.] 1. sif. İşlək, çalışqan, işcil,fəaliyyətli, daim fəaliyyət göstərən, çox işgörən, çox işləyən.{
-30{39{0{MÖVSÜM{is. [ər.] 1. İlin dörd fəslindənhər biri; fəsil.{
-39{64{1{QURUMUŞ{f.sif. Quru hala gəlmiş. Qurumuşağac. Qurumuş çörək.{
-23{94{0{ZƏMANƏ{[ər.] 1. Dövr, zaman. Səni mənəbəxş elədi zəmanə; Yaxşı olan nəsib olmazyamanə.{
-25{72{0{ÖLDÜRMƏ{“Öldürmək”dən f.is.{
-26{93{1{BACARMA{“Bacarmaq”dan f.is.{
-23{96{0{OLMA{“Olmaq”dan f.is. Havaların istiolmasına baxmayaraq, qalın ipək parça vəməxmər paltar geymiş [xanım] .{
-28{83{0{TƏNBƏLLƏŞMƏ{“Tənbəlləşmək”dən f.is.{
-23{99{0{YAVA{sif. 1. Pis, xarab, ədəbsiz, həyasız._Yava danışmaq (söyləmək) – pis-pis danışmaq,ədəbsiz danışmaq, söyüş söymək.{
-25{23{0{LENT{is. [alm.] 1. Bəzək və s. üçün işlədiləndar, uzun parça zolağı.{
-39{64{0{QUBERNATOR{[lat.] tar. 1. 1917-ci ilinqilabından əvvəl Rusiyada quberniya(vilayət) rəisi; vali.{
-35{89{1{ZƏNCİR{is. [fars.] 1. Bir-birinə keçmişhalqalardan ibarət dəmir bağ; silsilə.{
-30{70{1{ATMA{“Atmaq”dan f.is. və s. Atma nizə.Ən qədim insanların ilk atma silahı daş,ağac parçası və s. idi.{
-33{49{0{TUTMAQ{f. 1. Əli və ya əlləri ilə bir şeydənyapışmaq.{
-33{43{1{QƏND{is. [ər.] Şəkər çuğunduru və yaşəkər qamışından hasil edilən ağ kristal şəklindəşirin qida maddəsi; şəkər.{
-45{58{1{QOYULMAQ{məch. 1. Bir yerə yerləşdirilmək;düzülmək.{
-38{89{1{LAQEYD{[ər.] 1. sif. Heç bir şeyin fikrini,qeydini çəkməyən, heç bir şeyə əhəmiyyətverməyən, hər şeyi qulaqardına vuran.{
-39{51{0{MƏTBƏƏ{is. [ər.] Kitab, qəzet və s. çapolunan müəssisə; çapxana, basmaxana.{
-26{22{1{LEQAL{[lat.] Qanuni, qanunla icazə (yol)verilən, açıq (qeyri-leqal əksi).{
-43{23{1{DƏBDƏBƏ{is. [ər.] Təmtəraq, təntənə,cah-calal, büsat.{
-48{70{0{TOXUNMUŞ{f.sif. Toxunmaqla hazırlanmış.Toxunmuş jaket.{
-48{62{1{KARVAN{is. [fars.] 1. Bir-birinin ardıncasıra ilə hərəkət edən yüklü heyvan (əsasəndəvə) dəstəsi (qatarı); qafilə.{
-11{60{0{ARPA{is. 1. Adətən, yazlıq taxıl bitkisi.Arpa əkini.{
-46{8{1{SƏRVƏT{is. [ər.] 1. Var, dövlət. Böyük sərvətvə mülk sahibi Hacı Kərim iki gün əvvəlvəfat etmişdi.{
-43{4{0{ÜZ-ÜZƏ{bax üzbəüz. Oturub üz-üzə üçnəfər çoban; Yanıq Əjdər, Qara Qurban, gəncOsman.{
-32{94{0{HƏSR{is. [ər.]: həsr etmək – yalnız birişə, bir şəxsə və s.{
-45{1{1{AVARA{[fars.] 1. is. Heç bir işlə məşğulolmayaraq boş-boş gəzən adam, işsizgücsüzadam.{
-45{58{0{QATLANMA{“Qatlanmaq”dan f.is.{
-45{1{0{AĞLATMA{“Ağlatmaq”dan f.is.{
-38{89{0{LAVAŞANA{is. Turş giləmeyvə mətindənhazırlanan, xörəyə qatılan turşu növü (adətənlavaş şəklində olur).{
-24{91{1{ZADƏ{is. [fars.] klas. Oğul, övlad. Duruyoroxşamaya zadəsini; Sevgili, nazlı xudadadəsini.{
-44{11{1{ƏMƏLƏ{is. [ər.] Fəhlə, işçi. Molla .. çıxıbgedəndə hamampulunu on-on beş qatartıq verir, hamamçını da, əmələləri dəutandırır.{
-44{85{1{BOYUNDURUQ{is. 1. İş heyvanlarını arabayavə s.-yə qoşmaq üçün onların boynunakeçirilən ağac çərçivə şəklində qoşqucihazı.{
-41{83{1{VƏTƏNDAŞ{is. 1. Müəyyən bir dövlətəhalisinə mənsub olub, öz dövlətinin qanunlarıilə müəyyən edilmiş bütün tələbləri yerinəyetirməyə borclu olan şəxs.{
-42{92{0{YERBƏYER{zərf 1. Hər biri öz yerində;qaydada, müntəzəm.{
-46{49{1{DƏFTƏRXANA{is. [əsli yun. və fars.]Bir idarənin kargüzarlıqla məşğul olan şöbəsi.{
-45{56{0{FANTAST{[yun.] 1. Xəyalpərəst, fantaziyaçı.2. ədəb.{
-49{87{1{MURDAR{sif. [fars.] 1. Müsəlman dini etiqadıncatəmiz sayılmayan; napak (pak əksi).{
-36{87{0{BOSTAN{is. [fars.] Qovun, qarpız, xiyar,badımcan kimi tərəvəz bitkiləri yetişdirilənyer.{
-33{93{1{SƏADƏT{is. [ər.] 1. Həyatda ən yüksəkməmnunluq hissi; bir şəxsin hər hansı bir şeydənduyduğu dərin məmnunluq və sevinchissi; xoşbəxtlik.{
-30{97{0{TƏLƏ{is. Vəhşi və ov heyvanlarını və yaquşları, eləcə də siçan və s.{
-27{71{1{ƏDƏD{is. [ər.] 1. Say, hesab. Ədədlərindörd əməlindən bəhs edən elmə hesab elmideyilir.{
-48{50{1{XOŞBƏXT{sif. [fars.] Bəxti gətirmiş,taleli, bəxtli, sevinc və rifah içində yaşayan.{
-46{88{0{DOĞURMAQ{f. 1. B a x doğuzdurmaq.2. məc. Törətmək, meydana gətirmək,əmələ gətirmək; törəməsinə, əmələ gəlməsinəsəbəb olmaq.{
-49{8{0{HÖRÜLMÜŞ{f.sif. 1. Tikilmiş, inşa edilmiş.Hörülmüş divar.{
-44{85{0{BUXALTER{[alm.] Bir idarə və ya müəssisəninmaliyyə işlərini aparan işçi; mühasib.Baş buxalter. Buxalter köməkçisi.{
-47{79{1{AZALTMA{“Azaltmaq”dan f.is.{
-42{82{0{FƏRƏHLƏNMƏK{f. Sevinmək, şadlanmaq,könlü açılmaq. Atan fərəhlənsin əməllərindən;Vətən çaylarından güc alsın səsin!B.{
-46{91{1{SƏBAT{is. [ər.] Axıra qədər sözünün üstündədurma, iqrarında möhkəm olma; dəyanət,sabitlik, davamlılıq, möhkəmlik, mətanət,əzm.{
-33{43{0{QAZMA{1. “Qazmaq1”dan f.is. Qazmatexnikasının inkişafı.{
-37{40{1{YAXA{is. 1. Paltarın boyun keçən hissəsi,habelə bu hissəyə tikilən və boyunu əhatəedən parça zolağı.{
-52{63{1{QURDALANMAQ{f. 1. Öz yerindəcə tərpəşmək,nə isə bir şeylə əlləşmək, məşğulolmaq, yüngülcə işləmək; sakit oturmamaq.{
-44{76{1{TRAKTOR{[ing.] Kənd təsərrüfatı alətlərinivə başqa alətləri çəkib aparmaq üçünözüyeriyən maşın.{
-50{68{0{QALXMA{“Qalxmaq”dan f.is.{
-36{41{0{QARI{is. 1. Qoca qadın, qoca arvad. Budur!Dünya görmüş o qarıya bax; Mənalı gözləriintizardadır.{
-41{80{0{TAXTA{is. [fars.] 1. Şalbandan mişarlakəsilmiş çox qalın olmayan yastı ağac parçası.{
-42{92{1{YOLUXMA{“Yoluxmaq2”dan f.is. Xəstəniyoluxma.{
-40{1{1{SARI{qoş. 1. Tərəf, səmt. Qapıya sarı getmək.Evə sarı gəlmək.{
-51{25{0{LƏTAFƏT{is. [ər.] 1. Lətiflik, yumşaqlıq,xoşluq.{
-32{59{1{ÇUXUR{is. 1. Yer səthindən aşağı çökmüş,oyulmuş yer; oyuq, çala.{
-46{33{1{XƏBƏR{is. [ər.] 1. Bir iş, hadisə və s. haqqındaməlumat.{
-31{96{1{HƏLL{[ər.] 1. is. xüs. Bir cismin və yamayenin suda və ya başqa maye içərisindəöz tərkibini pozub onunla qarışması, onuniçində əriməsi.{
-50{7{1{GÖVDƏ{is. 1. Bədən. Rəis stola tərəf əyilmişşişman gövdəsini geriyə əyib, kresloyasöykəndi.{
-43{35{0{QURBAN{is. [ər.] 1. Dini adətlərə görə,Allah yolunda kəsilən qoyun və ya başqabir heyvan.{
-50{65{0{SÜRƏTLƏ{zərf Tez, cəld, iti. Sürətlə uzaqlaşmaq.Sürətlə addımlamaq.{
-47{79{0{ALA-BULA{sif. Rəngbərəng xallardan,zolaqlardan ibarət, cürbəcür rənglərə boyanmış,müxtəlif rəngli.{
-39{97{0{TÖKMƏ{1. “Tökmək”dən f.is.2. is. tex. Əridilib qəlibə tökülmüş metalməmulat.{
-53{74{1{ƏVVƏLLƏR{zərf 1. İlk zamanlar, ilkçağda, ibtida. Əvvəllər işdən çox qorxurdum.{
-48{31{1{QANUNAUYĞUN{sif. Qanuna müvafiq,qanun ilə düz gələn; təsadüfi deyil, obyektivqanun üzrə əmələ gələn, qanuna tabe olan.{
-47{40{0{QURŞAQ{is. 1. Beli sıx tutmaq üçün onasarılan uzun və dar parça; belbağı.{
-48{77{0{SƏRTLƏŞMƏ{“Sərtləşmək”dən f.is.{
-47{32{0{QANTARĞA{is. Yüyənin, atın ağzına keçirdilənqoşa dəmir hissəsi, cilovu.{
-52{4{1{GÜNDÜZ{is. Gecə-gündüzün işıqlı hissəsi;gündoğandan günbatana qədər olan müddət(gecə müqabili).{
-50{29{1{TƏNTƏNƏ{is. [ər.] 1. Təmtəraq, dəbdəbə,büsat. Nəsillər! Qulaq asın diqqətlə bir dəmənə; Göydəndüşmə deyildir bu calal, bu təntənə.{
-40{26{1{LƏMƏ{is. Tavandan bir az aşağı divaruzunu kərpicdən, taxtadan, palçıqdan qabqacaqdüzmək üçün düzəldilmiş yer; rəf.{
-45{53{0{MƏCBUR{sif. [ər.] Zorla bir işə sövq olunan,zorla bir işi görməli olan; naçar.{
-50{38{1{MUŞTULUQ{is. 1. Xeyir xəbər, şad xəbər,xoş xəbər, sevindirici söz; müjdə.{
-51{72{0{YARADAN{1. “Yaratmaq”dan f.is. Gələcəyiyaradanlar.{
-48{43{0{YALTAQ{sif. Yaltaqlıq edən, başqasınayaltaqlanan.{
-54{3{1{DÜŞÜNMƏ{“Düşünmək”dən f.is.{
-48{3{1{XƏYAL{is. [ər.] 1. Bir şəxsin və ya şeyininsan fikrində, təsəvvüründə təcəssümedən surəti; təxəyyül.{
-40{84{0{CƏZA{is. [ər.] Hər hansı təqsirə, cinayətə,pis əmələ qarşı tətbiq edilən təsir tədbiri.{
-52{42{1{ÇAPOVUL{1. B a x çapqın.2. B a x çapqınçı. Çapovul Osman paşa;Şirvanı tutdu daşa.{
-52{35{1{QAZMAQ{is. Bişmişin, qazanın, qabın vəs.-nin dibinə yapışıb bərkişmiş hissəsi, qazılıbçıxardılan ən sonuncu hissəsi.{
-49{30{0{SƏSLƏMƏK{f. Çağırmaq, haraylamaq.Uşağı səslə, gəlsin.{
-54{22{1{ÇOBAN{is. [fars.] Qoyun-keçi sürüsünüotaran adam.{
-54{59{1{ÜST-ÜSTƏ{zərf 1. Bir-birinin üstünə, qalaq-qalaq.{
-51{14{1{MƏZƏ{is. [fars.] 1. Adətən iştaha üçünəsas yeməkdən qabaq və ya onunla birlikdə,yaxud içki içilərkən yeyilən müxtəlif yüngülyeməklər; çərəz.{
-51{47{0{SUVAŞQAN{sif. Yapışan, yapışqan. Suvaşqanmaddələr.{
-52{20{0{HEYRAN{is. [ər.] Gözəl və ya əzəmətlibir şey qarşısında vurulmuşcasına çaşıb qalma;valeh olma.{
-51{36{0{QABAQDA{zərf 1. İrəlidə, qabaq tərəfdə.Qabaqda oturmaq.{
-49{61{0{QAYNATMA{1. “Qaynatmaq”dan f.is.2. sif. Qaynadılmış, qaynadılaraq bişirilmiş.Qaynatma hədik.{
-56{16{1{PƏRVAZ{is. [fars.]: pərvaz etmək – b a xpərvazlanmaq.{
-56{56{1{EHTİYAT{is. [ər.] 1. Gələcəkdə lazımolacağı nəzərdə tutulub tədarük edilmiş,saxlanmış şey; tədarük.{
-1{68{0{MƏKTUB{is. [ər.] Hər hansı bir məqsədlə,yaxud bir şeyi xəbər verib bildirmək üçünyazılıb poçt və ya başqa vasitə ilə birinə göndərilənkağız.{
-50{51{1{ZƏRB{is. [ər.] 1. Vurma, vuruş, zərbə. Zərbəningücü, şiddəti.{
-19{65{0{DAVA{is. [ər.] 1. Dalaşma, söyüşmə; çarpışma,vuruşma.{
-54{18{0{SƏRSƏMLƏMƏ{“Sərsəmləmək”dən f.is.{
-54{44{1{OYNATMA{“Oynatmaq”dan f.is.{
-42{75{1{NƏQL{is. [ər.] 1. b a x nağıl. Qəhrəmanbalaca Sabir üçün müxtəlif nəql danışırdı.{
-11{49{0{BURA{zərf (bəzən əvəzlik mənasında işlənir).Bu yer.{
-54{57{0{MÖHTƏŞƏM{sif. [ər.] Öz əzəməti, böyüklüyü,həşəməti ilə insanı valeh edən; əzəmətli,ehtişamlı.{
-57{32{1{DURMADAN{zərf Dayanmadan, arası kəsilmədən,ara vermədən, daim.{
-40{60{0{ZƏHM{is. [fars. “səhm”dən] 1. Qorxu,vahimə, dəhşət; qorxu, vahimə, dəhşət doğuranhal, görünüş.{
-34{81{0{QRUP{is. [alm.] 1. Bir yerdə, bir-birinəyaxın olan bir neçə adam, heyvan, şey və s.{
-56{74{1{GECƏLƏMƏ{“Gecələmək”dən f.is.{
-55{39{0{MƏNFƏƏT{is. [ər.] 1. Gəlirin xərci çıxdıqdansonra qalan artıq hissəsi, pul gəliri;qazanc.{
-51{50{0{MAĞAZA{is. [əsli ər. “məxazin”dən] Böyükdükan, iri ticarət müəssisəsi.{
-37{53{0{İNSAN{is. [ər.] 1. Adam, bəşər. Ey mələksimaki səndən özgə heyrandır sana; Həqbilir, insan deməz, hər kim ki insandır, sana.{
-58{42{1{KÖKLƏNMƏ{“Köklənmək1”dən f.is.{
-52{87{1{XARABA{[ər.] 1. is. Dağılmış, uçulmuş,viranə qalmış şəhərin, tikilinin və s.{
-57{45{0{ELEKTRON{[yun.] 1. Çox möhkəm vəplastiklik xassəsinə malik olan alüminiumlamaqnium ərintisi.{
-51{90{0{ŞALBAN{is. Şaxı, budağı, üst qatı təmizlənmişböyük ağacın gövdəsi; dirək.{
-55{34{0{TƏRCÜMƏ{is. [ər.] Bir dildən başqa diləçevirmə (çevrilmə).{
-28{18{0{ƏRƏB{is. 1. Ön Asiyada və Şimali Afrikadayaşayan, sami dilləri qrupuna daxil olanxalq və bu xalqa mənsub adam.{
-57{32{0{DÜRÜST{sif. [fars.] 1. Doğru, düzgün,düz. Dürüst söz.{
-55{81{0{DƏSTƏ{is. [fars.] köhn. Gecə, yaxud gündüzsaat on iki.{
-55{27{1{SURƏT{is. [ər.] 1. Zahiri görünüş, şəkil.Surəti dəyişmək.{
-51{92{0{DAYANMA{“Dayanmaq2”dan f.is.{
-61{53{1{APARMAQ{f. 1. Bir şeyi əlinə götürərək,yaxud dalına yükləyərək bir yerdən başqayerə köçürmək, gətirmək.{
-55{86{1{BAĞÇA{is. 1. Kiçik bağ, həyət bağı. Ayçıxıb bağçanı işıqlatmışdı.{
-57{49{0{HƏSRƏT{is. [ər.] 1. Bir şeyi və ya birini birdaha görmək, qovuşmaq arzusu.{
-51{28{0{DÜZBUCAQ{is. Bütün bucaqları düz olandördbucaq.{
-54{87{0{QARALMA{“Qaralmaq”dan f.is.{
-47{24{1{OLMAQ{1. Müstəqil feil kimi aşağıdakımənalarda işlədilir: a) yaşamaq, sakin olmaq,ömür sürmək.{
-51{92{1{DOQQUZ{miqd. s. Səkkizdən sonra gələnvə 9 rəqəmi ilə işarə olunan say və miqdar.Səkkizdən sonra doqquz gəlir.{
-58{7{0{SÜRTÜLMƏ{“Sürtülmək”dən f.is.{
-7{89{1{QOŞA{1. sif. Cüt, iki dənə, bir cüt. Qoşaqala qapısı.{
-36{55{0{SAHƏ{is. [ər.] 1. Açıq yer, boş və geniş yer,tutulmamış yer; düzən.{
-56{74{0{GÖYƏRMƏ{“Göyərmək3”dən f.is.{
-44{49{1{ƏVƏZ{is. [ər.] 1. Qarşılıq, bir şeyin (adamın)yerini tuta bilən şey (adam).{
-50{96{0{SUVARMA{1. “Suvarmaq”dan f.is.2. Suvarmaqla bağlı olan, suvarmaya məxsus.{
-57{23{1{İXTİYAR{is. [ər.] 1. Öz arzusu və iradəsi;öz iradə və arzusu ilə hərəkət etmə.{
-52{11{0{QOPARMAQ{f. 1. Dartaraq və ya çəkərəkbir şeyin bir hissəsini ayırmaq, kəsmək, üzmək,qırmaq.{
-53{95{1{BASMA{is. tar. Rusiyada monqol-tataristilası dövründə: üzərində tatar xanının şəkliolan möhür.{
-58{78{1{ÇERTYOJ{is. [rus.] Bir şeyin müəyyənüsullarla səth (kağız, kalka, taxta və s.{
-57{23{0{İLİŞDİRİLMƏ{“İlişdirilmək”dən f.is.{
-50{80{1{AÇMA{“Açmaq”dan f.i{
-47{99{0{YUNANCA{zərf və sif. Yunan dilində. Yunancadanışmaq.{
-55{83{0{REKORD{[ing.] 1. İdman yarışında göstərilənən yüksək nailiyyət.{
-57{43{0{GÖRÜLMƏ{“Görülmək2”dən f.is.{
-58{54{1{TƏBƏSSÜM{[ər.] 1. is. Gülümsəmə. [Qocanın]sallaq iri dodaqlarında, yanları cizgilərləbürüşmüş kiçik gözlərində, sümükləriqalxaq, ətli, qırmızı üzündə bir təbəssüm vardı.{
-48{43{1{YAVAŞ{zərf 1. Hərəkəti asta, zəif, ağır.Yavaş yerimək.{
-60{3{1{QOPARMA{“Qoparmaq”dan f.is.{
-60{85{1{OYATMAQ{f. 1. Yuxudan durğuzmaq,oyandırmaq, oyanmasına səbəb olmaq,oyanmağa məcbur etmək.{
-58{90{0{KRAXMAL{[alm.] b a x nişasta.{
-62{73{1{MƏHSULLU{bax məhsuldar 1 və 2-cimənalarda. Məhsullu yer.{
-60{3{0{QIZIL{1. is. Rəngi sarı, bahalı bəzək şeylərivə s.{
-56{94{1{ARABA{is. İki və ya dördtəkərli nəqliyyatvasitəsi.{
-60{55{0{XARABLAŞMAQ{f. Pisləşmək, daha daxarab olmaq, fənalaşmaq, korlanmaq.{
-41{49{1{KOTAN{is. Yer şumlamaq üçün enli metalgavahını olan kənd təsərrüfatı aləti.{
-62{88{1{DOMBALAQ{is. Başı yerə dirəyib, ayaqlarınıbaşından aşırma; mayallaq.{
-55{98{0{HAVADAR{is. [ər. həva və fars. ...dar]Birinin tərəfini saxlayan, ona tərəf çıxan,onu müdafiə edən; tərəfgir, tərəfkeş, tərəfdar.{
-58{94{1{TOXMAQ{is. 1. Ağacdan yonulmuş iribaşlıçəkic, çox yoğun taxta çəkic.{
-59{16{1{KƏMƏR{is. [fars.] 1. B a x qayış 1-cimənada. Kəməri qırılmaq.{
-28{99{0{YAYLA{is. 1. Yaylaq. [Molla Həmid:]Allaha şükür, belə səfalı yerdə, yaylada damaqçağ olmazmı? M.{
-59{16{0{KOBUDLUQ{bax qabalıq.{
-60{95{1{SAVAD{is. [ər.] Yazıb-oxumağı bacarma;yazı-pozu.{
-59{70{1{GERÇƏK{1. zərf Doğru, düz, həqiqi. Zülfünəzülməti-dövran dedilər, gerçək imiş;Ləbinə çeşmeyi-heyvan dedilər, gerçək imiş.{
-40{96{1{ZÖVQ{is. [ər.] 1. Hər hansı bir xoş təəssüratdanduyulan sevinc hissi, məmnunluqhissi; ləzzət, həzz, nəşə.{
-61{77{0{TURŞMƏZƏ{sif. Azacıq turş dadan;turştəhər. Turşməzə nar.{
-48{95{1{QURĞU{is. Bir yerdə qurulmuş mexanizm,maşın, cihazlar sistemi və s.{
-59{93{0{BƏSLƏMƏ{“Bəsləmək”dən f.is.{
-60{79{0{AĞLAMA{1. “Ağlamaq”dan f.is.2. məc. Fəryad. Nəriltisi, ağlaması onunbənzər tufana; Göz yaşının qətrələri sıçraro yan-bu yana. A.Səhhət.{
-62{10{1{TOXUNDURMA{“Toxundurmaq”dan f.is.{
-57{67{1{DƏRMAN{is. [fars.] 1. Həkimin reseptiüzrə hazırlanan müalicə vasitəsi; dava.{
-62{27{1{ƏLBƏTTƏ{1. zərf Mütləq, hər halda. Əlbəttəgəlməlidir.{
-36{99{0{ALMAQ{f. 1. Əlinə götürmək, əl ilə tutubgötürmək, qaldırmaq.{
-55{39{1{MƏNA{is. [ər.] 1. Sözün, cümlənin ifadəetdiyi məfhum, anlayış.{
-60{47{1{ƏTRAF{is. [ər. “tərəf” söz. cəmi] 1. Cəhətlər,tərəflər.{
-50{60{1{KASA{is. [fars.] 1. Çini, büllur, saxsı vəya metaldan qayrılmış ağzıgen qab.{
-63{38{1{HEKAYƏ{is. [ər.] 1. Rəvayət şəklində kiçikədəbi nəsr əsəri.{
-58{5{0{YAPIŞQAN{1. is. Yapışdırmaq, bitişdirməkxassəsi olan maddə.{
-58{30{0{ÇƏNBƏR{is. [fars.] 1. Çəllək və s.-nindövrəsinə keçirilən dəmir və s.{
-62{73{0{MƏYUSLUQ{is. Arzunun baş tutmamasıüzündən insanda əmələ gələn kədər, ruh düşkünlüyü,pərişanlıq, ümidsizlik hissi.{
-61{11{0{TOPOQRAF{[yun.] Topoqrafiya mütəxəssisi(b a x topoqrafiya 1-ci mənada).{
-64{53{1{KOBUDLAŞMAQ{bax qabalaşmaq. İşləməkdənəlləri kobudlaşıb.{
-66{48{1{PROTESTANT{[lat. protestans – etirazedən] Protestantlığa (protestantizmə) mənsubolan, ona etiqad edən adam.{
-63{67{1{KÖÇÜRMƏ{“Köçürmək”dən f.is.{
-65{13{1{MƏYUS{sif. və zərf [ər.] Ümidsiz, ümidinikəsmiş, ruhdan düşmüş; naümid; qəmli,qüssəli, bikef, pərişan, pərt.{
-57{67{0{DÖYÜŞ{is. Vuruşma, çarpışma, vuruş,dava. Döyüş meydanı.{
-64{14{0{RƏĞBƏT{[ər.] is. Meyil, təvəccöh. Hazırdahəm iqbal, həm də məmləkət xalqınınrəğbəti Qızıl Arslanın tərəfindədir.{
-59{41{0{DƏSMAL{is. [fars.] 1. Əl-üz və s. silməküçün ensiz, uzunsov parça; məhrəba.{
-60{62{0{RƏNGARƏNG{sif. [fars.]1. Müxtəlif rənglərdə olan; müxtəlifrəngli,əlvan.{
-61{71{0{SƏRGƏRDAN{sif. və zərf [fars.] Yersizyurdsuz,sərsəri, avara.{
-62{68{0{TÖKÜLMƏ{“Tökülmək”dən f.is. [Xəlil:]Bax, çay hazır, tökülməsi də gənc xanıma həvaləolunur. Çəmənzəminli.{
-63{59{0{XARAKTER{sif. [yun.]bax səciyyəvi. Xarakterik cəhət.{
-22{63{1{QRAM{[fr.] Metr ölçü sisteminin çəki vahidi(1 kub santimetr suyun çəkisinə bərabərdir).{
-64{51{0{GÖTÜRÜLMƏ{“Götürülmək2”dən f.is.{
-64{49{0{GÖRÜŞMƏK{qarş. 1. Bir-birini görmək.[Yusif:] On ildir ki, Şamdan ilə görüşməmişəm.{
-66{18{1{YARATMA{“Yaratmaq”dan f.is.{
-66{18{0{YÜNGÜLLÜK{is. 1. “Yüngül”dən mücər.(ağırlıq ziddi).{
-60{25{1{MEYDAN{is. [fars.] 1. Şəhər və ya kənd,qəsəbə və s.{
-47{87{1{DOLA{bax dovla.{
-64{20{0{ÖYRƏNMƏK{f. 1. Bilik əldə etmək, birşeyi təcrübə ilə mənimsəmək.{
-63{38{0{HƏMAHƏNG{sif. və zərf [fars.] Birbirinəuyan, uyğun (səslər, rənglər və s.{
-62{88{0{DÖVLƏT{is. [ər.] Sərvət, mal, mülk, pulvə b. maddi nemətlərin məcmusu.{
-62{47{1{ÇATMAQ{f. 1. Yükləmək. Küsülü qardaş,gəl yükü çataq, yenə küsümüz küsü.{
-61{61{1{HƏFTƏ{is. [fars.] Şənbədən bazar gününəqədər yeddi günə bərabər vaxt ölçüsüvahidi.{
-60{65{0{ZƏHLƏAPARAN{bax zəhlətökən.{
-65{29{1{SƏRVƏTLƏNMƏ{“Sərvətlənmək”dən f.is.{
-67{4{1{HOPDURMA{“Hopdurmaq”dan f.is.{
-69{31{1{YANBAYAN{bax yan-yana. Yanbayanoturmaq. – Onda görürsən yıxılıb yanbayan;Bir neçə növrəstə cavan laybalay. M.Ə.Sabir.{
-67{75{1{POZĞUNLUQ{is. 1. Əxlaqsızlıq, mənənpozulmuş adamın hal və keyfiyyəti.{
-62{35{0{SALLAQ{sif. Sallanmış halda olan, sallanan,aşağıya tərəf uzanmış, ya bükülmüş.{
-66{81{0{ÖLÇMƏK{f. 1. Bir şeyin ölçüsünü, miqdarınıqəbul olunmuş vahidlər əsasındamüəyyən etmək, müəyyənləşdirmək.{
-63{83{0{FOTOQRAF{[yun.] 1. Bir sənət kimi fotoqrafiyailə məşğul olan adam; fotoqrafçı,şəkilçəkən.{
-70{40{1{DÖYÜŞDÜRMƏ{“Döyüşdürmək”dən f.is.{
-60{85{0{OYUNCAQ{is. 1. Uşaqların oynayıb əylənməsiüçün düzəldilmiş hər cür şey.{
-71{71{1{QƏZƏBLƏNMƏK{f. Çox hiddətlənmək,hirslənmək, qızmaq, açığı tutmaq, özündənçıxmaq, qızışmaq.{
-68{44{0{BOŞ-BOŞUNA{zərf 1. Mənasız, gərəksiz,faydasız, səmərəsiz, nəticəsiz, hədər, əbəs.{
-32{23{1{ƏLDƏN{zərf 1. dan. Tez, arada, cəld. Əldənget, bazardan qənd al, gəl.{
-65{29{0{SAĞLAM{sif. 1. Bədəninin bütün üzvləridüzgün, sağ-salamat olan, normal işləyən,bədəni hər cəhətcə saz olan (xəstə ziddi).{
-65{46{0{HAY-KÜY{1. is. Səs-küy, qışqırtı, bağırtı,hay-haray, gurultu, qalmaqal, dava, mərəkə.{
-60{25{0{MƏNAFE{is. [ər. “mənfəət” söz. cəmi]1. Mənfəət, fayda, nəf, xeyir.{
-21{79{0{BƏRK{sif. 1. Mayelərdən və qazaoxşarcisimlərdən fərqli olaraq, öz şəkil və ölçüsünümühafizə edən.{
-26{67{0{EMAL{is. [ər.] Müxtəlif əməliyyat vasitəsiləqayırma, hazırlama, düzəltmə, hazırşəklə salma.{
-52{57{1{QAPAN{f.sif. Dişləyən, tutan, sərt. Qapanat. – Qapan it dişini göstərməz. (Ata. sözü).{
-65{92{1{QƏFLƏT{is. [ər.] 1. Qafillik, xəbərsizlik.Qılma bizi qəflət ilə mədhuş; Həmsöhbətineyləmə fəramuş.{
-64{33{0{SƏSLƏNDİRMƏ{“Səsləndirmək”dən f.is.{
-65{92{0{QALXAN{is. köhn. Qədim müharibələrdəqılınc və s.{
-64{96{0{QƏLƏNDƏR{is. [fars.] Şərqdə: dünyadanəl çəkib, sərsəri həyat keçirən dərviş; dünyanınzövq və nemətlərinə inanmayaraq, həqiqətaxtaran filosof.{
-65{9{0{FƏRASƏT{is. [ər.] Dərhal anlama, başadüşmə, dərk etmə, qavrama bacarığı, zehinitiliyi; ayıqlıq.{
-66{40{1{AĞARTMA{1. “Ağartmaq”dan f.is.2. məh. Çəltiyi dingdə döyüb qabıqdançıxartdıqdan sonra hasil olan düyü.{
-69{23{1{SAXLAMA{“Saxlamaq”dan f.is.{
-65{27{0{YALVARMAQ{f. Birinin könlünü yumşaldıbbir şeyə razı etmək üçün öz nəfsinialçaldaraq təkidlə acizanə xahiş etmək, ricaetmək.{
-69{94{1{QUDRON{[fr.] tex. Mazut qalıqlarındanistehsal edilən, başlıca yol tikilişində və s.{
-44{76{0{TUTU{1. B a x tutuquşu 1-ci mənada. Hərtərəfdə tutu, qumru; Coşur, oxur indən belə.{
-69{41{0{KÖPÜK{dan. bax qəpik. [SəməndərNərgizə:] Amma bazara çıxartsan köpük qiymətiyoxdur. B.Bayramov.{
-69{23{0{SƏRVAXT{sif. və zərf [fars. sər və ər. vəqt]Sayıq, gözüaçıq, ehtiyatlı, ayıq.{
-69{31{0{YADDAŞ{is. Bir şeyi zehnində saxlamaqvə yenidən təsəvvürdə canlandırmaq qabiliyyəti;hafizə.{
-66{99{0{BEYNƏLMİLƏL{is. [ər.] Sif. mənasında.Millətlər arasında olan, bütün xalqlar tərəfindənqəbul edilmiş; beynəlxalq.{
-69{86{1{ZƏRXARA{is. Zərli ipəkdən toxunmuşparlaq və şax ipək parça.{
-68{90{0{TAPMA{“Tapmaq”dan f.is.{
-69{76{0{KÜLFƏT{is. [ər.] 1. B a x ailə 1-ci mənada.Bir külfətdə dörd nəfər uşaq var.{
-72{15{1{GÜCLÜ{sif. 1. Fiziki qüvvəsi çox olan, fizikicəhətdən inkişaf etmiş; qüvvəli (insanvə heyvan haqqında).{
-68{87{0{ZƏYLƏTMƏ{“Zəylətmək”dən f.is.{
-69{94{0{QIRMIZ{is. 1. B a x qırmızböcəyi.2. Bu böcəkdən hasil edilən qırmızı boya.{
-70{1{1{FƏRQLƏNMƏ{“Fərqlənmək”dən f.is.{
-66{2{0{GÜCLƏNMƏ{“Güclənmək”dən f.is.{
-72{83{1{ƏZƏMƏT{is. [ər.] 1. Böyüklük, ululuq.İstərsən əgər şahlıq, şöhrət, əzəmət, hörmət;Həm əhdə vəfa eylə, həm faili-peyman ol!Heyran xanım.{
-69{6{0{GƏLƏN{1. sif. Bundan sonrakı, gələcək,gözlənilən, növbədəki.{
-51{0{1{YARA{is. 1. Bədən, yaxud onun daxili orqanlarıtoxumalarının hər hansı bir silah vəya başqa iti, bərk şeylə zədələnməsi və buzədənin yeri.{
-23{44{1{YEYƏ{is. Metalı yonmaq, təmizləməküçün üzəri diş-diş olan polad alət; suvand,törpü.{
-71{71{0{QOŞULAN{f.sif. Özü hərəkət edə bilməyən,başqası ilə birləşdirilən; motorsuz.{
-69{16{0{GÖTÜRMƏK{f. 1. Əlinə almaq, əlinə alıbqaldırmaq. [Xanməmməd] yaşıl çuxasınınqollarını çiyninə atıb, .{
-73{43{1{BOŞLUQ{is. 1. Boş yer, boş sahə. Burabaşdan-başa boşluqdur.{
-69{78{0{QUNDAQLAMAQ{f. Uşağı qundağa sarımaq,bələmək. Uşağı yuyundurub qundaqlamaq.{
-70{74{0{MƏLAHƏT{is. [ər.] Gözəllik, şirinlik, lətafət;cazibə, duzluluq.{
-74{64{1{QORUYUCU{sif. Bir şeydən qoruyan, birşeyin qabağını alan, saxlayan, mühafizə edən.{
-70{63{1{BANDAQ{is. Saxlanmaq üçün saplağındandəstə ilə uzun ipə bağlanmış meyvələrvə bu meyvələrin bağlandığı ip.{
-72{66{0{GÖRÜNMƏ{“Görünmək”dən f.is.{
-77{40{1{SIÇRAYIŞ{is. 1. Sıçrama işi, sıçrama tərzi;yerindən hoppanma, atılma.{
-42{0{1{UŞAQ{is. 1. Azyaşlı oğlan, ya qız; çocuq.Uşaqlar üçün kitab.{
-68{36{0{EYLƏMƏK{“Etmək” felinin üslubi variantı.Eşq sövdasından, ey naseh, məni məneylədin; Yox imiş əqlin, mənə yaxşı nəsihətvermədin.{
-75{12{1{SÖHBƏT{is. Şifahi fikir, məlumat mübadiləsi;danışıq, müsahibə, ixtilat.{
-53{27{1{ÜZRƏ{qoş. 1. Uyğun olaraq, əsasən, görə.Camaat ata-baba adətləri üzrə duz-çörəkləordunu pişvaz edib, şadlıqdan qurban kəsdilər.{
-59{36{1{DƏYƏ{is. Qarğıdan və s.-dən düzəldilmişkomacıq; alaçıq, qazma.{
-65{67{1{DÜYMƏ{is. 1. Paltarı ilməkləmək üçün(bəzən də yaraşıq üçün) sümükdən, metaldanvə ya başqa materialdan qayrılan, adətənyuvarlaq şəkildə olan şey.{
-32{51{0{OTURMA{“Oturmaq”dan f.is.{
-74{84{1{ÖLÇMƏ{“Ölçmək”dən f.is.{
-76{61{1{DOĞRANMA{“Doğranmaq”dan f.is.{
-46{6{0{AZAD{sif. [fars.] 1. Azadlıqdan istifadəedən, başqasından asılı olmayan, sərbəst.{
-51{75{0{HAVA{is. mus. Səslərin, müəyyən musiqivəhdəti əmələ gətirən ardıcıllığı; musiqiahəngi, melodiya.{
-72{50{1{MƏSAFƏ{is. [ər.] İki yerin, iki nöqtəninarası, aralarındakı uzaqlıq.{
-68{53{0{MASQARA{is. [ər.] İstehza, ələ salma,dolama, rişxənd, gülmə.{
-37{94{0{ADƏT{is. [ər.] 1. Hər hansı bir xalqınhəyatında qədimdən bəri qəbul edilmiş vəkök salmış ənənə, rəsm.{
-75{12{0{SƏRƏNCAM{is. [fars.] 1. Əmr, göstəriş.Səməndər qayda-qanunu bilmədiyi üçün sərəncamgözləyirdi.{
-75{47{0{HƏŞƏRAT{is. [ər. “həşərə” söz. cəmi]1. Cücülər. Həşəratın əkinlərə zərəri.{
-75{37{1{YORĞUNLUQ{is. Çox işləmək, yerimək,hərəkət etmək nəticəsində bədənin gücdəndüşməsi, yorulması, yaxud zehnin bir müddətsəmərəli surətdə işləyə bilməyəcək halagəlməsi; üzgünlük, taqətsizlik hissi.{
-73{30{1{YAZMA{1. “Yazmaq”dan f.is.2. sif. Əl ilə yazılmış (basma – çap müqabili).Yazma kitablar.{
-78{7{1{KƏPƏNƏK{is. Bədən və qanadları tozkimi incə pullarla və cürbəcür rənglərlə bəzənmişdördqanadlı böcək.{
-46{97{0{MƏRC{is. Bir şey üstündə mübahisə edəniki nəfər arasında bağlanan və uduzan tərəfinyerinə yetirməli olduğu bir şeyi nəzərdətutan şərt.{
-70{57{1{QƏRƏZ{ara s. [ər.] Xülasə, sözün qısası(bəzən “ki” bağlayıcısı ilə birlikdə).{
-67{64{1{YARIM{say Tam bir şeyin iki bərabər hissəsindənbiri; tam bir şeyin tən yarısı.{
-72{0{1{GÜMÜŞ{is. 1. Parlaq bozumtul-ağ rəngli,kimyəvi element – nəcib metal (zərgərlikvə bəzək şeyləri qayırmaq, pul kəsmək və s.{
-73{8{0{EYLƏMƏ{“Eyləmək”dən f.is.{
-73{10{0{NƏHAYƏT{[ər.] 1. is. Son, axır, qurtaracaq.Hər şeydə başlanğıc və nəhayət vardır.{
-71{69{0{BOYUN{is. 1. Başın bədənlə birləşən hissəsi.Yoğun boyun.{
-67{25{0{YUXA{is. 1. Nazik yayılmış (mayasız) xəmirdənsacda bişirilən çörək növü; yayma.{
-74{50{1{BADALAQ{is. 1. Sərbəst güləşmə zamanımüqabil tərəfi yıxmaq üçün ayağını onunayağına dolaşdırıb burma.{
-78{57{1{QƏZƏBLƏNMƏ{“Qəzəblənmək”dən f.is.{
-75{1{1{MATERİAL{[lat.] 1. Bir şey qayırmaq, istehsaletmək, qurmaq üçün işlədilən cisim,şey, maddə, ləvazimat, xammal.{
-73{22{1{YATMAQ{f. 1. Yuxu halında olmaq; yuxulamaq.Bərk yatmaq.{
-34{37{1{ÜÇÜN{qoş. Feillərdən, adlıq və ya yiyəlikhalında olan isimlərdən, şəxs, qayıdış və işarəəvəzliklərindən əvvəl gələrək, həmin sözlərləaşağıdakı mənaları ifadə edir: 1) səbəbbildirir: .{
-74{92{1{QAZANC{is. 1. Qazanılan, əldə edilən şey;fayda, xeyir.{
-74{4{0{RENTGEN{[alman fizikinin adından]1. Rentgen şüaları ilə işıqlandırma.{
-77{75{1{ZÜLMKAR{is. [ər. zülm və fars. ...kar]Zalım, zülm edən, müstəbid.{
-74{58{0{ÜRƏYƏYATAN{sif. Xoşagələn, gözəşirin,gözəgəlimli, bəyənilən, cazibəli.{
-75{81{0{VURĞUN{sif. 1. Vurulmuş, aşiq olmuş, həddindənartıq sevən; məftun.{
-73{38{0{PROSES{[lat. processus – gediş] 1. Hərhansı bir hadisənin gedişi.{
-74{92{0{QƏŞƏNG{sif. [fars.] Görünüşcə çox gözəl,bəzəkli, insanda bədii təsir oyadan.{
-75{19{1{LÜĞƏT{is. [ər.] 1. Adətən əlifba sırası ilədüzülmüş, izahı və ya başqa dilə tərcüməsiverilmiş sözlər toplusundan ibarət kitab; sözlük.{
-79{44{1{DÖVR{is. [ər.] 1. Dolanma, hərlənmə,fırlanma; bir şeyin öz oxu ətrafında hərəkəti.{
-80{53{1{QADAĞA{dan. bax qadağan. Qorxmursanovçudan, tülək tərlandan; Məgər yoxdursənə qadağa, kəklik! Aşıq Rəcəb.{
-66{87{1{SƏMƏ{sif. Ağıldan kəm, ağlı çatmayan.{
-76{54{1{KEÇMƏ{“Keçmək2”dən f.is.{
-77{60{0{ZƏRBƏ{is. [ər.] 1. Qolaylayaraq bir şeyləşiddətlə vurma; vuruş.{
-77{86{1{VƏRDƏNƏ{is. 1. Xəmir və s. yaymaq üçünağacdan və s.{
-34{57{1{REAL{sif. [lat. realis] 1. Xəyalda deyil,həqiqətdə mövcud olan; həqiqi, gerçək.{
-57{51{0{KEYF{bax kef. [Əliməmməd:] Neçə beləbayramlar görək, keyfimiz kök, damağımızçağ olsun! Çəmənzəminli.{
-79{80{1{QURBAĞA{is. 1. Sıçramaq üçün dal ayaqlarıuzun, suda və quruda yaşayan quyruqsuzheyvan.{
-27{29{0{ALAQ{is. Tarlada, bostanda və s.-dəbitən və becərilən bitkilərin inkişafınamane olan yabanı bitki.{
-78{84{0{QASNAQ{is. 1. Sağalmaq üzrə olan yaranınüzündə əmələ gələn qabıq, köz.{
-71{85{0{FƏHLƏ{is. [ər.] İstehsalatda bir peşə kimiəməklə məşğul olan, işçi sinfinə mənsubəməkçi; əmələ.{
-82{4{1{VURUŞDURMA{“Vuruşdurmaq”dan f.is.{
-73{14{0{LEHMƏ{is. Duru palçıq, batdaq. Lehməyəbatmaq. Cavad yoldaşları ilə birlikdə xirtdəyəkimi lehməyə bataraq qalın meşələrdən keçir,.{
-79{54{0{YAN-YANA{zərf Yanaşı olaraq, bir-birininyanında, bir-birinin yanınca.{
-74{90{0{NEÇƏ{1. Əşyanın miqdarını müəyyənləşdirməküçün işlədilən sual əvəzliyi: nə qədər,nə miqdar.{
-74{20{0{CÜRBƏCÜR{sif. Müxtəlif. Cürbəcür kitablaralmaq. Cürbəcür tamaşalara baxmaq.{
-67{94{1{ƏGƏR{bax əgər-əskik.{
-80{6{0{GÖRÜŞMƏ{“Görüşmək”dən f.is.{
-76{76{0{DÜŞKÜN{sif. 1. Xoşbəxtliyini, rifahını itirmiş,yazıq, bədbəxt, zavallı.{
-79{56{0{CAVAN{[fars.] 1. B a x gənc 1-ci mənada.Cavan müğənni.{
-61{20{1{YURD{is. 1. İnsanın doğulub böyüdüyü yer,məmləkət, ölkə; vətən.{
-79{14{1{DÖRDÜNCÜ{1. “Dörd”dən sıra s. Dördüncümərtəbə. Dördüncü sinif.{
-77{18{1{XƏBƏRDAR{sif. [ər. xəbər və fars. ...dar]1. Bir işdən xəbəri, məlumatı olan, agaholan, məlumatlı.{
-82{49{1{OLACAQ{is. 1. Tale, alın yazısı, labüd şey.[Mahmud bəy:] Olacağa çarə yoxdur, hacı!N.{
-76{24{0{FAYTONÇU{is. 1. B a x faytonsürən.Faytonçuların bir hissəsi müsəlman idi.{
-77{51{0{İLXIBAŞI{bax ilxıçı.{
-54{35{1{DAYA{bax dayə. Bir tərəfdə Şəhrəbanuxanım oturubdur, bir tərəfdə Şərəfnisə xanım,bir tərəfdə onun dayası Xanpəri.M.F.Axundzadə.{
-82{81{1{ZİYA{is. [ər.] İşıq, aydınlıq, nur. Mən onundərdinə oldum mübtəla; Şəmi-xəyalıma overir ziya.{
-81{15{1{ELEKTROD{[yun. elektron və hodos –yol] fiz. Elektrik cərəyanını maye və qazlarıniçinə daxil etmək üçün lövhəcik, şarvə s.{
-75{1{0{MÜRƏKKƏB{sif. [ər.] 1. Bir neçə hissədən,ünsürdən ibarət olan (sadə ziddi).{
-57{86{1{HAÇA{is. və sif. Ağacın bucaq şəklindəayrılmış gövdəsi və ya budağı, habelə haçalanmanınbaşlandığı yer.{
-79{44{0{DUYĞU{is. 1. Obyektiv aləmin hadisələriniqavrama, hiss etmə qabiliyyəti; hiss.{
-75{62{0{KORLAMAQ{f. 1. Xarab etmək, pis vəziyyətəsalmaq, yaramaz hala salmaq; pozmaq.{
-82{61{1{ƏQRƏBA{is. [ər.] Qohumlar (çox vaxt“qohum-əqrəba” şəklində işlənir).{
-85{3{1{GÖRMƏ{“Görmək”dən f.is. Görmə qabiliyyəti.Görmə siniri.{
-60{21{0{DUMA{[rus.] tar. Rusiyada: bir sıra mərkəzivə yerli idarə orqanlarının adı.{
-80{23{1{DOĞRAMA{1. “Doğramaq”dan f.is.2. is. İçinə çörək doğranmış süd, qatıq vəya ayrandan hazırlanan duru yemək.{
-75{27{0{ANLAMA{“Anlamaq”dan f.is.{
-80{73{1{DÜYÜN{is. Toy, şənlik. Bayraməlisiz toyolmaz, Qənbərsiz düyün.{
-80{73{0{DONDURMA{is. Dondurulmuş süd (qaymaq),şəkər, meyvə şirəsi və s.{
-77{29{0{ZOLAQ-ZOLAQ{sif. Zolaqlar şəklindəolan. Zolaq-zolaq tarlalar.{
-81{10{0{VURUŞMAQ{f. 1. Döyüşmək, savaşmaq,çarpışmaq. Düşmənlə vuruşmaq.{
-40{16{0{ƏDƏB{is. [ər.] Əxlaq qaydalarına riayət,əxlaq və hərəkətdə, danışıqda nəzakət, incəlik;tərbiyə.{
-81{64{0{TƏSADÜF{is. [ər.] 1. Baş vermiş gözlənilməyən,nəzərdə tutulmayan hadisə; qəziyyə,vəqə, əhvalat.{
-82{26{1{VULKAN{is. [lat.] Qədim Roma mifologiyasındaod allahı.{
-78{31{0{DAYANMAQ{f. 1. Hərəkətsiz hala düşmək;hərəkətini, işini saxlamaq.{
-78{31{1{DOLAŞ{bax dolaşa. Dəyirmanın, bulaqlarınsuyu donmuş, qurumuş; Sərçə, dolaş yemaxtarır, qar üstünə qonmuşdur. A.Səhhət.{
-77{40{0{SƏRSƏR{is. [ər.] Güclü və soyuq külək.{
-81{35{1{TƏBƏQƏ{is. [ər.] 1. Bir şeyin başqa birşeyin üstünü örtən kütləsi və ya hissəsi; qat,lay.{
-81{66{0{YAYMAQ{f. 1. Bir şeylə yastıladaraq nazikqat halına salmaq, uzatmaq, açmaq, böyütmək.{
-85{52{1{KONSERV{[fr. conserves] Xüsusi işləmə(duzlama, bişirmə, mikrobsuzlaşdırma) yoluilə hazırlanıb germetik (kip) bağlanmış ban-kalara doldurulmuş yemək şeyləri.{
-83{70{1{QARDAŞLAŞMA{1. “Qardaşlaşmaq”danf.is.2. is. Müharibə edən orduların əsgərlərininimperialist müharibələri əleyhinə etirazəlaməti olaraq bir-biri ilə yoldaşcasına əlaqəyəgirişməsi.{
-37{94{1{ALƏM{is. [ər.] 1. Kainat, dünya, yer üzü.Qış günü qurtarmaqda idi, üfüqlərdən qatıbir qaranlıq aləmə yayılırdı.{
-80{36{0{SƏKSƏN{say. Yetmiş doqquzdan sonra gələnrəqəm – 80; həştad.{
-86{22{1{TOQQUŞMA{1. “Toqquşmaq”dan f.is.2. Mübahisə, münaqişə, sözə gəlmə, dalaşma,dava-dalaş.{
-76{88{0{ÜRƏKAÇAN{sif. Adamı fərəhləndirən,ürəyini açan, sevindirici.{
-65{42{0{HARA{sual əvəz. 1. Hansı yer, hansı məkan,yaxud hansı istiqamət, hansı tərəf.{
-80{38{0{MƏHKƏMƏ{is. [ər.] 1. Cinayət işlərinəvə mülki mübahisələrə baxan ədliyyə orqanı.{
-80{71{0{YUVARLAQ{sif. 1. Girdə, dəyirmi, yumru.Çayın vadisini uğultu bürümüşdü.{
-77{33{0{ALÇALTMA{“Alçaltmaq”dan f.is.{
-81{79{0{TƏMƏNNA{is. [ər.] 1. Arzu, istək, dilək,xahiş. Bəxti-mənhusimə bax, mən bu təmənnadaikən; Şişməyə başladı indi üzü qarə cigərim.{
-85{23{0{TOPLAMA{1. “Toplamaq”dan f.is.2. B a x üstəgəl. Toplama və çıxma.{
-72{25{0{ÜMUM{is. [ər.] Hamı, hamısı. Ümuma aidməsələ.{
-70{57{0{QƏSD{is. [ər.] 1. Niyyət, məqsəd, məram.Xudayar bəyin qəsdi Zeynəbin və səqirlərinvar-yoxuna .{
-84{35{1{MƏHƏRRƏM{is. [ər. mühərrəm] 1. Ərəbqəməri təqviminin birinci ayı (şiələrin imamlarıbu ayda qətl edildiyi üçün yas ayı hesabolunur).{
-80{42{0{QURUMA{“Qurumaq”dan f.is.{
-82{77{0{PARTLAMA{“Partlamaq”dan f.is.{
-81{68{1{QUYU{is. Su, neft, qaz çıxarmaq və s.məqsədlər üçün silindr şəklində qazılmışdərin və ya dayaz çuxur.{
-88{21{1{TƏLƏBƏ{is. [ər.] Ali məktəb və ya texnikumdaoxuyan adam.{
-82{87{1{SADƏLÖVH{[fars. sadə və ər. lövh] 1. B a xsadədil.{
-84{8{1{ÜMUMXALQ{is. [ər.] Bütün xalq üçünümumi, bütün xalqa aid.{
-79{90{0{QARƏTGƏR{is. [ər. qarət və fars. ...gər]Qarətlə məşğul olan adam; soyğunçu, çapovulçu,talançı, quldur.{
-39{85{1{SATMA{“Satmaq”dan f.is.{
-85{81{1{SƏRSƏMLƏMƏK{f. Hər hansı bir səbəbdənağlını itirmək, gicəlmək, dəli kimi olmaq,zehni qarışmaq.{
-46{46{0{UZAQ{sif. və zərf 1. Məsafə etibariləyaxın olmayan, çox aralı olan (yaxın ziddi).{
-84{57{0{PREPARAT{[lat. praeparatus – hazırlanmış]1. Tədqiqat, müşahidə və ya tədris məqsədiilə hazırlanmış heyvan və ya bitki orqanizmihissəsi.{
-35{96{0{ALƏT{is. [ər.] 1. Bir iş görmək, yaxudşey qayırmaq üçün işlədilən texniki vasitə,karastı və s.{
-65{75{1{CAMAAT{is. [ər.] Bir yerə toplanmış adamlar,xalq kütləsi.{
-77{69{0{DURĞUN{is. Yoğun bağırsağın sonu.{
-84{4{0{BÖYÜTMƏK{f. 1. Böyük eləmək, iriləşdirmək;genişləndirmək.{
-87{7{1{QOÇAQLAŞMAQ{f. Qoçaq olmaq, igidləşmək,cəsurlaşmaq, ürəklənmək. // Zirəkləşmək.{
-78{94{0{QƏBAHƏT{is. [ər.] Çirkin iş, çirkin hərəkət,yaraşmaz iş; qüsur, nöqsan, günah.{
-79{67{1{GÖRƏ{əd. 1. Yönlük hal şəkilçisi tələbedərək: a) səbəb bildirir.{
-78{49{1{BULUD{[rus. “blödo” sözündən] dan. Böyükboşqab, uzunsov, ya girdə, dayaz iri boşqab.{
-78{94{1{QƏSƏBƏ{is. [ər.] Şəhər tipli yaşayışməntəqəsi. Fəhlə qəsəbəsi.{
-83{20{1{MƏXSUS{sif. [ər.] 1. Yalnız birinə aid olan.Mənə məxsus.{
-72{39{1{ÖKÜZ{is. 1. İş heyvanı kimi istifadə edilənbuğa.{
-84{82{0{SƏXAVƏT{is. [ər.] Əliaçıqlıq, comərdlik,genişürəklilik.{
-84{87{0{İLHAMLANMA{“İlhamlanmaq”dan f.is.{
-88{1{1{ZEYTUN{is. [ər.] Zeytunkimilər fəsiləsindənbitki cinsi.{
-89{49{1{PROFESSOR{[lat. professor – tərbiyəçi]Ali məktəblərdə müstəqil kurs aparan ən ixtisaslımüəllimlərə, elmi tədqiqat müəssisələrindəisə aspirantlara, elmi tədqiqat işlərinərəhbərlik edən şəxsə verilən yüksək elmi ad,habelə belə adı olan şəxs.{
-77{97{0{TƏZƏLƏNMƏ{“Təzələnmək”dən f.is.{
-84{85{0{DƏNDƏNƏ{is. [fars.] 1. Təkərin çevrəsinimərkəzə birləşdirən taxta.{
-90{3{1{MƏNTƏQƏ{is. [ər.] 1. Hər hansı bir məqsədüçün istifadə olunan müəyyən əlamətlərəmalik yer.{
-85{50{0{NƏZARƏT{is. [ər.] 1. Yoxlama məqsədiləbaxma, göz qoyma, nəzər yetirmə, gözaltında saxlama, fikir vermə, diqqət yetirmə.{
-89{71{1{QORUNMA{“Qorunmaq”dan f.is.Qorunma tədbirləri.{
-88{53{0{MEYXANA{is. [fars.] köhn. Şərab satılanvə içilən dükan, şərabçı dükanı.{
-86{44{1{GÖZLƏMƏK{f. Bir şeyin və ya bir adamınintizarını çəkmək, intizarında olmaq.{
-90{20{1{ARTMAQ{f. 1. Miqdarca, ölçücə və s.-dəçoxalmaq; bol olmaq, üstə gəlmək.{
-75{27{1{AĞAC{is. 1. Budaqları və bərk gövdəsiolan çoxillik bitki.{
-88{72{0{QORXUTMA{“Qorxutmaq”dan f.is.{
-84{46{0{DÜZGÜNLÜK{is. Düzlük, doğruluq. Fikrindüzgünlüyü. Tələffüzün düzgünlüyü.{
-80{96{1{DƏFƏ{zərf [ər.] 1. Kəmiyyət bildirən sözləbirgə işləndikdə bir işin, hərəkətin, hadisəninhər bir momentini, təkrarını bildirir;kərə.{
-85{17{0{MƏQSƏD{is. [ər.] Əldə edilməyə, nailolmağa çalışılan, qəsd olunan şey; məram,niyyət, arzu.{
-88{74{0{QULLUQ{is. 1. Xidmət, iş, vəzifə. O,böyük qulluqdadır.{
-86{13{0{QAYNAQ{is. Bir şeyin qaynayıb çıxdığıyer; mənbə.{
-91{55{1{NATAMAM{sif. [fars. na... və ər. təmam]1. Bitməmiş, qurtarmamış, axıra çatdırılmamış,başa vurulmamış, yarımçıq qalmış.{
-90{78{1{SÜBUT{is. [ər.] Hər hansı bir şeyin həqiqiliyini,düzlüyünü göstərən fakt, mülahizə,müddəa, dəlil.{
-89{7{0{SƏRXOŞ{sif. [fars.] İçmiş, kefli. Sərxoşadam. – Yusif sərxoş (z.{
-85{60{1{ZAVOD{[rus.] İri sənaye müəssisəsi. Şəkərzavodu.{
-89{59{0{NAMUSSUZLUQ{is. Qeyrətsizlik, şərəfsizlik,namusdan məhrumluq.{
-95{55{1{QOVRULMUŞ{sif. Od üstündə qızardılaraqbişirilmiş. Tavada qovrulmuş cücə.{
-90{20{0{ASFALT{[yun.] 1. Təbii və ya süni surətdəhasil edilən qara rəngli, bərk, qatranaoxşarkütlə (küçələrə döşəmək, lak vəs.{
-92{82{1{MÖVHUM{sif. [ər.] Əslində olmayıb xəyalagətirilən, xəyalda törəyən.{
-87{61{0{OXŞAMAQ{f. Bənzəmək. Anasına oxşamaq.Bir-birinə oxşamaq.{
-88{40{1{TƏXƏLLÜS{is. [ər.] Adətən yazıçıların,rəssamların və b.{
-91{83{0{KÖKÜMSOV{sif. bot. Gövdəsinin əsas hissəsiyerin altında olan (bitki).{
-87{41{0{QƏSBKAR{is. [ər. qəsb və fars. ...kar] Özgəninmalını, mülkünü, torpağını və s.{
-87{43{0{ZƏVZƏKLƏŞMƏ{“Zəvzəkləşmək”dənf.is.{
-93{14{1{HESABLAMA{“Hesablamaq”dan f.is. Hesablamaişləri. Hesablamanın nəticəsi.{
-94{45{1{YAXALANMA{“Yaxalanmaq1”dan f.is.Caninin yaxalanması.{
-89{9{0{SƏRBƏST{sif. və zərf [fars.] 1. Başqasındanasılı olmayan, özü öz ixtiyarında, başqasıilə bağlı olmayan; müstəqil.{
-94{68{1{DÖZÜM{is. Dözmə, qatlaşma qabiliyyəti;mətanət, dəyanət, səbir etmə, dayanma, davamgətirmə, tab gətirmə; davam, səbat.{
-90{84{1{NƏCABƏT{is. [ər.] Nəciblik, əsillilik, təmizbir nəslə mənsubiyyət, soyluluq.{
-92{63{0{GÖVŞƏYƏN{sif. zool. 1. Yemi gövşəməkləikinci mədədə həzm edən.{
-94{56{0{QOHUM{is. 1. Biri ilə qohumluq əlaqəsiolan adam.{
-87{89{0{İNCƏSƏNƏT{is. Obyektiv varlığın bədiisurətlərdə yaradıcı surətdə əks etdirilməsi,bədii yaradıcılıq fəaliyyəti, gözəl sənətlər,nəfis sənətlər.{
-90{78{0{SƏNAYE{is. [ər.] 1. Xalq təsərrüfatının,yeraltı sərvətləri çıxaran və xammalı emaledən müəssisələri birləşdirən sahəsi.{
-53{41{0{MANE{[ər.]: mane olmaq – əngəl olmaq,qarşısını almaq, bir işin icra olunmamasınasəbəb olmaq.{
-86{69{1{AZALMAQ{f. Miqdarca, sayca, həcmcəvə s. əskilmək, zəifləmək, çəkilmək, məhdudlaşmaq.{
-92{31{1{QUNDAQLATMA{“Qundaqlatmaq2”danf.is.{
-83{48{0{SƏNƏD{is. [ər.] 1. Bir şeyi, faktı təsdiq, birşeyə olan hüququ sübut edən rəsmi kağız.{
-88{37{0{ƏNGƏL{is. 1. Bir şeyin başa yetməməsinə,ya təxirinə səbəb olan şey; maneə,çətinlik.{
-73{73{1{MACƏRA{is. [ər.] 1. Başa gələn həyəcanlıhadisə; qəziyyə, sərgüzəşt.{
-94{80{1{SÜRÜŞMƏ{“Sürüşmək”dən f.is.{
-87{35{0{İSTİRAHƏT{is. [ər.] Dincəlmə, rahatlanma;dinclik, rahatlıq.{
-91{45{1{DÜZÜ{is. Doğrusu (bəzən “sözün” sözüilə birlikdə).{
-89{29{1{RƏŞADƏT{is. [ər.] İgidlik, qoçaqlıq, qəhrəmanlıq.{
-96{39{1{İLHAMLANMAQ{f. İlhama gəlmək, vəcdəgəlmək, ruhlanmaq. Gözəl mənzərə şairiilhamlandırır.{
-86{32{0{DODAQ{is. 1. Ağız kənarlarını təşkil edəniki mütəhərrik dəri-damar büküklərindən hərbiri.{
-86{69{0{AĞLAMAQ{f. 1 Şiddətli ağrı, ruhi sarsıntıvə ya başqa bir ağır təəssürat nəticəsindəgöz yaşı axıtmaq.{
-91{16{0{OLSUN{1. Yaxşı, razıyam, etirazım yoxdur.– Olsun, – deyə direktor gülümsündü.{
-94{31{1{SƏHHƏT{is. [ər.] Sağlamlıq, cansağlığı.Səhhəti pozulmaq.{
-94{88{1{MƏHSULSUZ{sif. Məhsulu olmayan. Məhsulsuzil. // Qeyri-münbit, məhsul verməyən;bərəkətsiz. Məhsulsuz yerlər.{
-88{92{0{TOXUNDURMAQ{f. Toxunmasına səbəbolmaq; dəydirmək. İki şeyi bir-birinə toxundurmaq.Əlini topa toxundurmaq.{
-90{66{1{GÜLMƏ{“Gülmək”dən f.is.{
-80{87{1{YARAR{bax yararlı. Götürün oxların, eydidələrim, torpaqdan; Bu yarar nəsnələrinqədrini yaxşıca bilin.{
-97{88{1{ANADANGƏLMƏ{sif. 1. Lap doğulandanxas olan; xilqətində, yaradılışında olan; fitri.{
-89{91{1{DOĞRU{qoş. Yön, tərəf, istiqamət, cəhətbildirir.{
-92{51{0{HÜNDÜR{sif. 1. Uca, yüksək. Hündür divar.Hündür dağ.{
-99{61{1{SONSUZLUQ{is. Sonu, nəhayəti olmama;nəhayətsizlik, intəhasızlıq.{
-84{92{1{ÖRTÜLMƏ{“Örtülmək”dən f.is.{
-69{61{0{ƏZƏL{[ər.] 1. is. Əvvəli, ibtidası olmayankeçmiş zaman (əbəd müqabili).{
-87{67{0{SÜMÜK{is. 1. İnsan və onurğalı heyvanskeletinin ayrı-ayrı tərkib hissəsi.{
-86{95{0{DOĞU{is. Gündoğan, günçıxan; gündoğan,günçıxan tərəf. Doğu tərəfdən külək əsir.{
-92{22{0{VARLANMA{“Varlanmaq”dan f.is. [Almaz:]Bizə tək-tək adamların varlanması lazımdeyildir.{
-48{10{0{SADƏ{sif. [fars.] 1. Mürəkkəb olmayan,çətin olmayan, asan həll olunan, bəsit, asan.{
-96{21{1{BAĞLANMA{“Bağlanmaq”dan f.is.{
-82{96{1{SƏRF{is. [ər.] Xərc; sərf etmə, xərcləmə,işlətmə.{
-81{0{1{VƏFA{is. [ər.] Sözünün üstündə durma;borcunu, təəhhüdünü yerinə yetirməkdəmöhkəmlik; səbat, etibar.{
-88{1{0{ZARAFAT{1. is. [ər.] Gülmək, əylənməkvə dilxoşluq üçün deyilən söz və ya edilənhərəkət; hənək.{
-90{27{0{BƏSLƏNMƏ{“Bəslənmək”dən f.is.{
-80{6{1{GÖZƏ{is. məh. Sulu, nəmiş otluq, yaşıllıqyer, rütubət çəmənlik.{
-69{69{1{QONAQ{is. 1. Görüşmək üçün və ya başqabir məqsədlə birinin evinə gələn adam.{
-91{98{0{XAÇPƏRƏST{is. Xristian. İki-üç həftəbundan qabaq xaçpərəstlərin pasxa bayramıidi.{
-93{25{0{TƏNASÜB{is. [ər.] Uyğunluq, mütənasiblik;aralarında uyğunluq və münasiblik olma,bir-biri ilə tutma, bir-birinə yaraşma.{
-13{88{0{ÇƏNG{is. [fars.] Əl, pəncə. Tülək tərlantəki qafil Həsən bəy; Şığıyıb çənginə götürdübayaq.{
-89{11{1{KƏNAR{[fars.] 1. B a x qıraq 1-ci mənada.Çayın kənarı.{
-94{31{0{SƏPMƏK{f. 1. Toxumu səpin üçün hazırlanmıştorpağa səpələmək; toxum atmaq,əkmək.{
-92{94{1{FAYDA{is. [ər.] Xeyir, mənfəət. [HacıQara:] Yaxşı, sizə verdiyim pulun faydası necəolsun? M.{
-99{16{1{YOLLAMA{“Yollamaq”dan f.is.{
-84{28{1{QOCA{1. sif. Yaşlı, qocalmış (cavan ziddi).Qoca kişi.{
-95{12{1{XƏYANƏT{is. [ər.] 1. Özünə olan etimaddansui-istifadə edərək dönüklük etmə;xainlik, xaincəsinə hərəkət, etibarsızlıq.{
-92{71{1{QURU{is. Torpaq, qitə, yer (dəniz, su müqabili).{
-90{39{0{TUTMA{1. “Tutmaq”dan f.is. [Ayrım qızı]cücələri tutmaması üçün əlinə böyük birağac alıb, “kiş, kiş” edərək qızılquşu qovlamağabaşladı.{
-97{61{1{QEYRƏT{is. [ər.] 1. Vətən, xalq, ailə namusu;ən əziz və müqəddəs sayılan bir şeyintəəssübünü çəkmə, şərəfini, heysiyyətiniqoruma.{
-97{29{1{ZƏMANƏT{is. [ər.] Zaminlik, zamin olma.[Əbdüləli bəy:] Balaş, sizin təməs-sükün vaxtıdünən qurtarmışdır.{
-42{27{0{TƏRS{is. və sif. 1. Bir şeyin əks tərəfi, arxası,dalı.{
-91{65{0{SƏSLƏMƏ{“Səsləmək”dən f.is.{
-94{13{0{MƏSLƏK{is. [ər.] 1. Hər hansı bir dünyagörüşünəəsaslanan əqidə, məfkurə, amal.{
-87{76{1{YABAN{is. [fars.] Çöl, biyaban, insan yaşamayanyer.{
-91{26{1{PƏNCƏ{is. [fars.] 1. Əl ayası ilə beş barmaqbirlikdə.{
-44{41{1{YUMRU{1. sif. Yuvarlaq, girdə, kürə, topşəklində.{
-98{9{1{VERMƏ{“Vermək”dən f.is. Qiymət vermə.Ara vermə.{
-98{53{1{YATMA{“Yatmaq”dan f.is. Uşağın başını[Səriyyə xalanın] dizi üstə qoyması ilə yatmasıbir oldu. M.İbrahimov.{
-13{40{1{ADAM{is. [ər.] 1. Heyvandan fərqli olaraqdanışmaq və düşünmək, ictimai əməkprosesində alət qayırmaq və ondan istifadəetmək qabiliyyətinə malik olan canlı məxluq;insan, bəşər.{
-89{11{0{KEÇMƏK{f. Sönmək. Lampa keçdi. Qazkeçdi. – Od yandı, odu keçdi; Qəlyanın odukeçdi; Aç gözün, qafil ovçu; Maralın, odu,keçdi.{
-86{37{1{SƏRV{is. [fars.] 1. bot. Cənubda bitən iynəyarpaqlı,həmişəyaşıl ağac.{
-96{80{1{ƏSASƏN{[ər.] 1. zərf Əsli, kökü etibarilə,əsas etibarilə, ümumi cəhətdən.{
-72{59{1{TƏLƏF{is. [ər.]: tələf etmək (eləmək) –məhv etmək, yox etmək, öldürmək, yoxa çıxarmaq.{
-93{48{0{BALACA{sif. 1. Həcmcə, boyca, ölçücəkiçik, xırda (böyük müqabili).{
-66{26{1{YANA{qoş. dan. 1. Ötrü, üçün, üzündən(səbəb bildirir).{
-88{30{0{KƏSƏ{1. sif. Ən yaxın, ən qısa. Kəsə cığır.– [Qız] cəld taxçadan cunayı yaylığını götü-rüb özünü çölə saldı, kəsə yolla meşəyədoğru yüyürməyə başladı.{
-94{24{1{ZƏRƏR{is. [ər.] Ziyan. Bunun xeyri varki, zərəri yoxdur; Gülməli insanlar həyatdaçoxdur.{
-63{0{1{YAPI{is. kit. Bina, tikinti. // məc. Təməl,bünövrə mənasında.{
-57{1{0{DOĞRAMAQ{f. 1. Doğrayıcı, kəsici alətləbir şeyi xırda-xırda kəsmək, parça-parçakəsmək; parçalayıb, sındırıb kiçik-kiçik hissələrəayırmaq.{
-99{27{1{SƏS-KÜY{is. Qışqırıq, qalmaqal, hay-küy,dava-dalaş səsi, qarışıq, bərk səs.{
-93{70{0{AZAR{is. [fars.] 1. Xəstəlik, naxoşluq.[Ağakərim xan:] .{
-98{44{1{DUSTAQ{is. 1. Həbs olunmuş, yaxud dustaqxanadasaxlanılan adam; məhbus.{
-93{76{1{İLAN{is. 1. Bədəni uzun və qıvrılanayaqsız, adətən zəhərli dişləri olan sürünənheyvan.{
-67{31{1{ZOLAQ{is. 1. Bir endə olan uzun forma,bir şeyin bir endə olan dar, uzun parçası.{
-96{95{0{TƏZƏ{sif. [fars.] Yeni. Aptekdən təzə dərmangətirmişdilər.{
-87{55{1{PAPAQ{is. 1. Əsasən tüklü dəridən tikilənbaş geyimi.{
-40{91{1{SAAT{is. [ər.] 1. Gecə-gündüzün iyirmidörddə birini təşkil edən və 60 dəqiqədənibarət olan vaxt ölçüsü vahidi.{
-93{0{1{TAVA{bax tavadaşı.{
-92{3{0{ÇARPAZ{sif. və zərf 1. Bir-birini kəsibkeçən, xaç şəklində; xaçvari, çataq.{
-96{68{0{SULU{sif. 1. Tərkibində suyu, şirəsi çoxolan; şirəli.{
-87{94{1{QOYMA{1. “Qoymaq”dan f.is.2. sif. Əslində olmayıb sonradan qoyulmuş;süni.{
-25{0{1{ÖLÜM{is. 1. biol. Orqanizmin həyat fəaliyyətininhəmişəlik dayanması və onunməhv olması, orqanizmdə və ya onun bir hissəsindəmaddələr mübadiləsinin dayanması,kəsilməsi.{
-68{47{1{OXŞAR{sif. Bənzər, oxşayan, bənzəyən.Cəmiləyə oxşar bir ana öz toppuş qızı ilə oynayırdı.{
-77{3{1{OTAQ{is. 1. Mənzilin, evin divar və yaarakəsmələrlə bir-birindən ayrılmış qisimlərindənhər biri.{
-23{25{0{BOĞAZ{sif. Boynunda balası olan. Boğazat. Boğaz inək.{
-61{36{1{VAXT{is. [ər. vəqt] 1. Cərəyan edən birişin, hadisənin və s.{
-30{85{1{MANAT{is. Azərbaycanda yüz qəpiyəbərabər olan əsas pul vahidi.{
-96{0{1{XARAB{sif. [ər.] 1. Pis, yaman. [KərbəlayıCəfər:] .{
-75{89{1{YEKƏ{sif. 1. Həcmcə, boyca, cüssəcə böyük,iri.{
-6{77{1{BABA{is. 1. Atanın, ya ananın atası; nəvəsiolan kişi.{
-86{98{0{LALƏ{is. [fars.] 1. bot. İriləçəkli qırmızıçiçəkləri olan bitki və bu bitkinin çiçəyi.{
-96{90{0{PAPA{[lat.] Roma katolik kilsəsinin başçısı.[İblis:] Bəzən oluram bir papa! Cənnətsatıram mən; İsa dirilib gəlsə də qorxar qəzəbimdən.H.Cavid.{
-99{86{1{QARMA{“Qarmaq2”dan f.is.{
-88{66{1{CÜMLƏ{is. 1. dilç. Bitmiş bir fikri ifadəedən söz birləşməsi və ya söz.{
-72{92{1{QƏMƏ{is. Kiçik xəncər. Əlini ətəyininaltındakı qəmənin dəstəsinə aparıb səsləndi:– Uşaqlar! Hazır olun! M.{
-0{19{0{STOL{[rus.] 1. Miz, masa. Uzunsov stol.Girdə stol.{
-88{84{1{KƏTMƏN{is. Alaq vurmaq, torpağı yumşaltmaqüçün kənd təsərrüfatı aləti.{
-96{11{0{FƏRQ{is. [ər.] 1. Şeyləri, adamları birbirindənayıran hər hansı xüsusiyyət, onlarıbir-birindən ayıran cəhət; təfavüt.{
-93{81{0{YÜKSƏK{sif. 1. Uca, hündür. Yüksək bina.Yüksək dağ.{
-48{3{0{XARA{is. Özündən naxışları olan parlaqipək parça.{
-19{28{1{OĞLAN{is. 1. Kişi cinsdən olan uşaq.Uşaqlarından biri oğlandır, ikisi qız.{
-83{20{0{MADDƏ{is. [ər.] 1. Rəsmi bir sənəddə,siyahıda, lüğətdə və s.{
-76{70{1{RAHAT{sif. və zərf [ər.] 1. Əziyyətsiz,əziyyət verməyən, narahat etməyən.{
-0{36{0{ETMƏ{“Etmək”dən f.is.{
-96{68{1{SÜRÜ{is. Bir yerdə otlayan, adətən bir cürheyvan dəstəsi.{
-98{77{1{XÖRƏK{is. Bişirilib yeyilən şey, yemək,bişmiş.{
-68{0{1{AZCA{sif. və zərf Azacıq, bir az. Azca pul.Azca gəzmək.{
-96{54{0{ƏZAB{is. [ər.] 1. Əziyyət, üzüntü, işgəncə.Toy-bayramdır bu dünyanın əzabı;Ağlı olan ona gətirər tabı.{
-68{57{1{ÖRTÜ{is. 1. Başa örtülən hər hansı birşey. Başındakı örtünü götürmək.{
-85{26{0{SURƏ{is. [ər.] Quranın bölündüyü 114 fəsildənhər biri.{
-99{94{1{HƏYƏT{is. [ər.] 1. Adətən evin qabağındaətrafı hasar və ya başqa binaların divarlarıilə əhatə olunmuş sahə.{
-8{27{1{ORDU{is. 1. Dövlətin silahlı qüvvələri(quru qoşunları, hərbi dəniz və hərbi havaqüvvələri).{
-70{15{1{BÖYÜMƏ{“Böyümək”dən f.is.{
-58{0{1{DOST{is. [fars.] 1. Birisi ilə dostluq münasibətiolan adam, yaxın yoldaş, arxadaş.{
-72{97{0{HƏCM{is. [ər.] 1. Bir şeyin kub vahidləriilə ölçülən uzunluğu, hündürlüyü və eni.{
-95{40{0{ÖLÇÜ{is. 1. Hər hansı bir şeyi ölçməküçün qəbul edilmiş vahid.{
-98{37{1{ÖRTÜLÜ{sif. 1. Üzərinə qapaq qoyulmuş,ya örtü salınmış.{
-5{0{1{DÜZGÜ{is. Düzmə işi; düzmə (düzülmə)qaydası, üsulu; düzülüş, sıra, sıralanma.{
-93{76{0{İLGƏK{is. 1. Paltarın yaxasında, qolunda,cibinin ağzında və b.{
-96{73{1{GÖZƏL{sif. 1. Sifətinin cizgiləri, bədəninintənasübü, qaş-gözü qüsursuz olan; göyçək.{
-95{74{0{KÖMƏK{is. 1. Birinin qarşılaşdığı çətinlikləri,sıxıntıları yüngülləşdirmək üçün görüləniş, hərəkət; yardım.{
-98{71{1{SƏHƏR{is. [ər.] Günün başlanğıcı, ilk saatları,sabah açıldığı vaxt, sübh.{
-39{6{1{TƏYYARƏ{is. [ər.] Mühərriki və hərəkətetməyən qanadları olan havadan ağır uçucuaparat.{
-17{94{1{HABELƏ{zərf Bunun kimi, bu cür, belə;həmçinin. İrəvanda iyirmi min müsəlmanuşağı var, bunların bir-iki yüzü ancaq dərsəgedir.{
-64{82{1{BORC{is. 1. Qaytarılmaq şərti ilə birindənalınan, ya birinə verilən pul və sairə; alacaq,verəcək.{
-49{94{0{HAQQ{[ər.] 1. sif. Doğru, düz, düzgün,həqiqi.{
-13{68{0{DƏNƏ{is. [fars.] 1. Eyni cinsdən olanşeylərin hər biri, ədəd (cansız şeyləri sayarkənişlədilir).{
-96{19{0{SUAL{is. [ər.] 1. Bir şey haqqında cavab,məlumat almaq üçün müraciət etmə, soruşma;sorğu.{
-75{35{0{TURŞU{is. 1. İçi doğranmış sarımsaq, bibər,göyərti və s.{
-40{36{1{VƏHŞ{sif. [ər.] Vəhşi, yabanı, əhliləşməmiş.Ətrafını teyrü vəhş almış; Vəhşət onubir hisarə salmış. Füzuli.{
-97{15{1{MƏHSUL{is. [ər.] 1. Torpaqda yetişdiriləntaxıl, meyvə, tərəvəz və s.{
-41{55{0{MAYE{is. [ər.] Axmaq və kəmiyyətinidəyişmədən olduğu qabın şəklini almaq xassəsinəmalik olan maddə.{
-11{70{1{SƏNA{is. [ər.] klas. Tərif, mədh. Duaçınam,salma məni nəzərdən; Əskik olmayasan sənadan,Pəri.{
-29{35{1{MEŞƏ{is. Çoxlu ağac bitmiş geniş sahə.Palıd meşəsi.{
-23{50{1{QRAF{[alm.] Qərbi Avropada və 1917-ciil inqilabından qabaqkı Rusiyada (knyaz iləbaron arasında orta) zadəgan rütbəsi və bucür rütbəsi olan adam.{
-43{69{0{ANCAQ{1. bağl. Lakin, amma. Ancaq mənsevgilərin bu qədər aldadıcı .{
-23{32{1{COMƏRD{is. Mərd, alicənab. Comərd igidheç qaçarmı meydandan; Qılınc çəkib hayıfalar düşməndən.{
-85{17{1{MUZD{is. [fars.] 1. Görülən iş müqabilindəverilən əmək haqqı; zəhmət haqqı;haqq.{
-72{68{1{FOTO{[yun. phos – işıq] b a x fotoqrafiya2-ci mənada.{
-43{71{0{DƏRYA{is. [fars.] 1. Dəniz. Bənzərəm birqocaman dağa ki, dəryada durar.{
-11{83{0{AXMA{“Axmaq1”dan f.is.{
+0{5{0{AXMAQLAMAQ{f. Səfehləmək, ağlınıitirmək, gicləşmək, xərifləmək.{
+1{4{1{İXTİYAR{  Öz arzusu və iradəsi;öz iradə və arzusu ilə hərəkət etmə.{
+3{3{1{İLACSIZLIQ{əlacsızlıq. Güllər ..acı bir *******lıq içində qalıb, pianinosunun arxasına keçirdi.{
+5{0{1{ASTARLAMAQ{f. Astar çəkmək, astar keçirmək.{
+2{1{0{KONSERV{ Xüsusi işləmə(duzlama, bişirmə, mikrobsuzlaşdırma) yolu ilə hazırlanıb germetik (kip) bağlanmış ban-kalara doldurulmuş yemək şeyləri.{
+8{3{1{AĞAC{ Budaqları və bərk gövdəsiolan çoxillik bitki.{
+8{3{0{AĞARTMAQ{f.  Ağ rəngə boyamaq, ağrəng çəkmək.{
+11{1{1{BARAMAQURDU{İfraz etdiyi ipə ktellərindən barama hörən qurd.{
+14{0{1{DOLANBAC{ sif. Çox dolaşıq, əyri-üyrü.{
+8{10{0{DÖRDAYAQ{məh.  Üstündə xəmiryaymaq üçün ayaqlı taxta alət; yuxayayan,mərdənə.{
+7{8{0{MƏFTUN{sif.  Vurğun, özünü unudacaq dərəcədə vurulmuş{
+13{1{0{QOHUM{ Biri ilə qohumluq əlaqəsi olan adam.{
+13{6{0{CAVAB{  Şifahi və ya yazılı suala,sorğuya və s.{
+8{10{1{DOVŞANDODAQ{sif. . Dodağının ortası yarıq. {
+2{14{0{DEKLAMATOR{[lat.] Bədii əsərləri məharətlə oxuyan adam; deklamasiya ilə çıxışedən artist.{
+1{19{0{SAĞALTMAQ{f. Müalicə vasitəsilə sağlamlığını bərpa etmək, ayağa qaldırmaq.{
+6{10{1{MEYXANA{ Fikirləşmədən,qabaqcadan hazırlaşmadan deyilən, adətənməzhəkəli şeir növü.{
+2{16{0{BASMA{ Rusiyada monqol-tataristilası dövründə: üzərində tatar xanının şəkliolan möhür.{
+7{17{0{QORXULU{sif.  Qorxunc, qorxu hissi doğuran; qorxu gətirən, qorxudan, dəhşətli.{
+13{14{1{QÜSURSUZLUQ{Qüsursuz şeyin, adamın hal və keyfiyyəti; eyibsizlik, nöqsansızlıq,mükəmməllik.{
+5{18{1{İLAHİYYATÇI{İlahiyyatla məşğul olan adam{
+1{19{1{SAĞALMAQ{f. Xəstəlikdən qurtarıb ayağadurmaq{
+11{22{0{LÜLƏKABAB{Döyülmüş ətdən bişirilən kabab.{
+4{25{0{QANAD{ Quşlarda və cücülərdə uçmaq orqanı.{
+10{20{0{TOXUNMAQ{“Toxumaq”dan məch.{
+7{21{1{YONQARLAMAQ{yonmaq 1-ci mənada.{
+3{30{0{DOĞRAM{Bir dəfə doğramaqdan hasil olan miqdar, yaxud doğranmış, kəsilib parçalara ayrılmış şey.{
+3{18{1{AĞLAMAQ{f. 1 Şiddətli ağrı, ruhi sarsıntı və ya başqa bir ağır təəssürat nəticəsində göz yaşı axıtmaq.{
+4{29{1{HOQQABAZ{ Əl cəldliyi ilə cürbəcür oyunlar göstərənadam, hoqqa çıxardan; oyunbaz.{
+1{33{0{QAZANMAQ{f.  İşləməklə, çalışmaqla əldə etmək.{
+1{35{0{PAPA{[lat.] Roma katolik kilsəsinin başçısı.[İblis:] Bəzən oluram bir papa! Cənnətsatıram mən; İsa dirilib gəlsə də qorxar qəzəbimdən.H.Cavid.{
+17{11{1{AĞACLAŞMAQ{qarş. Bir-birini ağaclavurmaq, ağacla vuruşmaq.{
+15{14{1{KƏKƏLƏMƏK{f.  Danışarkən bəzi səsləriqeyri-iradi təkrar edərək çətinliklə danışmaq.{
+14{9{1{QARĞA{Leş və böcəklərlə qidalananiri, döşü boz qara quş.{
+19{20{1{GÜBRƏLƏTMƏK{icb. Gübrə verdirmək,gübrə vurdurmaq. Sahəni gübrələtmək.{
+2{32{1{QARA{Plov üzərinə, yanına qoyulan xuruş. Aşın ****sı azdır.{
+16{5{1{VAXT{  Cərəyan edən birişin, hadisənin və s.{
+15{28{0{QARAMA{Çay və bulaq ətrafındakı palçıqlı su, lığ.{
+13{26{0{SƏRMAYƏDAR{ sərmayəçi.{
+15{24{0{ƏDALƏT{  Haqq və düzgünlük prinsiplərinə riayət.{
+22{21{1{DOYDURMAQ{Tox hala gətirmək, doyunca yedirmək, yemək vermək.{
+15{28{1{QAZAN{İçində xörək bişirmək, su qaynatmaq və s.{
+13{26{1{SƏMƏRƏ{  Fayda, mənfəət, xeyir.{
+21{22{0{ÇOLPALAŞMAQ{çolpalanmaq.Cücələr çolpalaşıb.{
+25{19{1{NÜMAYƏNDƏ{  Hər hansı bi rkollektiv, təşkilat və s.{
+10{27{0{PEŞƏ{  Sənət. [Dövlətlilərin] {
+24{20{0{DÜNYAPƏRƏST{sif. [ər. dünya və fars....pərəst] klas.{
+24{24{0{DƏRMANLAMAQ{ Kimyəvi preparatlar vurmaq, sürtmək və ya səpmək.{
+24{27{0{MƏZHƏB{  Din. İslam ******i{
+28{14{1{ƏLYAZMA{Əl ilə yazılmış mətn,kitab və s; əlyazısı.{
+23{17{0{İXTİSAS{ Elmin, texnikanın, sənətin,yaxud incəsənətin ayrıca sahəsi.{
+11{26{1{LENTƏBƏNZƏR{sif. Şəkilcə lentə oxşayan;lentvari.{
+8{36{0{UÇURDULMAQ{“Uçurtmaq”dan məchul{
+22{15{0{BÖYÜDÜLMƏK{məch.  Böyük halasalınmaq. {
+28{26{1{GƏRƏK{ əd. Gərəkdir, lazımdır (cümlədəxəbər mənasında işlənir).{
+14{35{1{İLANSAYAĞI{bax ilanvari. ********* yol dağların döşündən burularaq, kəmərkimi aşağıya doğru enir.. M.İbrahimov.{
+7{44{0{İLXIBAŞI{ ilxıçı.{
+13{39{0{ƏSGƏR{  Sıravi hərbi qulluqçu;soldat.{
+16{38{1{SƏNƏ{ İl. {
+17{31{1{YUMRUQ{ Yumulmuş əl, əlin yumulmuş vəziyyəti.{
+9{42{0{ODUNCAQ{Ağacın, yaxud kolun qabıq altında olan ən sıx, bərk hissəsi.{
+27{30{0{EKSSENTRİK{[fr.] teatr. Ekssentrik rollar ifadə edən artist.{
+30{8{1{KÖKLƏNMƏK{ Bir yerdə kök salmaq,möhkəmlənmək.{
+16{13{0{NAMUS{  İnsanın öz şəxsi və ictimai davranışını təyin edən mənəvi və əxlaqi prinsiplərin məcmusu{
+28{11{0{QALA{  Uzun müddət içində qapanıb düşmənə müqavimət göstərmək üçün möhkəm müdafiə tikililəri və vasitələri olanistehkam (məntəqə).{
+34{14{1{SƏDAQƏT{ Dostluqda, məhəbbətdə dəyanət, səbat, vəfa; sadiqlik, etibarlılıq.{
+33{17{0{QAYTARMAQ{f.  Alınmış, yaxud göndərilmiş bir şeyi geri vermək (göndərmək).{
+31{29{1{PEYĞƏMBƏR{  Müxtəlif dini etiqadlara görə, Allahın əmrlərini xəbər verən və şərh edən şəxs;{
+33{23{1{ZAHI{ Yenicə doğmuş qadın.{
+20{9{1{KOSASAQQAL{sif. və Üzündə seyrəktük olan və ya heç olmayan.{
+30{33{0{SƏNAYE{  Xalq təsərrüfatının,yeraltı sərvətləri çıxaran və xammalı emal edən müəssisələri birləşdirən sahəsi.{
+28{37{0{SEYR{ baxma, tamaşa etmə, göz gəzdirmə.{
+33{15{0{ŞƏFƏQLƏNMƏK{f. İşıqlanmaq, şölələnmək,parıldamaq, şəfəq saçmaq, bərq vurmaq.{
+36{21{1{TƏNGLƏŞMƏK{f.  Təngə gəlmək, canagəlmək, bezmək.{
+33{28{0{RƏHM{ Acıma, yazığı gəlmə, ürəyi yanma; mərhəmət.{
+33{32{1{QASNAQ{ Sağalmaq üzrə olan yaranın üzündə əmələ gələn qabıq{
+19{10{0{LOVĞA{sif. Özü haqqında böyük fikirdə olan, başqalarına xor baxan; təkəbbürlü{
+15{34{0{ÇƏRƏNLƏMƏK{f. Boş-boş danışmaq,çərən-pərən danışmaq.{
+20{32{1{YOLGÖSTƏRƏN{Rəhbər, başçı, böyük.{
+18{40{0{TÖRƏTMƏK{f.  Əmələ gətirmək, yaratmaq,meydana gətirmək, doğurmaq, baş verməsinə,törəməsinə səbəb olmaq.{
+23{5{1{QAPAMAQ{f.  Bağlamaq, örtmək.{
+9{32{0{ADƏT{  Hər hansı bir xalqın həyatında qədimdən bəri qəbul edilmiş vəkök salmış ənənə, rəsm.{
+20{32{0{YEKƏLƏNMƏK{f. Yekə olmaq, iriləşmək.{
+17{42{0{KÖHNƏPƏRƏST{ Köhnəlik tərəfdarı,köhnə adət və ənənələri sevən, onlara riayət edən, onlardan əl çəkməyən adam;mühafizəkar, cəhalətpərəst.{
+17{42{1{KÖMƏK{ Birinin qarşılaşdığı çətinlikləri,sıxıntıları yüngülləşdirmək üçün görüləniş, hərəkət; yardım.{
+16{45{0{DƏNƏ{  Eyni cinsdən olan şeylərin hər biri, ədəd (cansız şeyləri sayarkən işlədilir).{
+19{6{0{SARSAQ{sif. Səfeh, gic, axmaq, abdal.{
+37{7{1{VARLANMAQ{f. Var-dövlət sahibi olmaq,sərvətə malik olmaq, varlı olmaq.{
+33{10{0{DARÜLFÜNUN{ Universitet...Mirzə Səfərin oğlu darülfünun tələbəsiformasında evlərinə görüşməyə gəldi.{
+19{44{1{SƏRT{sif.  Bərk, möhkəm.{
+20{3{1{HAMAR{sif.   Girintisi-çıxıntısı,kələ-kötürü olmayan; düz {
+34{2{1{QARABUĞDA{ Çovdar.{
+6{32{1{ƏMƏL{ İş{
+22{8{0{PADŞAH{  Hökmdar, imperator,şah, sultan.{
+10{38{1{SƏNƏD{  Bir şeyi, faktı təsdiq, bir şeyə olan hüququ sübut edən rəsmi kağız.{
+25{3{0{XORUZLANMAQ{f. Kişilənmək, kəkələnmək,şəşələnmək; qızışmaq{
+33{12{0{YUYUNDURMAQ{f. Su, sabun və s. ilə əl üzünü,bədənini yumaq{
+1{39{0{ZÜYÜLDƏTMƏK{icb. Ağlatmaq, züyüldəməsinə səbəb olmaq.{
+26{2{1{BOŞBOĞAZ{sif. Ağzına və ağlına gələni danışan, boşuna danışan, mənasız danışan{
+35{22{0{MƏZMUNLU{sif. və zərf Məzmunu zəngin,dolğun olan, ciddi, dərin mənalı.{
+19{36{0{KÖKLƏŞMƏK{f. Kökəlmək.{
+28{0{1{POZULMUŞ{f.sif.  Üstündən xətt çəkilmiş;qaralanmış, silinmiş.{
+7{38{1{QƏHR{ Hiddət, qəzəb{
+2{38{1{MÜŞƏMBƏ{[əsli ər. müşəmbə] Su keçirməməküçün bir və ya hər iki üzünə xüsusimaddə sürtülmüş parça.{
+36{8{0{PARDAQ{[fars. “pərdaxt”dan] Düz səth üzərində parıltı, parlaqlıq, cila.{
+39{19{1{LÜZUMSUZ{lazımsız{
+1{48{0{QABAQDA{zərf  İrəlidə, qabaq tərəfdə{
+17{4{0{YAXA{ Paltarın boyun keçən hissəsi,habelə bu hissəyə tikilən və boyunu əhatə edən parça zolağı.{
+41{0{1{YALVARMAQ{f. Birinin könlünü yumşaldıb bir şeyə razı etmək üçün öz nəfsini alçaldaraq təkidlə acizanə xahiş etmək, ricaetmək.{
+19{44{0{SƏRV{  bot. Cənubda bitən iynə yarpaqlı,həmişə yaşıl ağac.{
+12{41{1{ONLAR{[üçüncü şəxs əvəzliyinin cəmi]Haqqında danışılan və ya göstərilən şəxsləri bildirir.{
+39{5{0{GÖRDÜRMƏK{icb. Görməyə məcbur etmək,görməsini xahiş etmək, görməsinə nail olmaq.{
+27{38{1{BAYAT{sif.  Köhnəlmiş, təzəliyini itirmiş;köhnə, quru, soyuq.{
+27{1{0{QOLTUQ{ Qolun, döşün yanı ilə çiyin bəndinin altındakı hissəsi, qolun çiyinlə birləşdiyi yerin altındakı çuxur.{
+37{1{0{DƏRMAN{  Həkimin reseptiüzrə hazırlanan müalicə vasitəsi; dava.{
+46{0{1{MƏNFƏƏT{  Gəlirin xərci çıxdıqdan sonra qalan artıq hissəsi, pul gəliri;qazanc.{
+29{36{1{TEMPERATUR{[lat. temperatura – vəziyyət] Cismin istilik dərəcəsi.{
+28{44{0{QULA{məh. Açıq-sarı rəngli at. {
+44{3{1{ÖYRƏTMƏK{Bilik, sənət, peşəvermək, təlim etmək.{
+31{40{1{SXOLASTİK{sif. [yun.]  Sxolastikaya(1-ci mənada) aid olan, sxolastika mahiyyətində olan.{
+42{20{1{UĞURSUZ{sif.  Bədbəxtlik gətirən, bədbəxtliyə səbəb olan;{
+30{47{0{ZİNDAN{  Keçmiş zamanlarda:qaranlıq və müdhiş dustaqxana (adətən yerin altında olardı).{
+34{40{1{TULLANMAQ{Sıçramaq, hoppanmaq,atılmaq, atılıb-düşmək.{
+43{9{0{MƏNAFE{[ər. “mənfəət” söz. cəmi] Mənfəət, fayda, nəf, xeyir.{
+33{44{0{QAŞOVLATMAQ{Qaşov çəkdirmək.Atı qaşovlatmaq.{
+38{40{1{QABİLİYYƏT{  İstedad, fitri zəka;bir şeyi tez qavrama, tez mənimsəmə bacarığı.{
+36{48{0{ATƏŞPƏRƏST{ İbtidai cəmiyyətdə:oda ibadət edən, odu ilahi qüvvə sayıb ona sitayiş edən adam.{
+18{38{0{GETMƏK{Addım ataraq hərəkət etmək;yerimək, addımlamaq.{
+25{29{1{İLGƏK{ Paltarın yaxasında, qolunda,cibinin ağzında və b.{
+43{35{1{UZUNQUYRUQ{sif. Quyruğu uzunolan{
+37{41{0{ÇALMA{ Başa sarınan sarıq.{
+36{38{0{YALANDAN{zərf Əsli olmadan, aldadaraq,aldatmaq məqsədi ilə.{
+39{29{1{ÇOLPALANMA{“Çolpalanmaq”dan f.sif.{
+35{35{0{RƏFTAR{ Birisinə və ya bir şeyəqarşı göstərilən münasibət, davranış, hərəkət tərzi.{
+29{9{0{TÖRƏ{sif. məh. Hündür olmayan, yastı, kiçik.{
+43{29{1{ŞƏHƏR{ İnzibati idarələr, sənaye,ticarət və mədəniyyət mərkəzi olan böyük yaşayış məntəqəsi.{
+37{1{1{DOĞRU{Yön, tərəf, istiqamət{
+9{24{0{ANCAQ{ Lakin, amma. {
+46{32{1{KOMALAMAQ{f. Koma vurmaq, bir yerə yığmaq, üst-üstə yığmaq; qalaqlamaq, toplamaq.{
+46{8{1{QARAQABAQ{sif. Üzü gülməyən, qaş qabaqlı;üzügülməz.{
+30{19{1{VƏFA{ Sözünün üstündə durma;borcunu, təəhhüdünü yerinə yetirməkdə möhkəmlik; səbat, etibar.{
+36{46{0{MEYVƏ{  Bəzi ağacların, kolların yeməli, şirəli məhsulu.{
+42{30{0{XƏBƏR{  Bir iş, hadisə və s. haqqında məlumat.{
+23{31{1{TƏLƏ{Vəhşi və ov heyvanlarını və yaquşları, eləcə də siçan və s.{
+45{26{1{SÜRMƏK{f.  Davam etmək, çəkmək.Külək üç gün ***dü.{
+44{1{0{ELƏMƏK{“Etmək” felinin üslubi variantı.Məclisi alud elər; Zülflərinin hər burması.{
+45{11{0{TARLA{Taxıl, pambıq, qarğıdalı və s.əkilmiş böyük sahə, əkin (yeri); {
+41{36{1{QADAĞAN{ İcazə verilməyən, müsaidə edilməyən şey; adətən xəbər kimi işlənir:qadağandır – qanunən icazə verilmir,yasaqdır.{
+25{38{1{YÜKSƏLMƏK{f.  Yüksəyə, yüksəklərə,yuxarı qalxmaq; ucalmaq.{
+49{10{1{QARƏTGƏR{[ər. qarət və fars. ...gər]Qarətlə məşğul olan adam; soyğunçu, çapovulçu,talançı, quldur.{
+18{2{1{SUAL{  Bir şey haqqında cavab,məlumat almaq üçün müraciət etmə, soruşma;sorğu.{
+48{0{1{MƏDƏN{  Yer altından çıxarılan faydalı qazıntı (metal külçəsi, mineral və s.{
+0{42{0{AÇMA{“Açmaq”dan f.i{
+23{45{0{ƏRƏB{ Ön Asiyada və Şimali Afrikada yaşayan, sami dilləri qrupuna daxil olan xalq və bu xalqa mənsub adam.{
+45{26{0{SONRA{ zərf Bir işin, hadisənin baş verməsində zaman ardıcıllığı göstərən zaman zərfi.{
+45{45{1{NEFT{Yanacaq kimi işlədilən maye{
+29{13{0{ONDA{zərf  İndi yox, o zaman, o vaxt.Gələrəm, **** danışarıq.{
+49{21{1{QARAPAPAQ{dan. bax başı papaqlı.Məgər burada bir qarapapaq yoxdur, qabağaçıxsın?{
+47{24{1{SONSUZ{sif. Uşağı, övladı olmayan. {
+23{45{1{ƏHƏNG{ Əhəng daşını yandırmaqla əldə edilən ağrəngli, kəsək halında material.{
+45{22{0{FAYDA{ Xeyir, mənfəət. [HacıQara:] Yaxşı, sizə verdiyim pulun faydası necəolsun? M.{
+22{48{0{ONURĞA{anat. Bel sümüyü.◊ Onurğa beyni – onurğa kanalının içərisindəki ilik;{
+46{19{1{KOMA{Səpələnən, dağılan şeylərin təpə halında yığımı;{
+25{10{1{GÜMÜŞÜ{sif. Ağ-bozaçalar parlaq rəngdə olan, rəngi gümüş rəngində olan, gümüşkimi parıldayan.{
+0{12{0{SAQQA{ köhn. Keçmişdə dalında,yaxud da araba ilə bulaqdan su daşıyan adam;suçu.{
+42{46{1{DƏRƏ{ İki dağ və ya təpə arasında,eləcə də düzənlikdə uzun dərin çuxur; vadi.{
+32{5{1{DƏSTƏ{  Birgə fəaliyyət üçün birləşmiş adamlardan ibarət mütəşəkkil qrup.{
+45{35{0{ZAVOD{[rus.] İri sənaye müəssisəsi.{
+44{46{0{METAL{[lat. metallum, əsli yun. metallon –mədən] İstiliyi və elektriki yaxşı keçirməqa biliyyətinə malik olan, döyülüb yastılanabilən.{
+45{37{0{SAHƏ{  Açıq yer, boş və geniş yer,tutulmamış yer; düzən.{
+22{13{0{SÜMÜK{ İnsan və onurğalı heyvan skeletinin ayrı-ayrı tərkib hissəsi.{
+47{41{1{BALACA{Həcmcə, boyca, ölçücə kiçik, xırda (böyük müqabili).{
+45{39{0{QART{sif.  Qocalmış, qoca{
+45{20{0{BOYA{ Bir şeyə müəyyən rəng vermək,bir şeyi boyamaq, yaxud rəsm çəkmək üçün işlədilən rəng maddəsi.{
+37{31{0{OĞLAN{ Kişi cinsdən olan uşaq.Uşaqlarından biri oğlandır, ikisi qız.{
+39{14{1{ZƏHM{[fars. “səhm”dən]  Qorxu,vahimə, dəhşət; qorxu, vahimə, dəhşət doğuranhal, görünüş.{
+10{34{0{AZAD{ bot. Cənubda bitən bərk oduncaqlı ağac növü.{
+46{42{0{BAZA{[əsli yun.]  Bünövrə, əsas, özül,bina.{
+46{44{0{MANE{ mane olmaq – əngəl olmaq,qarşısını almaq, bir işin icra olunmamasına səbəb olmaq.{
+39{3{0{DÖVR{  Dolanma, hərlənmə,fırlanma; bir şeyin öz oxu ətrafında hərəkəti.{
+8{43{1{ÖLÜM{  Orqanizmin həyat fəaliyyətinin həmişəlik dayanması və onun məhv olması{
+44{16{0{HAQQ{  Allah, Tanrı. Tək-tək ayılan varsa da, haqq dadıma çatsın; Mən salimolum, cümlə cahan batsa da, batsın.{
+44{16{1{HƏDD{  Sərhəd, hüdud.2. məc. Hədd-hüdud, son, nəhayət.{
+45{13{0{MADDƏ{  Rəsmi bir sənəddə,siyahıda, lüğətdə və s.{
+31{0{1{YUXA{ Nazik yayılmış (mayasız) xəmirdən sacda bişirilən çörək növü; yayma.{
+49{32{1{BƏND{  Çayın qabagını kəsən daş{
+0{44{0{ƏVƏZ{  Qarşılıq, bir şeyin (adamın)yerini tuta bilən şey{
+19{18{0{ÖLKƏ{ Məmləkət, diyar; yer, ərazi.{
+26{34{1{ƏZƏL{  Əvvəli, ibtidası olmayan keçmiş zaman{
+15{8{0{ATMAQ{f.  Bir şeyi əlindən buraxaraq yaxına, ya uzağa tullamaq, fırlatmaq.{
+42{18{0{ORDU{ Dövlətin silahlı qüvvələri(quru qoşunları, hərbi dəniz və hərbi havaqüvvələri).{
+26{34{0{ƏSAS{  Bünövrə, özül, bina, təməl.Evin əsası çox möhkəmdir.{
+27{46{1{UŞAQ{ Azyaşlı oğlan, ya qız; çocuq.{
+12{15{0{KÜLƏ{ Quyruqsuz.{
+3{3{0{İLAN{ Bədəni uzun və qıvrılan ayaqsız, adətən zəhərli dişləri olan sürünən heyvan.{
+32{18{1{ALƏM{  Kainat, dünya, yer üzü.{
+49{41{1{TABE{ Başqasının tabeliyində,hökm və iradəsi altında olan, ondan asılı olan,onsuz heç bir şey edə bilməyən{
+30{26{0{QARI{ Qoca qadın, qoca arvad.{
+33{42{0{ALƏT{  Bir iş görmək, yaxudşey qayırmaq üçün işlədilən texniki vasitə{
+34{27{1{ZƏRRƏ{ Bir şeyin ən kiçik hissəsi.{
+9{29{0{KÜTLƏ{ Mexanikanın əsas kəmiyyətlərindən biri – bir cisimdə olan maddənin miqdarını ölçən əsas kəmiyyət; cismin,ona təsir edən qüvvəyə nisbətlə inersiyalılığı nölçüsü.{
+0{23{0{ALÇA{Cır və peyvənd cinsləri olan çəyirdəkli turş və ya şirin yumru bir meyvə.{
+44{28{0{ARZU{  Bir şeyin olmasını ürəkdən istəmə; istək, dilək, əməl, həsrət.{
+10{12{1{ALOV{Yanan bir şeydən çıxan od.{

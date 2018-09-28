@@ -115,7 +115,7 @@ const rl = readline.createInterface({
 
 
 
-let N = 20, M = 20;
+let N = 50, M = 50;
 let D = [], I = [], Z=[], Y =[];
 function check(x, y) {return !(x<0) && !(x>=N) && !(y<0) && !(y>=M)}
 function shuffle(a) {
@@ -210,7 +210,13 @@ var fs = require('fs');
   fs.readFile('doneinternet2', function(err, data) {
     data = data + "";
     let ar = data.split("^^^^");
-    let T = [];for(let i = 0; i < ar.length; i += 4) {if(ar[i + 3] == undefined)break;T.push([ar[i], ar[i+1],ar[i+2],ar[i+3]]);}T.sort(function(a, b){let x = parseInt(a[3]);let y = parseInt(b[3]);return y - x;});
+    let T = [];
+    for(let i = 0; i < ar.length; i += 4){
+      if(ar[i + 3] == undefined)break;
+      if(ar[i+2].indexOf("f.is.") ==-1 && ar[i+1].indexOf("-") == -1)
+      T.push([ar[i], ar[i+1],ar[i+2],ar[i+3]]);
+    }
+     T.sort(function(a, b){let x = parseInt(a[3]);let y = parseInt(b[3]);return y - x;});
 
     let Coxluq = new Set();
     D = [];  I = [], Z=[], Yaddas = [];
@@ -232,7 +238,7 @@ var fs = require('fs');
       let CAVABLAR = [];
       for(let i = 0; i < BList.length; i++)BlackSet[(BList[i])]=1;
       let SAYLI = [[],[],[],[],[],[],[],[],[],[],[],[]];
-      let SAY = [[],[],[],[],[400],[400],[400],[400],[400],[100],[100],[100]]
+      let SAY = [[],[],[],[],[300],[300],[300],[300],[300],[300],[300],[300]]
       for(let i = 4; i <= 11; i++) {
         let say = 0;
         for(let j = 0; j < T.length && say<=SAY[i][0]; j++) {
