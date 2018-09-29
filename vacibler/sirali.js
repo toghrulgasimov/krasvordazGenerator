@@ -216,7 +216,12 @@ var fs = require('fs');
       if(ar[i+2].indexOf("f.is.") ==-1 && ar[i+1].indexOf("-") == -1)
       T.push([ar[i], ar[i+1],ar[i+2],ar[i+3]]);
     }
-     T.sort(function(a, b){let x = parseInt(a[3]);let y = parseInt(b[3]);return y - x;});
+     T.sort(function(a, b){
+       let x = parseInt(a[3]);let y = parseInt(b[3]);
+       //return b[1].length-a[1].length;
+       return y - x;
+     }
+   );
 
     let Coxluq = new Set();
     D = [];  I = [], Z=[], Yaddas = [];
@@ -231,7 +236,7 @@ var fs = require('fs');
       Z[i].push('h');// h, a, e, 2, 3
       I[i].push('b'); // s, a
     }
-    for(let prob = 0; prob < 1; prob++) {
+    for(let prob = 0; prob < 5; prob++) {
       //Balcklist
       let BList = ["FARS","TƏRƏ","QEYR","HALA","HƏVƏ","HƏRƏKƏ","TƏSƏRRÜF","ZƏRF","","","","","","","","","","","","","","","","","","","","","","","",""];
       let BlackSet = {};
