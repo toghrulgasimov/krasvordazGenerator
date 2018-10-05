@@ -115,7 +115,7 @@ const rl = readline.createInterface({
 
 
 
-let N = 35, M = 35;
+let N = 70, M = 70;
 let D = [], I = [], Z=[], Y =[];
 function check(x, y) {return !(x<0) && !(x>=N) && !(y<0) && !(y>=M)}
 function shuffle(a) {
@@ -207,7 +207,7 @@ function qonsusuvarf(x,y) {
 }
 
 var fs = require('fs');
-  fs.readFile('doneinternet2', function(err, data) {
+  fs.readFile('doneinternetbild', function(err, data) {
     data = data + "";
     let ar = data.split("^^^^");
     let T = [];
@@ -243,7 +243,7 @@ var fs = require('fs');
       let CAVABLAR = [];
       for(let i = 0; i < BList.length; i++)BlackSet[(BList[i])]=1;
       let SAYLI = [[],[],[],[],[],[],[],[],[],[],[],[]];
-      let SAY = [[],[],[],[],[200],[200],[200],[200],[200],[200],[200],[200]]
+      let SAY = [[],[],[],[],[300],[300],[300],[300],[300],[300],[300],[300]]
       for(let i = 4; i <= 11; i++) {
         let say = 0;
         for(let j = 0; j < T.length && say<=SAY[i][0]; j++) {
