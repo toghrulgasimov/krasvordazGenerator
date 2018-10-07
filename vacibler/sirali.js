@@ -243,7 +243,7 @@ var fs = require('fs');
       let CAVABLAR = [];
       for(let i = 0; i < BList.length; i++)BlackSet[(BList[i])]=1;
       let SAYLI = [[],[],[],[],[],[],[],[],[],[],[],[]];
-      let SAY = [[],[],[],[],[200],[200],[200],[200],[200],[200],[200],[200]]
+      let SAY = [[],[],[],[100],[100],[100],[100],[100],[100],[100],[100],[100]]
       for(let i = 4; i <= 11; i++) {
         let say = 0;
         for(let j = 0; j < T.length && say<=SAY[i][0]; j++) {
