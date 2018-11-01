@@ -115,7 +115,7 @@ const rl = readline.createInterface({
 
 
 
-let N = 35, M = 35;
+let N = 40, M = 40;
 let D = [], I = [], Z=[], Y =[];
 function check(x, y) {return !(x<0) && !(x>=N) && !(y<0) && !(y>=M)}
 function shuffle(a) {
@@ -213,7 +213,7 @@ var fs = require('fs');
     let T = [];
     for(let i = 0; i < ar.length; i += 4){
       if(ar[i + 3] == undefined)break;
-      if(ar[i+2].indexOf("f.is.") ==-1 && ar[i+1].indexOf("-") == -1)
+      if(ar[i+2].indexOf("f.is.") ==-1 && ar[i+1].indexOf("-") == -1 && !ar[i+1].endsWith("MAQ")  && !ar[i+1].endsWith("MƏK"))
       T.push([ar[i], ar[i+1],ar[i+2],ar[i+3]]);
     }
      T.sort(function(a, b){
@@ -243,7 +243,7 @@ var fs = require('fs');
       let CAVABLAR = [];
       for(let i = 0; i < BList.length; i++)BlackSet[(BList[i])]=1;
       let SAYLI = [[],[],[],[],[],[],[],[],[],[],[],[]];
-      let SAY = [[],[],[],[50],[50],[50],[50],[50],[50],[50],[50],[50]]
+      let SAY = [[],[],[],[60],[60],[60],[60],[60],[60],[60],[60],[60]]
       for(let i = 4; i <= 11; i++) {
         let say = 0;
         for(let j = 0; j < T.length && say<=SAY[i][0]; j++) {
