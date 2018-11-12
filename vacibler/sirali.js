@@ -1,3 +1,15 @@
+function replace(s, a, b) {
+  let ans = "";
+  for(let i = 0 ; i < s.length; i++) {
+    if(s[i] == a) {
+      ans += b;
+    }else {
+      ans += s[i];
+    }
+  }
+  return ans;
+}
+
 class Point {
   constructor(x, y) {
     this.x = x;
@@ -213,9 +225,32 @@ var fs = require('fs');
     let T = [];
     for(let i = 0; i < ar.length; i += 4){
       if(ar[i + 3] == undefined)break;
-      if(ar[i+2].indexOf("f.is.") ==-1 && ar[i+1].indexOf("-") == -1 && !ar[i+1].endsWith("MAQ")  && !ar[i+1].endsWith("MƏK"))
+      if(ar[i+2].indexOf("f.is.") ==-1 && ar[i+1].indexOf("-") == -1)
       T.push([ar[i], ar[i+1],ar[i+2],ar[i+3]]);
     }
+    //read from book
+    let kitab = "";
+//    for(let i = 1; i <= 72; i++) {
+//    	let s = (fs.readFileSync('heyatbilgisi/page'+i+'.xhtml')+"");
+//    	s = replace(s, "İ", "I");
+//        kitab += s.toUpperCase();
+//        //console.log(kitab.length);
+//    }
+    kitab = (fs.readFileSync("dinikitab") + "").toUpperCase();
+    
+    console.log(kitab.length);
+    let STT = require('./suffixtree');
+    let ST = new STT.SuffixTree();
+    console.log("begin add");
+    ST.addString(kitab);
+    ST.build()
+    console.log("end add" + "---" + ST.count("İ"));
+    for(let i = 0; i < T.length; i++) {
+    	let s = replace(T[i][1], "İ", "I");
+    	//console.log(T[i][1]);
+    	T[i][3] = ST.count(s);
+    }
+    //read book end.
      T.sort(function(a, b){
        let x = parseInt(a[3]);let y = parseInt(b[3]);
        //return b[1].length-a[1].length;
@@ -243,7 +278,7 @@ var fs = require('fs');
       let CAVABLAR = [];
       for(let i = 0; i < BList.length; i++)BlackSet[(BList[i])]=1;
       let SAYLI = [[],[],[],[],[],[],[],[],[],[],[],[]];
-      let SAY = [[],[],[],[60],[60],[60],[60],[60],[60],[60],[60],[60]]
+      let SAY = [[],[],[],[100],[100],[100],[100],[100],[100],[100],[100],[100]]
       for(let i = 4; i <= 11; i++) {
         let say = 0;
         for(let j = 0; j < T.length && say<=SAY[i][0]; j++) {
@@ -298,10 +333,12 @@ var fs = require('fs');
               if(Coxluq.size > 0)
                 p = p && qonsuvar;
               if(p) {
-                if(Coxluq.has(soz)) {
+                if(Coxluq.has(soz) || ST.count(soz)< 2) {
                   continue;
                 }
+                
                 Coxluq.add(soz);
+                console.log(soz + "----" + ST.count(soz));
                 let CAVAB = {};
                 CAVAB["soz"] = soz; CAVAB["x"] = x; CAVAB["y"] = y;CAVAB["sual"] = T[index][2]; if(dx == 1)CAVAB["saga"]=0;else CAVAB["saga"]=1;
                 CAVABLAR.push(CAVAB);
@@ -339,11 +376,11 @@ var fs = require('fs');
               if(Coxluq.size > 0)
                 p = p && qonsuvar;
               if(p) {
-                if(Coxluq.has(soz)) {
+                if(Coxluq.has(soz)|| ST.count(soz)< 2) {
                   continue;
                 }
                 Coxluq.add(soz);
-
+                console.log(soz + "----" + ST.count(soz));
                 let CAVAB = {};
                 CAVAB["soz"] = soz; CAVAB["x"] = x; CAVAB["y"] = y;CAVAB["sual"] = T[index][2]; if(dx == 1)CAVAB["saga"]=0;else CAVAB["saga"]=1;
                 CAVABLAR.push(CAVAB);
