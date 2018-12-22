@@ -1,122 +1,137 @@
-35 35
-0{1{0{RİND{  Vaxtını eyş-işrətlə keçirən laqeyd, laübalı adam.{
-2{0{1{İNSAN{   Adam, bəşər.{
-1{3{0{YARIMAYLIQ{ Yarım ay davam edən.{
-6{2{1{QALDIRMAQ{  Əyilərək yerdən götürmək.{
-0{9{0{GÜNAHKAR{  Təqsirkar.{
-1{8{1{MÜTƏFƏKKİR{  Dərin fəlsəfi fikir sahibi olan adam.{
-2{7{0{HAZIRLIQLI{ Hazırlığı olan.{
-8{0{1{YALLI{ Qarnı yekə it.{
-10{5{1{GƏLƏCƏK{  Zaman baxımından hələ çatmamış, lakin çatması gözlənilən.{
-8{10{0{MÜƏLLİM{   Məktəbdə hər hansı bir fəndən dərs deyən adam.{
-7{1{0{TANINMIŞ{ Məşhur, adlı-sanlı.{
-0{13{0{TƏSBEH{  Zikr edilən duaları saymaq,indi isə məşğuliyyət üçün istifadə edilən sapa keçirilmiş muncuq və s.{
-8{10{1{MÜCTƏHİDLİK{ Müctəhidin işi, vəzifəsi.{
-6{20{0{MÜKAFAT{   Birinin hər hansı bir sahədəki xidmətlərini, müvəffəqiyyətini qeyd etmək üçün ona verilən pul və ya başqa qiymətli bəxşiş.{
-13{4{1{KOMMUNİZM{İstehsal alətlərinin ümumiləşdirildiyivə xüsusi mülkiyyətin olmadığı ictimai quruluş.{
-0{11{0{MƏLUN{  Əsil mənası “lənətə gəlmiş”, “lənətlənmiş”, “Allahın rəhmətindən məhrum”, “mürtəd” olub, Azərbaycandilində söyüş, qarğış mənasında işlənir.{
-5{18{0{GÖZLÜ{ Gözü olan, görən.{
-6{14{0{ÜQƏLA{ Ağıllı adamlar.{
-6{20{1{MƏLUM{   Bilinən, bilinmiş.{
-4{22{0{FƏLSƏFƏ{ [ yunan sözü. phileo – sevirəm və sophio – müdriklik, müdrikliyi sevmək]{
-10{13{1{SALEH{  Yararlı.{
-3{6{1{YARA{  Bədən, yaxud onun daxili orqanları toxumalarının hər hansı bir silah vəya başqa iti, bərk şeylə zədələnməsi və bu zədənin yeri.{
-12{16{1{MAKETÇİLİK{ Maketçinin işi.{
-7{25{0{TƏVƏKKÜLÜ{  Bəxtəbəxt.{
-14{21{1{GÖZƏL{  Sifətinin cizgiləri, bədəninin tənasübü, qaş-gözü qüsursuz olan.{
-12{16{0{MÜNASİBƏTLİ{ Yerində, məqamında,zamanında olan.{
-15{13{1{ƏHVALLI{ Yaxşı xasiyyətli,xoşa gələn, deyib-gülən.{
-8{24{1{DƏRƏCƏ{   Bir şeyin müqayisəli kəmiyyəti, səviyyəsi.{
-21{9{1{YALANÇILIQ{ Yalançının xasiyyəti.{
-3{27{0{MƏRUZƏÇİ{ Məruzə edən şəxs.{
-20{13{0{ANDIR{ Əsil mənası “sahibsiz,yiyəsiz mal, ölən bir şəxsin qohumlarına irs qoyub getdiyi mal.{
-17{10{0{DÜNYA{   Bir küll olaraq maddənin bütün formalarının məcmusu.{
-3{27{1{MÖHKƏMLİK{  Möhkəm şeyin halı.{
-7{29{0{QƏHRƏMANLIQ{ İgidlik.{
-2{31{0{QƏLƏNDƏRANƏ{ Qələndər kimi.{
-17{27{1{MÜQABİLƏ{   müqabil.{
-5{30{1{XƏYALÇI{ xəyalpərəst.{
-12{33{0{GÜNAHLI{ günahkar.{
-3{16{0{ƏSƏRLİ{ Təsirli, təsir edən.{
-19{15{1{SƏYAHƏTNAMƏ{ Səyahət zamanı səyahətçinin görüb,gözdən keçirdiyi şeylərə dair yazdığı kitab və s.{
-3{16{1{ƏLEYH{ İnsanın əksinə.{
-13{27{1{ƏSAS{   Bünövrə, özül.{
-5{25{1{BARƏ{  Bənd, sədd.{
-14{31{1{TƏNTİTMƏK{ Tələsdirərək çaşdırmaq,sıxma-boğmaya salmaq.{
-16{23{0{MÜHARİBƏ{  Dövlətlər arasında mütəşəkkil silahlı mübarizə; hərb, dava.{
-10{38{0{GÖSTƏRMƏK{  Görməsinə imkan yaratmaq.{
-16{20{0{LƏBƏLƏB{ Ağzına qədər dolu.{
-10{36{0{HƏYAT{   Materiyanın hərəkətinin müəyyən inkişaf mərhələsində əmələgələn xüsusi forması.{
-19{4{1{NÜMAYƏNDƏ{  Hər hansı bir kollektiv, təşkilat və s.{
-15{7{0{YORĞANÇA{ Kiçik yorğan, balaca yorğan;uşaq yorğanı.{
-18{25{0{QƏZAVƏT{  Qazilik.{
-24{9{1{HÖKMRANLIQ{  Hakimiyyət, diktatura.{
-17{27{0{MÜSTƏQİL{   Başqasından asılı olmayan.{
-1{33{1{YALNIZ{ Məhdudiyyət bildirir ancaq, təkcə.{
-1{19{0{MAYA{  Dişi dəvə.{
-22{3{1{PADŞAH{ Hökmdar, imperator.{
-11{12{0{İLMƏ{  Toxunma şeylər xalça, corab,parça və s.{
-21{4{0{QARDAŞ{  Bir ata-anadan, yaxud yalnız bir atadan və ya bir anadan olan oğulların bir-birinə, yaxud bacısına nisbətən hər biri.{
-1{19{1{MÜSƏLMANLIQ{ Müsəlman dininə mənsub olma.{
-17{12{1{DƏRVİŞ{ Qapı-qapı gəzərək,yaxud meydançalarda adamları başına yığaraq peyğəmbərə, imamlara və Kərbəla hadisələrinə həsr olunmuş qəsidələri avazla oxuyub pul yığan adam.{
-0{23{0{ALIN{  Üzün saç ilə qaş arasında olan ön hissəsi.{
-25{1{1{NAMAZLIQ{  Üzərində namaz qılmaq üçün xalça, örtü və s.{
-17{3{1{BUXARI{ Divar içində hörülmüş ocaq.{
-24{6{0{OLMAYA{ “Bəlkə”, “yoxsa” .{
-0{25{0{HAQQ{   Allah, Tanrı.{
-23{2{0{AMAN{   əmniyyət,təhlükəsizlik, qorxusuzluq.{
-29{3{1{MÜQAVİMƏT{   Zorakı hərəkətə,zorakılığa qarşı durma.{
-26{11{0{TƏNTİKLİK{  Sadə dillik, sadə lövhlük.{
-27{10{1{MƏLUMAT{  Bir şey haqqında bilik, xəbərdarlıq.{
-32{7{1{XƏYALAT{ Əsli olmadığı halda gözə görünən mövhum surət; həqiqətdə deyil, yalnız xəyalda,fikirdə, təsəvvürdə olan şeylər.{
-28{4{0{MÜKƏMMƏL{   Heç bir qüsuru,kəsiri, nöqsanı olmayan.{
-26{14{0{İMAN{   İnanma, dərin inam.{
-35{2{1{ÖVLADLIQ{  Övladın ata-anaya qohumluq münasibəti.{
-31{3{1{RƏBB{  Allah, Tanrı.{
-16{35{1{HÖKM{   Əmr, buyruq.{
-34{6{0{ADƏT{   Hər hansı bir xalqın həyatında qədimdən bəri qəbul edilmiş və kök salmış ənənə.{
-37{0{1{HƏRƏKƏT{   Bir şeyin və ya onun hissələrinin sabit bir nöqtəyə görə öz yerini və ya vəziyyətini dəyişməsi.{
-15{13{0{ƏMƏL{  Qayə, məqsəd.{
-33{1{1{DAXMA{  Daşdan, palçıqdan və s.-dən tikilən tək otaqlı, balaca, alçaq, ibtidai ev.{
-4{5{0{RADA{Ukraynada ali qanunvericilik orqanı.{
-14{31{0{TƏRBİYƏ{   Təhsil verməklə, hər hansı adət, ədəb və davranış qaydaları və s.{
-20{30{1{TƏRCÜMƏ{  Bir dildən başqa dilə çevirmə (çevrilmə).{
-19{34{0{MÜVAFİQ{  Uyğun, uyar, həmahəng.{
-22{30{1{PEYĞAM{ Xəbər, sifariş.{
-25{29{1{QIPÇAQLAR{XI-XII əsrlərdə cənubi rus torpaqlarını tutmuş, peçeneqlərə yaxın türk dilli xalq.{
-23{37{0{ZƏRBAF{  güləbətin,zərli parça toxuyan usta.{
-36{1{0{DƏRS{   Müəyyən bir fənni öyrənmək üçün daimi, müntəzəm təlim.{
-24{32{0{ÜÇÜN{Ötrü.{
-24{30{0{QIZDIRILMIŞ{ Qızğın hala gətirilmiş,istiləndirilmiş.{
-28{22{1{QARIŞIQLI{ Qarışıq olan, başqa şeylə qarışdırılmış.{
-27{23{0{BAXMAYARAQ{  Əksinə olaraq,ziddinə olaraq.{
-30{17{1{AĞULANMAQ{ağılanmaq.{
-26{20{0{ƏNDƏLİB{  Bülbül. {
-31{28{1{SƏLTƏNƏT{   Padşahlıq, hökmdarlıq.{
-34{16{1{GÜNAHKARLIQ{ Müqəssirlik, təqsirkarlıq.{
-30{32{0{QƏZAVAT{   Müsəlmanlıqda:islam dinindən olmayan xalqlarla din uğrunda aparılan müharibə; cihad.{
-35{31{1{QARNIAÇIQ{  Lüt, kasıb,yoxsul.{
-28{35{0{PALTARLIQ{ Paltar tikmək üçün yarayan,paltar tikmək üçün ayrılmış.{
-25{39{0{QƏRARLAŞMAQ{  Yerbəyer olmaq,yerləşmək.{
-36{16{1{QARANLIQ{  İşıq yoxluğu, baxanda heç bir şey görünməyən hal.{
-31{28{0{SƏYAHƏT{  Müəyyən məqsədlə elmi, bir yerlə tanışlıq.{
-28{17{1{YURD{  İnsanın doğulub böyüdüyü yer.{
-30{13{0{ARTIQTAMAH{ Çox tamahkar.{
-23{22{1{SƏLƏ{ qabların ağzını bağlamaq üçün kənd yerlərində işlədilən, kəsilmiş heyvan qarnının təmizlənmiş bir parçası.{
-37{10{1{HÖRMƏT{   Böyüklərə, yaşlılara və ya ləyaqətinə, xidmətinə görə birinə göstərilən ehtiram.{
-39{11{1{MÜHAFİZƏÇİ{  Qoruyan.{
-37{26{1{BÜTÜN{ Hamı, hamısı.{
-32{15{1{ABSORBSİYA{ Mayenin qaz qarışığından hər hansı bir maddəni udması prosesi.{
-0{37{0{MIZI{ Azdanışan, həmişə qaşqabaqlı.{
-23{22{0{SURƏ{  Quranın bölündüyü 114 fəsildən hər biri.{
-26{27{0{AXIN{  Sürətlə axan su.{
-4{36{0{DIĞA{ Erməni uşağı.{
-7{35{1{LARI{ Uzunqıçlı, uzunboğazlı toyuq və xoruz cinsi.{
-39{0{1{ÜSTÜNLÜK{ Bənzərləri arasında daha yaxşı.{
-27{5{1{LAMA{Dəvə ailəsindən Cənubi Amerika yük heyvanı.{
-18{35{1{TÜRK{ Türkiyənin əsas əhalisini təşkil edən və türk dillərindən birində danışan xalq və bu xalqa mənsub adam.{
-36{30{0{ANIŞ{ İstək, arzu, dilək.{
-4{38{0{YANI{yanakı.{
-39{24{1{REALLAŞMAQ{ Həyata keçmək, həyata keçirilmək.{
-18{18{0{BAŞQA{ Bu yox, digər.{
-32{37{0{HƏMÇƏKİ{ Çəkisi bir olan, eyni ağırlıqda,çəkidə olan.{
+40 40
+0{1{0{QUCAQ{  Döş ilə qollar arasında əmələ gələn boşluq.{
+1{0{1{CUMBULU{  Çox kiçik.{
+3{0{1{ÇAPMAQ{  Balta, külüng və s.ilə parçalamaq.{
+0{4{0{BUDAQLI{ Budağı olan.{
+5{3{1{İLİŞİK{ Düyün.{
+2{7{0{EHTİRAS{   Ağlın çətinliklə idarə edə bildiyi hiss.{
+7{6{1{QALPAQ{  Mahuddan, bezdən,yaxud dəmirdən hazırlanan baş örtüsüs.{
+1{10{0{NOVELLA{[ital.] Qısa, kiçik hekayə.{
+2{9{1{KOLLUQ{ Kollardan ibarət sahə.{
+0{12{0{BİLDİR{ Keçən il, ötən il.{
+0{14{0{MƏQBƏRƏ{   Türbə.{
+6{13{1{MƏHBUB{  Sevgili, məşuq.{
+2{17{0{XOŞNUD{ Razı, məmnun.{
+6{13{0{MADYAN{  Dişi at.{
+9{11{1{RAYON{   Bir ərazinin hər hansı bir coğrafi, iqtisadi və b. cəhətdən tam bir vəhdət təşkil edən hissəsi.{
+11{9{1{SİLİNDR{Handəsi cism.{
+3{16{1{QOLAY{  Asan, zəhmətsiz.{
+10{10{0{GİLLƏ{ Təndirdə alma və ya armud qurutmaq üçün dayaz palçıq qab.{
+13{7{0{UZUNBOY{ Boyu uzun olan, boycahündür, ucaboy.{
+17{4{1{LƏBBEYK{ Əslində “nə əmriniz var?”, “əmrinizə müntəzirəm”, “buyurun!”demək olub, adətən “demək” feli ilə işlənir.{
+12{5{0{ÇƏRTMƏK{  İti bıçağın ucu ilə yaranın üstünü azacıq kəsmək. .{
+1{20{0{ZİYAN{  Zərər.{
+14{1{1{BƏŞƏR{  İnsan, adam.{
+9{3{0{QARĞAŞA{ Qalmaqal, dava.{
+14{1{0{BÜRKÜLÜ{ Boğanaq, nəfəsi çətinləşdirəcək dərəcədə isti.{
+10{0{1{RƏFAQƏT{  Yoldaşlıq, dostluq.{
+6{1{0{KÜLFƏT{   Ailə.{
+16{9{0{OYUNÇU{  Hər hansı oyunda iştirakçı.{
+20{0{1{DÜYÜNLÜ{  Düyünü olan.{
+19{3{0{MÜDDƏA{   Bir şeyə əsaslanaraq irəli sürülən fikir.{
+23{2{1{SƏRPAYI{   Böyük məclisi, toyu idarə edən adam.{
+1{20{1{ZİNAKAR{ Zina edən.{
+0{25{0{QAPAN{ Böyük tərəzi.{
+3{22{1{İMTAHAN{   Yoxlama sınağı.{
+2{27{0{DAMCI{  Mayelərin girdə şəklə düşmüş ayrıca kiçik hissəciyi.{
+6{24{1{KASIB{   Heç bir var-dövləti olmayan.{
+6{24{0{KÖMÜRLÜ{ Üzərinə kömür tozu qonmuş.{
+11{22{1{PALAN{   Heyvanların belinə qoyulan içi saman,ya küləşlə dolu primitiv yəhər.{
+8{20{1{QURUMUŞ{ Quru hala gəlmiş. {
+8{20{0{QAÇAĞAN{  Çox bərk qaçan.{
+13{17{1{GÜMAN{   Lazımınca əsaslanmamış fikir, zənn.{
+22{6{0{ÇAMADAN{ Sumka.{
+28{1{1{SOYĞUN{ Talama, talan, çapqın.{
+11{18{0{ÜYÜTMƏK{  Dəyirmanda buğda çəkmək.{
+25{5{1{NAHAMAR{  Kələkötür,girintili-çıxıntılı.{
+16{13{1{FƏSAHƏT{  Fikri səlis, aydın, düzgün və məntiqli ifadə etmək bacarığı.{
+22{10{0{AŞXANA{ Yeməkxana. {
+15{16{0{QANDA{“Harada” sözünün qədimi forması.{
+19{11{1{ŞADARA{ Buğdanın, arpanın torpağını təmizləmək üçün xəlbir.{
+26{4{0{SIĞIRÇI{ Mal-qara çobanı; naxırçı.{
+18{12{0{BATAQ{  Lığ, lehmə.{
+18{14{0{KAPİTAL{ Sərbayə.{
+30{2{1{JURNAL{  Kitabça şəklində nəşr edilən dövri məcmuə.{
+23{13{1{KANKAN{  Əl ilə quyu qazan.{
+19{18{0{DƏRİN{  Səthindən dibinə qədər xeyli məsafə olan.{
+21{16{0{FAKÜLTƏ{ Ali məktəblərin tədris obyektinə görə bir-birindən ayrılan şöbələrindən hər biri.{
+20{17{1{LƏBLƏBİ{ Çərəz kimi yeyilən qovrulmuş qabıqsız noxud.{
+15{23{0{MÜXALİF{  Zidd, əks.{
+17{20{0{BOLLUCA{ Çoxlu.{
+27{8{1{DİALEKT{Yerli şivə, ləhcə.{
+25{15{1{İLDIRIM{ Havada yığılmış atmosfer elektrikinin çox vaxt əyri-üyrü zolaq şəklində ani parıltısı.{
+25{13{0{KÖKLÜ{  Torpaq altında rişələri olan.{
+16{21{1{ÖTÜŞMƏK{ Səs-səsə verərək oxumaq, cəh-cəh vurmaq.{
+29{8{1{SÜRÜCÜ{ Maşını, traktoru idarə edən adam.{
+18{22{1{DANABAŞ{  Küt adam, tərs adam, höcət adam.{
+24{19{0{İRADƏ{   İnsanın öz qarşısına qoyduğu məqsədə nail olmaq  qabiliyyəti.{
+28{18{1{MƏQALƏ{  Məcmuə.{
+27{21{0{YASAQ{Qadağan.{
+30{18{1{QARAGÖZ{ Gözləri qara.{
+30{18{0{QARIŞ{ Açıq əlin baş barmağı ucundan çeçələ barmağın ucuna qədər olan məsafə.{
+29{24{0{ÜZÜMLÜK{ Üzüm bağı.{
+23{23{0{NƏTİCƏ{   Bir işdən doğan  vəziyyət.{
+26{22{1{SİNONİM{ Mənaca başqa sözlə bir, deyilişcə isə müxtəlif olan söz.{
+24{22{1{MƏRHƏLƏ{   Bir şeyin inkişafında keyfiyyətcə öz xüsusiyyətləri olan dövr.{
+34{23{1{MÜVAZİ{  Bir istiqamətdə uzanan.{
+32{26{0{İLANOTU{  Gövdəsi buğum-buğum,quraqlığa davamlı çoxillik ot.{
+36{25{1{YOLÇU{  Yola, səfərə çıxmış adam.{
+32{14{1{XƏMİR{  Unun  su  ilə yoğurulmasından hasil olan suvaşqan kütlə.{
+15{25{0{ƏMMAMƏ{  Bəzi Şərq ölkələrində:sarınmış uzun ağ parçadan ibarət baş geyimi.{
+30{16{0{AXMAQCA{ Axmaq kimi.{
+35{29{0{DUYĞU{  Obyektiv aləmin hadisələrini qavrama.{
+32{14{0{XATAKAR{Qorxulu,xain.{
+37{10{1{ZƏRDAB{   Süd çürüdükdə, qatıq qaldıqda hasil olan sarı su.{
+3{22{0{İLAŞIRI{ Hər ildən bir.{
+34{12{0{ŞÜURLU{Anlaqlı, dərrakəli.{
+35{29{1{DÜZƏLİŞ{  Razılaşma, saziş.{
+31{34{0{DİMDİK{  Çox dik.{
+31{30{0{KÜYLÜ{Səsli.{
+20{27{0{ZÜLAL{   Saf, sərin, dadlı su.{
+22{26{1{İLTİFAT{   Lütfkarlıq.{
+18{31{0{ALACAQ{ Alınacaq borc.{
+19{29{1{BİLLƏ{Uşaqlara verilən hər cür şirniyyat, meyvə və s.{
+32{32{0{TƏMƏNNA{   Arzu, istək.{
+14{33{0{BƏSİRƏT{  Gələcəyi görmə qabiliyyəti.{
+15{28{1{DƏYİŞƏK{ Alt paltar, tuman-köynək.{
+10{29{0{YASƏMƏN{ Çiçəklər açan kol.{
+35{6{1{KÖNÜLLÜ{  Öz xoşu ilə.{
+11{28{1{PAROVOZ{Dəmir yolunda qatarları çəkib aparmaq üçün buxar mühərrikli lokomotiv.{
+13{26{1{KƏSƏKLİ{ Kəsəyi çox olan.{
+31{9{0{KÖKLÜK{ Musiqi alətlərində simlərin səslənməsinin bir-birinə uyğunluq vəziyyəti.{
+17{32{1{DİLAVƏR{   Qoçaq, igid.{
+12{38{0{TALVAR{  Günəşdən, yağışdan qorunmaq üçün dirəklər üzərində qurulmuş üstü örtülü kölgəlik.{
+15{36{0{DAVASIZ{ Qalmaqalsız.{
+13{35{1{QURAN{ Yaradıcı, qurucu.{
+7{36{0{BETONLU{ Betonla örtülmüş.{
+31{9{1{KANAL{ Böyük arx.{
+9{30{1{NƏSİHƏT{  Öyüd, yol göstərici sözlər.{
+31{34{1{DÖNMƏK{  Getdiyi tərəfin əksinə çevrilmək.{
+5{31{0{SÜFRƏ{  Yemək stolunun üstünə xüsusi parçadan tikilmiş örtük.{
+27{38{0{RÖVNƏQ{  Parlaqlıq.{
+6{30{1{VÜQAR{  Öz mənliyini yüksək tutma, başı ucalıq.{
+2{34{0{ZƏBƏR{  Ərəb (fars) əlifbasında“ə” səsini bildirmək üçün samitlərin üzərinə qoyulan , işarəsi.{
+4{32{1{ZİBİLLİ{  Süpürülməmiş.{
+29{36{0{QANQAL{  Yarpağı tikanlı, özəyi yeyilən alaq bitkisi.{
+0{38{0{MƏNTİQ{   Təfəkkürün qanun və formaları haqqında elm.{
+38{31{1{YAĞMA{ Soyğun, qarət.{
+21{34{1{TƏZƏCƏ{  Təzə, təptəzə. {
+20{39{0{MƏCNUN{ Dəli, divanə.{
+39{9{1{HÜDUD{  Sərhəd.{
+38{23{1{ŞULUQ{  Nadinc.{
+32{1{1{CAHIL{  Cavan.{
+23{33{1{LÜTERAN{  Lüteran dininə mənsub adam.{
+1{35{1{TƏMƏL{  Bünövrə.{
+25{35{1{MƏKAN{   Bir adamın sakin olduğu yer.{
+33{6{1{ÇƏRKƏZ{ Qaraçay-Çərkəz muxtar vilayətində yaşayan xalqlardan biri.{
+23{33{0{LİBERAL{ Liberalizm tərəfdarı.{
+28{28{0{İCTİMAİ{   İnsan cəmiyyətinə aid olan.{
+27{31{1{GİRDƏ{  Dairəvi.{
+32{1{0{CAVANCA{ Lap cavan.{
+38{0{1{BALZAM{ Balzam ağacından hasil edilən və tərkibində efir yağları olan yarı duru ətirli qatran.{
+34{4{0{ŞAQQA{ İkiyə parçalanmış cəmdək.{
+29{26{1{HÜCUM{   İrəliləmək məqsədilə qoşunların düşmənə qarşı apardığı hərbi əməliyyat.{
+35{0{1{ÇADRA{ Çarşab.{
+25{29{1{KABAB{  Köz üstündə bişirilən xörək.{
+8{15{0{İNTRİQA{  Hiylə, fitnə.{
+0{36{0{DƏCƏL{  Nadinc.{

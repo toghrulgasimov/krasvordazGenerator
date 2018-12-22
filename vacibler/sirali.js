@@ -230,26 +230,39 @@ var fs = require('fs');
     }
     //read from book
     let kitab = "";
-//    for(let i = 1; i <= 72; i++) {
-//    	let s = (fs.readFileSync('heyatbilgisi/page'+i+'.xhtml')+"");
-//    	s = replace(s, "İ", "I");
-//        kitab += s.toUpperCase();
-//        //console.log(kitab.length);
-//    }
-    kitab = (fs.readFileSync("dinikitab") + "").toUpperCase();
+    for(let i = 1; i <= 208; i++) {
+    	let s = (fs.readFileSync('az2cisni/page'+i+'.xhtml')+"");
+    	s = replace(s, "İ", "I");
+        kitab += s.toUpperCase();
+        //console.log(kitab.length);
+    }
+    //kitab = (fs.readFileSync("dinikitab") + "").toUpperCase();
     
     console.log(kitab.length);
     let STT = require('./suffixtree');
     let ST = new STT.SuffixTree();
     console.log("begin add");
     ST.addString(kitab);
-    ST.build()
-    console.log("end add" + "---" + ST.count("İ"));
-    for(let i = 0; i < T.length; i++) {
-    	let s = replace(T[i][1], "İ", "I");
-    	//console.log(T[i][1]);
-    	T[i][3] = ST.count(s);
-    }
+//    ST.build()
+//    console.log("end add" + "---" + ST.count("İ"));
+//    for(let i = 0; i < T.length; i++) {
+//    	let s = replace(T[i][1], "İ", "I");
+//    	//console.log(T[i][1]);
+//    	T[i][3] += ST.count(s);
+//    	if(s.endsWith("MAQ") || s.endsWith("MƏK")){
+//    		s = s.substring(0, s.length-3);
+//    		T[i][3] += ST.count(s);
+//        	
+//    	}
+//    	if(s.endsWith("Q")) {
+//    		s = s.substring(0, s.length-1)+"Ğ";
+//    		T[i][3] += ST.count(s);
+//    	}else if(s.endsWith("K")) {
+//    		s = s.substring(0, s.length-1)+"Y";
+//    		T[i][3] += ST.count(s);
+//    	}
+//    	
+//    }
     //read book end.
      T.sort(function(a, b){
        let x = parseInt(a[3]);let y = parseInt(b[3]);
@@ -271,14 +284,27 @@ var fs = require('fs');
       Z[i].push('h');// h, a, e, 2, 3
       I[i].push('b'); // s, a
     }
+    let BList = ["FARS","TƏRƏ","QEYR","HALA","HƏVƏ","HƏRƏKƏ","TƏSƏRRÜF","ZƏRF","REFORMASİYA","","","","","","","","","","","","","","","","","","","","","","",""];
+    let old = ""
+    for(let i = 1; i <= 41; i++) {
+    	//console.log(i + ' yadda qaldi');
+    	old = (fs.readFileSync(i + "")) + "";
+    	let ar = old.split('\n');
+    	for(let j = 0; j < ar.length; j++) {
+    		let arr = ar[j].split('{');
+    		if(arr.length > 1) {
+    			//console.log(arr[3]);
+    			BList.push(arr[3]);
+    		}
+    	}
+    }
     for(let prob = 0; prob < 5; prob++) {
       //Balcklist
-      let BList = ["FARS","TƏRƏ","QEYR","HALA","HƏVƏ","HƏRƏKƏ","TƏSƏRRÜF","ZƏRF","","","","","","","","","","","","","","","","","","","","","","","",""];
       let BlackSet = {};
       let CAVABLAR = [];
       for(let i = 0; i < BList.length; i++)BlackSet[(BList[i])]=1;
       let SAYLI = [[],[],[],[],[],[],[],[],[],[],[],[]];
-      let SAY = [[],[],[],[100],[100],[100],[100],[100],[100],[100],[100],[100]]
+      let SAY = [[],[],[],[0],[0],[301],[300],[500],[0],[0],[0],[0]]//300e qaldirdim ela
       for(let i = 4; i <= 11; i++) {
         let say = 0;
         for(let j = 0; j < T.length && say<=SAY[i][0]; j++) {
@@ -333,12 +359,12 @@ var fs = require('fs');
               if(Coxluq.size > 0)
                 p = p && qonsuvar;
               if(p) {
-                if(Coxluq.has(soz) || ST.count(soz)< 2) {
+                if(Coxluq.has(soz) ) {
                   continue;
                 }
                 
                 Coxluq.add(soz);
-                console.log(soz + "----" + ST.count(soz));
+                console.log(soz + "----" + T[index][3]);
                 let CAVAB = {};
                 CAVAB["soz"] = soz; CAVAB["x"] = x; CAVAB["y"] = y;CAVAB["sual"] = T[index][2]; if(dx == 1)CAVAB["saga"]=0;else CAVAB["saga"]=1;
                 CAVABLAR.push(CAVAB);
@@ -376,11 +402,11 @@ var fs = require('fs');
               if(Coxluq.size > 0)
                 p = p && qonsuvar;
               if(p) {
-                if(Coxluq.has(soz)|| ST.count(soz)< 2) {
+                if(Coxluq.has(soz)) {
                   continue;
                 }
                 Coxluq.add(soz);
-                console.log(soz + "----" + ST.count(soz));
+                console.log(soz + "----" + T[index][3]);
                 let CAVAB = {};
                 CAVAB["soz"] = soz; CAVAB["x"] = x; CAVAB["y"] = y;CAVAB["sual"] = T[index][2]; if(dx == 1)CAVAB["saga"]=0;else CAVAB["saga"]=1;
                 CAVABLAR.push(CAVAB);
