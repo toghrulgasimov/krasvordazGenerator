@@ -14,7 +14,7 @@ for(let i = 0; i < T.length;i++) {
 }
 
 
-let w = fs.readFileSync("wowaze.txt") + "";
+let w = fs.readFileSync("wowaze25den.txt") + "";
 let wow = w.split('\n');
 for(let i = 0; i < wow.length; i++) {
 	wow[i] = wow[i].substring(0,wow[i].length-1);
@@ -59,6 +59,7 @@ function all(s) {
 
 for(let k = 0; k < wow.length; k++) {
 	let aa = p(wow[k]);
+	//let aa = p("SABAHI");
 	let SS = new Set(aa);
 	aa = Array.from(SS);
 	let ANS = new Set();

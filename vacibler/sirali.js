@@ -127,7 +127,7 @@ const rl = readline.createInterface({
 
 
 
-let N = 40, M = 40;
+let N = 35, M = 35;
 let D = [], I = [], Z=[], Y =[];
 function check(x, y) {return !(x<0) && !(x>=N) && !(y<0) && !(y>=M)}
 function shuffle(a) {
@@ -286,7 +286,7 @@ var fs = require('fs');
     }
     let BList = ["FARS","TƏRƏ","QEYR","HALA","HƏVƏ","HƏRƏKƏ","TƏSƏRRÜF","ZƏRF","REFORMASİYA","","","","","","","","","","","","","","","","","","","","","","",""];
     let old = ""
-    for(let i = 1; i <= 41; i++) {
+    for(let i = 1; i <= 42; i++) {
     	//console.log(i + ' yadda qaldi');
     	old = (fs.readFileSync(i + "")) + "";
     	let ar = old.split('\n');
