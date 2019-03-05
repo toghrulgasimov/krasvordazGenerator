@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ceb7e483-3a59-4fd9-ae75-81b37984b99a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/1old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/44" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/45" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cg.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fromxml.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sirali2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sirali2file.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarish.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1" beforeDir="false" afterPath="$PROJECT_DIR$/1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/19" beforeDir="false" afterPath="$PROJECT_DIR$/19" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/22" beforeDir="false" afterPath="$PROJECT_DIR$/22" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3" beforeDir="false" afterPath="$PROJECT_DIR$/3old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4" beforeDir="false" afterPath="$PROJECT_DIR$/4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/missialar.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sirali.js" beforeDir="false" afterPath="$PROJECT_DIR$/sirali.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarish" beforeDir="false" afterPath="$PROJECT_DIR$/yarish" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sirali2.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3179">
+              <caret line="355" column="19" selection-start-line="355" selection-start-column="19" selection-end-line="355" selection-end-column="19" />
+              <folding>
+                <element signature="n#!!block;n#replace#0" />
+                <element signature="n#Point#0" />
+                <element signature="n#Line#0" />
+                <element signature="n#!!block;n#Random#0" />
+                <element signature="n#!!block;n#randompos#0" />
+                <element signature="n#!!block;n#qonsusuaxir#0" />
+                <element signature="n#!!block;n#qonsuevvel#0" />
+                <element signature="n#!!block;n#qonsusaga#0" />
+                <element signature="n#!!block;n#qonsuasagi#0" />
+                <element signature="n#!!block;n#qonsudolu#0" />
+                <element signature="n#!!block;n#qonsuistiqamet#0" />
+                <element signature="n#!!block;n#qonsukesismir#0" />
+                <element signature="n#!!block;n#qonsusuvarf#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1old">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="26" selection-end-line="2" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sirali2file.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fromxml.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="335">
+              <caret line="83" column="31" lean-forward="true" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/55">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aa.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fromx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="21" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/2">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>{sif.</find>
+      <find>addString</find>
+      <find>20</find>
+      <find>[ər.]</find>
+      <find>qonsukesismir</find>
+      <find>Random</find>
+      <find>Coxluq.size &gt; 0</find>
+      <find>{</find>
+      <find>sort</find>
+      <find>soz</find>
+      <find>yax</find>
+      <find>xmlData</find>
+      <find>|</find>
+      <find>YER</find>
+      <find>DEMƏK</find>
+      <find>ÇIRAQ</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>{</replace>
+      <replace>|</replace>
+      <replace>,</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/19" />
+        <option value="$PROJECT_DIR$/yarish" />
+        <option value="$PROJECT_DIR$/22" />
+        <option value="$PROJECT_DIR$/44" />
+        <option value="$PROJECT_DIR$/missialar.txt" />
+        <option value="$PROJECT_DIR$/sirali.js" />
+        <option value="$PROJECT_DIR$/node_modules/crosswords-generator/words.json" />
+        <option value="$PROJECT_DIR$/node_modules/crosswords-generator/example.js" />
+        <option value="$PROJECT_DIR$/sirali2.js" />
+        <option value="$PROJECT_DIR$/missialar2.txt" />
+        <option value="$PROJECT_DIR$/sirali2file" />
+        <option value="$PROJECT_DIR$/1" />
+        <option value="$PROJECT_DIR$/fromx" />
+        <option value="$PROJECT_DIR$/aa.xml" />
+        <option value="$PROJECT_DIR$/fromxml.js" />
+        <option value="$PROJECT_DIR$/55" />
+        <option value="$PROJECT_DIR$/node" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="45" />
+    <option name="y" value="100" />
+    <option name="width" value="1295" />
+    <option name="height" value="785" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vacibler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vacibler" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\toghr\NodejsProjects\krasvordazGenerator\vacibler" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ceb7e483-3a59-4fd9-ae75-81b37984b99a" name="Default Changelist" comment="" />
+      <created>1549875956956</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549875956956</updated>
+      <workItem from="1549875958311" duration="120000" />
+      <workItem from="1549961385398" duration="702000" />
+      <workItem from="1550247199075" duration="1181000" />
+      <workItem from="1550386863654" duration="91000" />
+      <workItem from="1550387271391" duration="33000" />
+      <workItem from="1550684793427" duration="79000" />
+      <workItem from="1550774269751" duration="903000" />
+      <workItem from="1551001122263" duration="1469000" />
+      <workItem from="1551102368277" duration="1033000" />
+      <workItem from="1551117473352" duration="629000" />
+      <workItem from="1551269294691" duration="3024000" />
+      <workItem from="1551287352033" duration="22290000" />
+      <workItem from="1551444747819" duration="4922000" />
+      <workItem from="1551454413014" duration="6816000" />
+      <workItem from="1551527144424" duration="11236000" />
+      <workItem from="1551629686153" duration="2743000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57271000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14563759" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="PlantUML" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wowcavab">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="441" column="61" lean-forward="true" selection-start-line="441" selection-start-column="61" selection-end-line="441" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wowaze25den.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/22">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yarish">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/19">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/18">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/16">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/44">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/45">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cg.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/crosswords-generator/core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9100" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/crosswords-generator/words.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="10" lean-forward="true" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/crosswords-generator/example.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/46">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sirali.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2278">
+          <caret line="227" column="69" selection-start-line="227" selection-start-column="69" selection-end-line="227" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yarish.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/47">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="54" column="14" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sirali2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3179">
+          <caret line="355" column="19" selection-start-line="355" selection-start-column="19" selection-end-line="355" selection-end-column="19" />
+          <folding>
+            <element signature="n#!!block;n#replace#0" />
+            <element signature="n#Point#0" />
+            <element signature="n#Line#0" />
+            <element signature="n#!!block;n#Random#0" />
+            <element signature="n#!!block;n#randompos#0" />
+            <element signature="n#!!block;n#qonsusuaxir#0" />
+            <element signature="n#!!block;n#qonsuevvel#0" />
+            <element signature="n#!!block;n#qonsusaga#0" />
+            <element signature="n#!!block;n#qonsuasagi#0" />
+            <element signature="n#!!block;n#qonsudolu#0" />
+            <element signature="n#!!block;n#qonsuistiqamet#0" />
+            <element signature="n#!!block;n#qonsukesismir#0" />
+            <element signature="n#!!block;n#qonsusuvarf#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1old">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sirali2file.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fromx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aa.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fromxml.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="83" column="31" lean-forward="true" selection-start-line="83" selection-start-column="31" selection-end-line="83" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/55">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -127,7 +127,7 @@ const rl = readline.createInterface({
 
 
 
-let N = 35, M = 35;
+let N = 20, M = 20;
 let D = [], I = [], Z=[], Y =[];
 function check(x, y) {return !(x<0) && !(x>=N) && !(y<0) && !(y>=M)}
 function shuffle(a) {
@@ -242,7 +242,7 @@ var fs = require('fs');
     let STT = require('./suffixtree');
     let ST = new STT.SuffixTree();
     console.log("begin add");
-    ST.addString(kitab);
+    //ST.addString(kitab);
 //    ST.build()
 //    console.log("end add" + "---" + ST.count("İ"));
 //    for(let i = 0; i < T.length; i++) {
@@ -286,7 +286,7 @@ var fs = require('fs');
     }
     let BList = ["FARS","TƏRƏ","QEYR","HALA","HƏVƏ","HƏRƏKƏ","TƏSƏRRÜF","ZƏRF","REFORMASİYA","","","","","","","","","","","","","","","","","","","","","","",""];
     let old = ""
-    for(let i = 1; i <= 42; i++) {
+    for(let i = 1; i <= 0; i++) {
     	//console.log(i + ' yadda qaldi');
     	old = (fs.readFileSync(i + "")) + "";
     	let ar = old.split('\n');
@@ -304,7 +304,7 @@ var fs = require('fs');
       let CAVABLAR = [];
       for(let i = 0; i < BList.length; i++)BlackSet[(BList[i])]=1;
       let SAYLI = [[],[],[],[],[],[],[],[],[],[],[],[]];
-      let SAY = [[],[],[],[0],[0],[301],[300],[500],[0],[0],[0],[0]]//300e qaldirdim ela
+      let SAY = [[],[],[],[0],[0],[301],[300],[500],[301],[0],[0],[0]]//300e qaldirdim ela
       for(let i = 4; i <= 11; i++) {
         let say = 0;
         for(let j = 0; j < T.length && say<=SAY[i][0]; j++) {
