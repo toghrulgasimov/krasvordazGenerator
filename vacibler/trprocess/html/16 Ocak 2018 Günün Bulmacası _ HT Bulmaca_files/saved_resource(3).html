@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<!-- saved from url=(0073)https://htlp.emp.de/?wt_mc=pt.aff.203506.www.reachgroup.com.1.340.&adc=de -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        
+        <title>emp.de - htlp</title>
+        <script>
+            function extractHostname(url) {
+                var hostname;
+                //find & remove protocol (http, ftp, etc.) and get hostname
+                if (url.indexOf("//") > -1) {
+                    hostname = url.split('/')[2];
+                } else {
+                    hostname = url.split('/')[0];
+                }
+
+                //find & remove port number & ?
+                hostname = hostname.split(':')[0];
+                hostname = hostname.split('?')[0];
+                return hostname;
+            }
+
+            function extractDomain(url) {
+                var hostName = extractHostname(url);
+                var domain = hostName;
+
+                if (hostName != null) {
+                    var parts = hostName.split('.').reverse();
+
+                    if (parts != null && parts.length > 1) {
+                        domain = parts[1] + '.' + parts[0];
+
+                        if (hostName.toLowerCase().indexOf('.co.uk') != -1 && parts.length > 2) {
+                          domain = parts[2] + '.' + domain;
+                        }
+                    }
+                }
+                return domain;
+            }
+
+            function setCookie() {
+                var url     = window.location.href;
+                var domain  = extractDomain(url);
+                var d       = new Date();
+                var cname   = 'HtLpTx';
+                var cvalue  = 'Affilinet';
+                d.setTime(d.getTime() + (1*24*60*60*1000)); //24h
+                var expires = "expires=" + d.toGMTString();
+                document.cookie = cname + "=" + cvalue + ";" + expires + ";domain=."+domain+";path=/";
+            }
+        </script>
+    </head>
+    <body onload="setCookie()" marginwidth="0" marginheight="0">
+</body></html>

@@ -1,0 +1,10 @@
+var animation = bodymovin.loadAnimation({
+  container: document.getElementById('bm'),
+  renderer: 'svg',
+  // renderer: 'canvas',
+  // renderer: 'html',
+  loop: false,
+  autoplay: true,
+  path: 'data.json'
+  // prerender: false
+})
